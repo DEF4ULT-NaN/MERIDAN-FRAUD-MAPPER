@@ -8,17 +8,16 @@ dockerfilePath = "backend/Dockerfile"
 buildContext = "."
 
 [deploy]
-# Start command. Railway injects $PORT — uvicorn picks it up via the
-# CMD in the Dockerfile, but we duplicate it here for clarity in the
-# Railway dashboard.
-startCommand = "uvicorn backend.main:app --host 0.0.0.0 --port $PORT"
+# Start command. Use the entrypoint script (not uvicorn directly) so $PORT
+# resolves at runtime and SIGTERM reaches uvicorn for clean shutdowns.
+startCommand = "/entrypoint.sh"
 
-# Healthcheck. /health returns 200 + {status:"ok", model_loaded:true,...}
-# so Railway knows the container is alive. startPeriod gives the GNN model
-# ~90s to load (first boot is slow because of the CPU PyTorch wheel).
+# Healthcheck. /health returns 200 + {status:"ok", model_loaded:true,...}.
+# Start period 120s is generous — covers the first-boot PyTorch load
+# (subsequent boots are ~7s).
 healthcheckPath = "/health"
-healthcheckTimeout = 60
-healthcheckStartPeriod = 90
+healthcheckTimeout = 120
+healthcheckStartPeriod = 120
 
 # Restart policy — if uvicorn crashes (bad request, OOM, etc), restart
 # up to 3 times before Railway marks the deploy as failed.

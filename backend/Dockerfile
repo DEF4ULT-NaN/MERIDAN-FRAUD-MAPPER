@@ -37,14 +37,24 @@ COPY scripts/        ./scripts/
 # $PORT injection. ALLOWED_ORIGINS=* is the hackathon-demo-friendly default
 # — set it to a comma-separated URL list in production to lock CORS down.
 ENV PYTHONUNBUFFERED=1 \
-    PORT=8000 \
+    PORT=8080 \
     ALLOWED_ORIGINS="*"
 
-EXPOSE 8000
+# Railway injects $PORT at runtime. We default to 8080 (Railway's convention)
+# and bind uvicorn to 0.0.0.0 so it's reachable on the platform's healthcheck.
+# IMPORTANT: use exec form so signals (SIGTERM, etc.) propagate to uvicorn
+# properly — shell-form CMD swallows them.
+EXPOSE 8080
 
 # Healthcheck: /health returns 200 with {status:"ok", model_loaded:bool}.
-# Start period 60s gives the model time to load + the sample dataset to warm.
-HEALTHCHECK --interval=30s --timeout=5s --start-period=60s --retries=3 \
+# 90s start-period covers the worst-case PyTorch wheel + gnn.pt load on
+# the first boot. Subsequent boots are ~5-7s.
+HEALTHCHECK --interval=30s --timeout=5s --start-period=90s --retries=3 \
   CMD curl -fsS http://127.0.0.1:${PORT}/health || exit 1
 
-CMD ["sh", "-c", "uvicorn backend.main:app --host 0.0.0.0 --port ${PORT}"]
+# Use a tiny entrypoint script so ${PORT} resolves at container start time
+# (Railway sets it via env). exec form passes control to uvicorn so
+# signals reach the Python process.
+COPY backend/entrypoint.sh /entrypoint.sh
+RUN chmod +x /entrypoint.sh
+ENTRYPOINT ["/entrypoint.sh"]
