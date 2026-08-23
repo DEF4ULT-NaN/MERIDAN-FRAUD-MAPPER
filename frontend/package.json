@@ -1,0 +1,17 @@
+{
+  "name": "fraud-network-mapper-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static single-page demo for the Palantir-style Fraud Network Mapper. The HTML file is fully self-contained (d3 inlined). This package just gives us a `npm run serve` local dev script and lets Render detect the project as a Node static site if we ever switch from a Static Site to a Web Service.",
+  "scripts": {
+    "serve": "http-server -p 5500 -c-1 --cors -a 127.0.0.1",
+    "start": "http-server -p 5500 -c-1 --cors -a 127.0.0.1",
+    "serve:any": "http-server -p 5500 -c-1 --cors -a 0.0.0.0"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

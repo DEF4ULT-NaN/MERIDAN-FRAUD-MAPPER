@@ -1,0 +1,59 @@
+# Python build artefacts
+__pycache__
+**/__pycache__
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+.mypy_cache
+.ruff_cache
+*.egg-info
+.eggs
+build/
+dist/
+
+# IDE / editor junk
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Local virtualenvs (we install inside the image, not from your venv)
+.venv/
+venv/
+env/
+.python-version
+
+# Git metadata
+.git/
+.gitignore
+.gitattributes
+
+# Training data — only data/samples/ is needed at runtime; the full CSVs
+# are 600+ KB and only used by scripts/train_gnn.py (build-time only).
+data/*.csv
+data/graph.json
+data/graph_gnn_scores.json
+data/fraud_report_test.pdf
+data/samples/*.csv
+
+# Verification / debug scripts — never executed by the backend
+scripts/verify_phase_*.py
+scripts/debug_adapter.js
+scripts/generate_synthetic_data.py
+
+# Training history is small but not needed at runtime
+models/training_history.json
+
+# Don't COPY deployment / test artefacts either — keeps the build context small
+backend/Dockerfile
+backend/.dockerignore
+backend/railway.toml
+.claude/
+*.md
+!backend/Dockerfile
+!backend/.dockerignore
+!backend/railway.toml
+!README.md

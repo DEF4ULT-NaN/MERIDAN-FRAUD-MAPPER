@@ -1,0 +1,806 @@
+login_id,account_id,timestamp,ip_address,device_id,user_agent,success
+LOG-9aaf2a6c3d,ACC-10005,2026-02-21T19:24:17,172.20.122.77,dev-c6da46ab,"Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/25.0.843.0 Safari/536.1",True
+LOG-203e65201f,ACC-10005,2026-05-17T04:11:35,192.168.93.187,dev-660f4e48,Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/4.0),True
+LOG-b3d5eb97d4,ACC-10005,2026-01-08T12:28:11,192.168.215.72,dev-08a0d48e,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/5.1),True
+LOG-4beb39919f,ACC-10005,2026-02-13T04:36:58,172.31.14.162,dev-862b40c5,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/56.0.848.0 Safari/536.2",True
+LOG-7f942794cf,ACC-10005,2026-03-31T09:10:06,172.21.168.139,dev-4460a215,Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/4.1),True
+LOG-ba1837e7c2,ACC-10005,2026-02-14T04:40:18,10.86.83.126,dev-2a83cbec,"Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.32.7 (KHTML, like Gecko) Version/4.0.2 Safari/532.32.7",True
+LOG-c6b5405a79,ACC-10006,2026-01-08T10:17:29,172.26.207.139,dev-5641ef66,Opera/8.61.(X11; Linux i686; lb-LU) Presto/2.9.171 Version/10.00,True
+LOG-c9f1dbe57f,ACC-10006,2026-03-26T09:12:50,10.67.45.103,dev-945ceb83,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/10.0n1001.0 Mobile/64T890 Safari/536.0",True
+LOG-b504150276,ACC-10006,2026-03-02T21:50:32,192.168.144.190,dev-3d5bcad1,"Mozilla/5.0 (Linux; Android 1.0) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/13.0.885.0 Safari/531.1",True
+LOG-4b65c35549,ACC-10006,2026-04-10T07:24:15,10.38.108.184,dev-e481dcae,"Mozilla/5.0 (iPhone; CPU iPhone OS 14_2_1 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) CriOS/35.0.856.0 Mobile/37B447 Safari/533.2",True
+LOG-fa51cad30e,ACC-10006,2026-04-22T23:05:42,172.18.249.117,dev-27f3795c,Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/3.1),True
+LOG-0ca3d7eae9,ACC-10006,2026-01-09T14:51:22,172.24.178.219,dev-d33a018e,Opera/8.30.(X11; Linux x86_64; mt-MT) Presto/2.9.163 Version/10.00,True
+LOG-3d3c39b997,ACC-10006,2026-01-01T07:52:54,10.247.33.40,dev-6cf1e246,"Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/534.12.5 (KHTML, like Gecko) Version/5.0 Safari/534.12.5",True
+LOG-ae4a005cdd,ACC-10007,2026-04-23T14:55:29,10.193.220.201,dev-ecd5de2e,Opera/9.21.(X11; Linux i686; brx-IN) Presto/2.9.174 Version/12.00,True
+LOG-b0d8afa479,ACC-10007,2026-03-04T13:47:24,172.19.204.114,dev-63f5ddcd,Opera/8.21.(X11; Linux i686; cmn-TW) Presto/2.9.173 Version/10.00,True
+LOG-ae06b17b15,ACC-10007,2026-03-27T20:36:50,192.168.155.244,dev-ae2ee800,"Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/535.14.6 (KHTML, like Gecko) Version/5.0.3 Safari/535.14.6",True
+LOG-c7784ce894,ACC-10007,2026-04-10T06:14:36,192.168.174.198,dev-5bcb3c89,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/5.1),True
+LOG-955376206e,ACC-10007,2026-05-23T21:49:44,192.168.84.12,dev-035f79bd,Opera/8.34.(Windows NT 11.0; mni-IN) Presto/2.9.168 Version/12.00,True
+LOG-708d8ec739,ACC-10007,2026-01-17T11:10:33,10.201.41.186,dev-b3ab8558,Mozilla/5.0 (Android 13; Mobile; rv:54.0) Gecko/54.0 Firefox/54.0,True
+LOG-3a82cd849d,ACC-10007,2026-05-09T21:46:59,172.30.125.182,dev-3cd94061,Mozilla/5.0 (Windows NT 6.2; ts-ZA; rv:1.9.2.20) Gecko/5568-06-17 23:25:09 Firefox/13.0,True
+LOG-cf77884ea6,ACC-10007,2026-03-07T02:05:25,10.82.102.31,dev-5f3f09d7,Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/3.1),True
+LOG-e74728b808,ACC-10007,2026-05-26T20:33:26,10.16.138.118,dev-1877664b,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/5.0),True
+LOG-4a2ad8ce96,ACC-10009,2026-02-23T07:43:00,10.3.192.213,dev-29147c3c,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/15.0.811.0 Safari/532.2",True
+LOG-713fc7afd7,ACC-10009,2026-05-19T13:21:36,172.28.241.60,dev-afe8292d,Opera/8.84.(Windows 95; mhr-RU) Presto/2.9.177 Version/10.00,True
+LOG-30a67325f0,ACC-10009,2026-02-22T18:17:03,10.37.42.113,dev-bcd043d6,Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/4.1),True
+LOG-7075d3e95d,ACC-10009,2026-04-15T21:17:30,192.168.224.23,dev-6aa20570,Opera/8.27.(Windows NT 11.0; uz-UZ) Presto/2.9.175 Version/10.00,True
+LOG-12bea22020,ACC-10009,2026-01-30T06:55:18,192.168.151.7,dev-e971b622,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_3; rv:1.9.2.20) Gecko/7903-12-17 01:30:40 Firefox/15.0,True
+LOG-60fa63191a,ACC-10009,2026-05-15T18:02:25,10.249.113.5,dev-cb51c34e,Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/5.0),True
+LOG-ccc2decb26,ACC-10017,2026-02-26T01:01:22,172.28.32.69,dev-c2e97c51,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_1) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/49.0.893.0 Safari/534.2",True
+LOG-4c1d10b988,ACC-10017,2026-04-02T00:17:27,192.168.181.44,dev-f8dfc1e4,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_4; rv:1.9.2.20) Gecko/8341-06-07 02:50:27 Firefox/3.6.16,True
+LOG-e89222546a,ACC-10017,2026-05-16T20:59:43,172.16.238.135,dev-3e268f4e,"Mozilla/5.0 (iPad; CPU iPad OS 17_4_1 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/11.7s6084.0 Mobile/27K278 Safari/531.2",True
+LOG-06c3a6e97a,ACC-10017,2026-02-22T20:45:33,192.168.59.211,dev-4945d32b,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/3.1),True
+LOG-b4066d1f0c,ACC-10017,2026-04-06T21:15:09,172.23.154.195,dev-27dbb3f6,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 11.0; Trident/4.0),True
+LOG-c43b2fd7d5,ACC-10017,2026-04-27T03:03:10,192.168.57.118,dev-11e48c44,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/3.0),False
+LOG-8412c45159,ACC-10017,2026-03-25T21:23:58,172.31.113.250,dev-b8534000,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3 rv:2.0; km-KH) AppleWebKit/532.13.3 (KHTML, like Gecko) Version/5.0.5 Safari/532.13.3",True
+LOG-f3da1975d6,ACC-10017,2026-04-28T05:30:34,10.44.149.54,dev-ebaad9ad,Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/3.1),True
+LOG-03d3f1a293,ACC-10017,2026-01-18T17:36:50,10.159.209.49,dev-e0b125a8,Mozilla/5.0 (Windows NT 5.2; li-NL; rv:1.9.1.20) Gecko/3687-11-24 06:50:50 Firefox/7.0,True
+LOG-a66c53667c,ACC-10017,2026-05-11T22:27:29,10.44.23.221,dev-391e7412,Opera/9.52.(Windows 98; Win 9x 4.90; zh-TW) Presto/2.9.179 Version/11.00,True
+LOG-92e2001956,ACC-10017,2026-04-22T16:37:19,10.40.55.33,dev-bf9e2e06,Opera/9.97.(X11; Linux i686; ca-IT) Presto/2.9.163 Version/11.00,True
+LOG-feec798cc2,ACC-10017,2026-01-05T00:40:50,192.168.238.72,dev-2db24666,Opera/9.33.(Windows CE; dz-BT) Presto/2.9.189 Version/11.00,True
+LOG-86026a7d38,ACC-10022,2026-04-01T08:14:14,10.156.236.233,dev-cb8f5506,Mozilla/5.0 (Android 2.0; Mobile; rv:45.0) Gecko/45.0 Firefox/45.0,True
+LOG-17e809288f,ACC-10022,2026-05-12T13:53:44,192.168.154.102,dev-3f587aee,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/14.0.851.0 Mobile/72A752 Safari/531.1",True
+LOG-00430b49da,ACC-10022,2026-01-15T08:13:17,10.47.89.175,dev-6d521743,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/5.0),True
+LOG-53afe6e686,ACC-10024,2026-02-04T02:32:31,10.27.15.120,dev-ff8678f9,"Mozilla/5.0 (iPad; CPU iPad OS 17_4_1 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) CriOS/34.0.869.0 Mobile/02E695 Safari/534.2",True
+LOG-8c9e23b575,ACC-10024,2026-04-15T17:49:20,10.16.45.174,dev-2ff75c46,Opera/9.68.(X11; Linux i686; mg-MG) Presto/2.9.170 Version/11.00,True
+LOG-f52ea8806a,ACC-10024,2026-03-13T01:01:10,10.155.40.168,dev-9886e571,Mozilla/5.0 (Windows NT 5.1; ta-LK; rv:1.9.2.20) Gecko/8609-03-31 10:59:19 Firefox/3.8,True
+LOG-d571df586d,ACC-10024,2026-02-22T22:04:10,172.27.111.138,dev-a375e02c,Opera/9.85.(Windows 95; uz-UZ) Presto/2.9.167 Version/10.00,True
+LOG-bc88f65d7d,ACC-10024,2026-02-19T21:34:02,10.33.137.63,dev-dda661a0,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/3.0),True
+LOG-b55335faf7,ACC-10024,2026-04-04T13:34:25,192.168.235.252,dev-e7669cc4,Opera/8.50.(X11; Linux x86_64; id-ID) Presto/2.9.182 Version/11.00,True
+LOG-18761bb1ca,ACC-10024,2026-02-27T07:27:31,172.26.81.70,dev-e52b2a36,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_6 rv:3.0; pt-PT) AppleWebKit/531.32.1 (KHTML, like Gecko) Version/4.0.3 Safari/531.32.1",True
+LOG-52f24cacf9,ACC-10024,2026-03-07T18:31:38,10.205.214.135,dev-a5838b2d,"Mozilla/5.0 (iPad; CPU iPad OS 12_5_7 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) FxiOS/17.5n1484.0 Mobile/19G876 Safari/533.1",True
+LOG-760c10815d,ACC-10024,2026-04-01T22:34:56,172.17.234.140,dev-e747f6a9,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; wo-SN) AppleWebKit/532.24.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6532.24.4",True
+LOG-7d08672919,ACC-10025,2026-03-30T07:27:23,172.17.47.34,dev-17b03f8b,Mozilla/5.0 (Android 2.3.4; Mobile; rv:45.0) Gecko/45.0 Firefox/45.0,True
+LOG-6949f99dc5,ACC-10025,2026-05-26T10:38:49,10.89.173.209,dev-0b2342bc,Mozilla/5.0 (Android 4.3; Mobile; rv:51.0) Gecko/51.0 Firefox/51.0,True
+LOG-e66a0ab582,ACC-10025,2026-04-24T12:14:50,172.28.147.65,dev-2d5a0d9e,Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/3.1),True
+LOG-b6c07aadc1,ACC-10025,2026-05-04T23:51:18,10.82.9.77,dev-72f2db82,Opera/9.20.(X11; Linux x86_64; tt-RU) Presto/2.9.185 Version/10.00,True
+LOG-a80adb9210,ACC-10030,2026-03-25T12:16:16,10.156.62.115,dev-2d2b3e36,Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/5.1),True
+LOG-d3a02ac2c1,ACC-10030,2026-02-14T08:51:26,10.178.130.29,dev-a66e4dd0,"Mozilla/5.0 (Linux; Android 3.0) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/59.0.841.0 Safari/531.1",True
+LOG-8630113da6,ACC-10030,2026-03-30T01:27:29,172.30.45.216,dev-0f3d1790,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/3.0),True
+LOG-0992ec2613,ACC-10030,2026-05-22T16:14:26,192.168.158.33,dev-c3b982ae,"Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/531.42.5 (KHTML, like Gecko) Version/4.0 Safari/531.42.5",True
+LOG-9141f93ecb,ACC-10030,2026-03-24T20:51:51,192.168.227.114,dev-4cde5ebf,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/40.0.823.0 Safari/535.2",True
+LOG-636525837f,ACC-10030,2026-02-19T11:52:21,10.208.134.137,dev-8dabd804,"Mozilla/5.0 (iPad; CPU iPad OS 5_1_1 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/12.0h3399.0 Mobile/26D546 Safari/531.1",True
+LOG-af8418b5cc,ACC-10033,2026-05-12T16:43:28,192.168.247.114,dev-70d06742,Opera/8.36.(Windows NT 4.0; sv-SE) Presto/2.9.180 Version/12.00,True
+LOG-23264f3af5,ACC-10033,2026-04-05T11:52:22,10.231.119.9,dev-fc8a98bf,Mozilla/5.0 (Windows NT 5.2; tk-TM; rv:1.9.1.20) Gecko/9689-07-25 02:23:31 Firefox/3.6.13,True
+LOG-4533844ea7,ACC-10033,2026-03-01T21:20:18,172.25.108.176,dev-4e7dcdf5,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8 rv:3.0; ckb-IQ) AppleWebKit/535.35.6 (KHTML, like Gecko) Version/5.0 Safari/535.35.6",False
+LOG-0300fa1fd0,ACC-10033,2026-03-18T18:03:39,192.168.140.134,dev-4fcbdb4e,Mozilla/5.0 (Windows CE; gez-ET; rv:1.9.0.20) Gecko/4311-10-25 02:17:57 Firefox/3.8,True
+LOG-d1a6492568,ACC-10033,2026-01-11T15:18:08,172.20.27.104,dev-8fa6e516,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/5.1),False
+LOG-6b26b1f027,ACC-10033,2026-02-28T12:42:57,172.29.159.126,dev-8da4f0db,Opera/8.29.(X11; Linux x86_64; ks-IN) Presto/2.9.178 Version/10.00,True
+LOG-05f6ca2162,ACC-10033,2026-05-30T00:06:28,172.28.130.35,dev-d86e1b40,Opera/8.52.(Windows NT 5.01; bho-IN) Presto/2.9.166 Version/11.00,True
+LOG-905f798331,ACC-10042,2026-01-09T10:53:06,10.186.6.41,dev-1be8fd46,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/3.1),True
+LOG-55f8fa7d9a,ACC-10042,2026-03-14T11:42:54,172.24.49.94,dev-4e8a8d5a,Opera/9.61.(X11; Linux i686; cy-GB) Presto/2.9.161 Version/11.00,True
+LOG-f63d66db9a,ACC-10042,2026-01-04T03:41:39,172.20.32.163,dev-8515fcbf,Opera/9.74.(Windows NT 5.2; tk-TM) Presto/2.9.171 Version/10.00,True
+LOG-cd308186e2,ACC-10042,2026-01-14T02:51:01,172.17.93.153,dev-0e7f1971,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_1 rv:3.0; cmn-TW) AppleWebKit/531.48.7 (KHTML, like Gecko) Version/4.0 Safari/531.48.7",True
+LOG-778608d240,ACC-10042,2026-05-23T07:45:09,172.30.224.19,dev-f1319cfc,"Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/49.0.804.0 Mobile/16K636 Safari/531.0",True
+LOG-f43a5970f2,ACC-10042,2026-01-21T03:06:31,172.27.145.89,dev-ee86266a,Opera/9.44.(X11; Linux x86_64; gl-ES) Presto/2.9.166 Version/10.00,True
+LOG-f56d796dac,ACC-10042,2026-05-23T18:13:10,172.18.172.199,dev-2dc2eefb,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/5667-03-29 00:40:07 Firefox/3.8,True
+LOG-938197f8e9,ACC-10042,2026-01-26T21:44:01,172.31.251.117,dev-ce3b1a99,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/5.1),False
+LOG-409d4cf6e4,ACC-10042,2026-04-17T00:36:30,172.16.30.30,dev-5d991230,Opera/8.14.(X11; Linux i686; tr-TR) Presto/2.9.180 Version/12.00,True
+LOG-bc35210db1,ACC-10042,2026-05-05T19:38:40,10.96.20.146,dev-4ed32fd5,Opera/8.34.(X11; Linux i686; te-IN) Presto/2.9.166 Version/11.00,True
+LOG-ed0681d671,ACC-10045,2026-01-23T20:48:21,192.168.236.109,dev-163397bd,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 11.0; Trident/4.0),True
+LOG-48a2a11b7c,ACC-10045,2026-02-20T13:02:17,192.168.20.7,dev-e450a129,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/4.0),True
+LOG-5984bc4be9,ACC-10045,2026-02-11T15:58:14,172.24.202.32,dev-9eabd8a7,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/3.1),True
+LOG-03696b97d2,ACC-10045,2026-02-25T10:53:04,172.28.150.35,dev-8563ae15,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/5.0),True
+LOG-f2bc929b0f,ACC-10045,2026-04-06T09:09:31,172.19.73.172,dev-10ed5d77,"Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_8 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/34.0.888.0 Mobile/02H156 Safari/532.0",True
+LOG-b7d14fbd4e,ACC-10045,2026-01-27T08:32:24,172.21.115.105,dev-e0d868dd,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/6037-05-15 10:27:04 Firefox/5.0,True
+LOG-02ec834860,ACC-10045,2026-03-29T18:40:17,172.22.173.90,dev-875e1093,"Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/535.33.7 (KHTML, like Gecko) Version/5.1 Safari/535.33.7",True
+LOG-cc5fba8426,ACC-10045,2026-05-19T12:32:40,10.84.17.138,dev-328e0a04,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/3.0),True
+LOG-6cb96e4c34,ACC-10045,2026-01-18T01:08:04,172.19.134.192,dev-b58efa30,Mozilla/5.0 (Android 6.0; Mobile; rv:27.0) Gecko/27.0 Firefox/27.0,True
+LOG-5a199cc105,ACC-10045,2026-03-04T01:23:13,192.168.25.136,dev-c9aeed96,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_0; rv:1.9.2.20) Gecko/3094-03-26 15:07:38 Firefox/7.0,True
+LOG-e06a4e8e32,ACC-10045,2026-05-18T18:41:54,192.168.95.235,dev-7524546c,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/3.1),True
+LOG-b4f3c6f910,ACC-10046,2026-01-25T08:03:54,10.154.46.61,dev-3aeefee5,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Trident/5.1),True
+LOG-1430fefa3a,ACC-10046,2026-05-05T17:30:53,10.10.156.196,dev-ec16b393,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_9; rv:1.9.6.20) Gecko/4055-09-27 07:46:53 Firefox/3.8,True
+LOG-e5d7b04b2e,ACC-10046,2026-04-01T10:56:24,172.16.68.71,dev-462c8da7,Opera/8.48.(X11; Linux i686; oc-FR) Presto/2.9.176 Version/11.00,True
+LOG-b4cb226f92,ACC-10046,2026-03-08T21:33:18,172.25.110.102,dev-8008cfe4,"Mozilla/5.0 (Windows NT 5.0) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/55.0.800.0 Safari/534.0",True
+LOG-5a6dfa6d6e,ACC-10056,2026-01-03T17:38:13,10.18.190.218,dev-337bc4be,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_7 rv:6.0; el-CY) AppleWebKit/534.16.2 (KHTML, like Gecko) Version/4.0 Safari/534.16.2",True
+LOG-8d1f05ab7c,ACC-10056,2026-02-27T06:54:45,172.19.60.101,dev-e3f67e3b,Opera/8.33.(X11; Linux i686; ky-KG) Presto/2.9.173 Version/11.00,True
+LOG-9d78323412,ACC-10056,2026-05-28T01:11:36,192.168.40.151,dev-0c7f86d7,Opera/8.98.(X11; Linux i686; fur-IT) Presto/2.9.169 Version/12.00,True
+LOG-f6cf11ce5e,ACC-10056,2026-04-29T15:15:15,10.242.34.92,dev-82267239,Mozilla/5.0 (Android 8.1.0; Mobile; rv:58.0) Gecko/58.0 Firefox/58.0,True
+LOG-f3d127a326,ACC-10056,2026-03-20T17:43:19,192.168.174.98,dev-6dafbeeb,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/4.0),True
+LOG-77e3df8fa2,ACC-10057,2026-05-15T00:59:10,192.168.63.58,dev-2b90db18,"Mozilla/5.0 (Linux; Android 2.3.2) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/55.0.887.0 Safari/534.0",True
+LOG-bcb5931fae,ACC-10057,2026-02-27T06:58:29,10.253.90.199,dev-8beb5ef3,Opera/9.46.(Windows NT 11.0; nl-AW) Presto/2.9.189 Version/10.00,True
+LOG-f598f174c2,ACC-10057,2026-02-12T21:13:55,10.171.9.60,dev-c5966c7a,Opera/9.63.(X11; Linux i686; wal-ET) Presto/2.9.172 Version/12.00,True
+LOG-d25f789c25,ACC-10057,2026-01-26T22:28:32,172.16.237.231,dev-d489a4d0,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; ss-ZA) AppleWebKit/532.9.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6532.9.5",True
+LOG-247549c2ca,ACC-10057,2026-03-30T08:21:15,192.168.199.87,dev-589d6a5d,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; lv-LV) AppleWebKit/535.13.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6535.13.7",True
+LOG-7f2eb52d44,ACC-10057,2026-04-28T14:56:53,172.30.50.104,dev-bb895365,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/7658-04-07 20:58:56 Firefox/3.6.4,True
+LOG-6a3cfd60eb,ACC-10057,2026-05-17T07:16:51,172.19.147.187,dev-fe22deb5,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/5599-07-14 01:26:12 Firefox/14.0,True
+LOG-bb81f19b18,ACC-10059,2026-03-16T06:29:03,172.27.210.134,dev-37a3f89b,Opera/8.51.(X11; Linux x86_64; cs-CZ) Presto/2.9.164 Version/12.00,True
+LOG-e887c84c0f,ACC-10059,2026-03-15T07:15:37,192.168.77.181,dev-54a65af0,Mozilla/5.0 (Android 1.5; Mobile; rv:22.0) Gecko/22.0 Firefox/22.0,True
+LOG-d5e9e12ee5,ACC-10059,2026-05-13T13:45:14,172.17.237.221,dev-e2e8f5f7,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/533.2.5 (KHTML, like Gecko) Version/4.1 Safari/533.2.5",True
+LOG-2037a43867,ACC-10059,2026-04-15T17:19:17,192.168.97.188,dev-3103d1a2,"Mozilla/5.0 (Linux; Android 1.0) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/52.0.849.0 Safari/536.1",True
+LOG-ee297edcd6,ACC-10059,2026-03-09T12:43:30,10.114.30.162,dev-f9ee1146,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; lij-IT) AppleWebKit/533.35.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6533.35.4",True
+LOG-9c24e50b98,ACC-10059,2026-04-15T07:48:21,172.26.122.143,dev-5fa50d8a,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/3.0),True
+LOG-98fb84c531,ACC-10059,2026-01-25T17:28:49,172.24.172.171,dev-4edf6d40,Mozilla/5.0 (Windows 98; ff-SN; rv:1.9.0.20) Gecko/8709-07-28 01:30:02 Firefox/9.0,True
+LOG-1e087a089f,ACC-10059,2026-02-13T05:48:41,172.28.41.50,dev-73af9e2a,Opera/8.65.(Windows NT 11.0; ckb-IQ) Presto/2.9.171 Version/11.00,True
+LOG-3bb244d402,ACC-10060,2026-02-18T01:29:22,172.26.88.60,dev-76ef33b7,"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/15.0.807.0 Safari/532.0",True
+LOG-8ba42cd495,ACC-10060,2026-01-31T02:55:04,172.19.128.34,dev-6935486c,Mozilla/5.0 (Windows NT 10.0; te-IN; rv:1.9.0.20) Gecko/6234-03-31 16:17:27 Firefox/7.0,True
+LOG-579e53d689,ACC-10060,2026-05-21T18:51:23,172.24.56.53,dev-536a8139,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/6294-03-12 10:05:20 Firefox/3.8,True
+LOG-a503f1c44f,ACC-10060,2026-01-07T06:08:36,192.168.17.133,dev-5dbbb6a2,Opera/8.40.(X11; Linux i686; fy-NL) Presto/2.9.160 Version/10.00,True
+LOG-9b1f08ac08,ACC-10060,2026-03-23T09:48:10,10.5.255.46,dev-00233417,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_1 rv:4.0; nl-AW) AppleWebKit/534.31.7 (KHTML, like Gecko) Version/4.1 Safari/534.31.7",True
+LOG-1cf635d23d,ACC-10060,2026-01-04T00:54:52,172.30.154.36,dev-0154ccb5,"Mozilla/5.0 (iPad; CPU iPad OS 17_1_1 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/48.0.810.0 Mobile/84U156 Safari/536.1",True
+LOG-307e016c68,ACC-10063,2026-03-06T15:43:34,192.168.155.252,dev-cbb8a273,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/5.1),True
+LOG-fe9613acbe,ACC-10063,2026-01-03T23:27:36,10.161.0.183,dev-7e0497a4,"Mozilla/5.0 (Linux; Android 2.3.4) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/34.0.811.0 Safari/535.0",True
+LOG-f41034804c,ACC-10063,2026-02-06T21:34:28,172.31.46.88,dev-cac9ebd5,Mozilla/5.0 (Windows 98; sat-IN; rv:1.9.0.20) Gecko/8158-09-28 06:42:28 Firefox/3.8,True
+LOG-1ce07af896,ACC-10063,2026-01-23T18:43:59,192.168.35.134,dev-4a0fb419,Mozilla/5.0 (Windows 95; se-NO; rv:1.9.1.20) Gecko/3574-12-06 16:33:14 Firefox/3.6.18,True
+LOG-2db50e6c89,ACC-10063,2026-05-27T11:26:09,192.168.173.59,dev-78a5d425,Mozilla/5.0 (Android 7.1; Mobile; rv:56.0) Gecko/56.0 Firefox/56.0,True
+LOG-c5eb934415,ACC-10063,2026-02-17T02:33:58,10.164.157.140,dev-8406d788,"Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/534.40.4 (KHTML, like Gecko) Version/5.1 Safari/534.40.4",True
+LOG-5433b8abad,ACC-10066,2026-04-15T00:43:13,172.20.45.129,dev-0cd4e63b,Opera/8.20.(Windows NT 6.0; the-NP) Presto/2.9.181 Version/10.00,True
+LOG-8d06284436,ACC-10066,2026-01-04T07:53:25,10.27.2.103,dev-05f1d976,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/4.0),True
+LOG-2a3da5cd43,ACC-10066,2026-05-16T12:15:32,192.168.109.15,dev-dfc4a037,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/5.1),True
+LOG-53b46f32b4,ACC-10066,2026-02-04T19:26:38,192.168.228.170,dev-2ea133db,Opera/8.29.(Windows NT 6.2; ff-SN) Presto/2.9.169 Version/10.00,True
+LOG-ac7fe6115f,ACC-10066,2026-01-19T16:51:18,10.209.193.144,dev-ba4e3378,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/6851-01-06 21:49:44 Firefox/14.0,True
+LOG-4c95701c97,ACC-10066,2026-02-16T18:59:46,10.100.238.118,dev-edfe0cd2,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/3.1),True
+LOG-394e0541a7,ACC-10066,2026-04-13T05:27:45,192.168.253.79,dev-365c3570,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/29.0.857.0 Safari/535.2",True
+LOG-8cf26a7a90,ACC-10073,2026-02-13T02:36:00,192.168.174.214,dev-120e0b4c,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.1),True
+LOG-b5dc6a9912,ACC-10073,2026-04-11T17:46:22,172.28.90.225,dev-27856096,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_8 rv:6.0; ky-KG) AppleWebKit/535.44.5 (KHTML, like Gecko) Version/4.0.4 Safari/535.44.5",True
+LOG-49f0a9e624,ACC-10073,2026-05-14T12:44:54,192.168.160.72,dev-2a951ee2,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/3.1),True
+LOG-2ea1ec7457,ACC-10073,2026-03-28T13:28:43,172.26.184.78,dev-dcddcce6,"Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/534.18.3 (KHTML, like Gecko) Version/5.0.2 Safari/534.18.3",True
+LOG-bcfcc10f1a,ACC-10073,2026-03-31T22:01:51,10.149.58.100,dev-25534880,Mozilla/5.0 (Android 4.1.2; Mobile; rv:58.0) Gecko/58.0 Firefox/58.0,True
+LOG-81766d91e9,ACC-10073,2026-04-25T07:01:40,192.168.55.86,dev-81b6e17b,Opera/8.56.(Windows NT 5.01; kn-IN) Presto/2.9.164 Version/10.00,True
+LOG-e6f7eb1364,ACC-10073,2026-01-30T06:31:20,10.35.251.188,dev-793e66ab,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/5.1),True
+LOG-07fd7699b7,ACC-10075,2026-03-18T19:32:51,10.130.162.104,dev-b9948fd9,Opera/8.62.(Windows NT 4.0; dz-BT) Presto/2.9.168 Version/10.00,False
+LOG-3395b363a2,ACC-10075,2026-04-30T05:56:44,172.18.35.13,dev-e174b3f1,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2810-03-02 06:19:44 Firefox/13.0,True
+LOG-88b001cc76,ACC-10075,2026-03-29T07:10:17,10.67.187.164,dev-e0b3ade9,Mozilla/5.0 (Windows NT 10.0; pl-PL; rv:1.9.2.20) Gecko/4114-06-20 07:58:39 Firefox/3.8,True
+LOG-0f9523a180,ACC-10075,2026-03-17T12:06:21,192.168.152.205,dev-3b7e4713,"Mozilla/5.0 (Windows 95) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/26.0.855.0 Safari/535.1",False
+LOG-398b8d6c28,ACC-10075,2026-02-11T17:01:20,172.28.198.145,dev-067d16b9,Opera/9.16.(X11; Linux x86_64; lzh-TW) Presto/2.9.174 Version/10.00,True
+LOG-143c1a1d69,ACC-10075,2026-05-27T02:05:27,10.51.219.155,dev-a538da21,Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/4.1),True
+LOG-75d3f79762,ACC-10075,2026-01-13T03:34:05,172.29.222.68,dev-16385180,"Mozilla/5.0 (Linux; Android 4.1.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/16.0.803.0 Safari/535.1",True
+LOG-f0d8d2e5bd,ACC-10075,2026-04-15T06:05:02,172.30.186.180,dev-977765ed,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/4.1),True
+LOG-bd5c518f9e,ACC-10075,2026-03-05T07:11:59,10.63.32.227,dev-f1a688f6,Opera/8.29.(X11; Linux x86_64; nb-NO) Presto/2.9.181 Version/12.00,True
+LOG-459dc13310,ACC-10076,2026-03-10T08:22:07,172.17.87.45,dev-5658b7ad,"Mozilla/5.0 (Linux; Android 11) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/63.0.808.0 Safari/533.0",True
+LOG-fe41caaab3,ACC-10076,2026-04-30T21:07:07,10.235.81.131,dev-be709903,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/4.1),True
+LOG-46ad2a5391,ACC-10076,2026-05-11T19:09:05,172.26.148.70,dev-688f922e,Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Win 9x 4.90; Trident/5.1),True
+LOG-69a260a913,ACC-10076,2026-02-27T18:11:36,192.168.125.151,dev-ff890af6,Mozilla/5.0 (Android 11; Mobile; rv:13.0) Gecko/13.0 Firefox/13.0,True
+LOG-768aa28460,ACC-10076,2026-04-25T14:23:02,172.31.36.62,dev-72560766,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/38.0.855.0 Safari/533.1",True
+LOG-672be1af44,ACC-10076,2026-01-27T00:14:30,10.252.60.107,dev-c722aea8,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/56.0.889.0 Safari/536.2",True
+LOG-61d59d21b9,ACC-10076,2026-02-16T07:49:46,10.251.16.122,dev-f294c1a6,"Mozilla/5.0 (Linux; Android 4.2) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/15.0.850.0 Safari/533.2",True
+LOG-dddc6ea7a6,ACC-10076,2026-02-05T13:02:57,172.25.206.4,dev-2dce2e6a,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/3.1),True
+LOG-8602f134d8,ACC-10077,2026-04-18T18:04:48,172.26.61.8,dev-23e32119,"Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/532.46.4 (KHTML, like Gecko) Version/5.0 Safari/532.46.4",True
+LOG-7713aee06e,ACC-10077,2026-02-26T02:04:03,10.129.29.254,dev-9723eebb,Opera/9.67.(Windows NT 11.0; pt-PT) Presto/2.9.181 Version/11.00,True
+LOG-a0d1e6f7ee,ACC-10077,2026-03-03T02:02:56,10.216.62.12,dev-e69f2925,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/5.0),True
+LOG-1196613eb8,ACC-10077,2026-05-01T06:39:35,10.84.15.73,dev-94e60d04,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/4.1),True
+LOG-63eaf86cb7,ACC-10077,2026-03-11T17:14:37,10.71.218.198,dev-598d2092,Mozilla/5.0 (Android 8.1.0; Mobile; rv:10.0) Gecko/10.0 Firefox/10.0,True
+LOG-1f9f35435d,ACC-10078,2026-04-22T05:02:27,192.168.213.96,dev-ff4e2ba5,"Mozilla/5.0 (Linux; Android 1.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/56.0.854.0 Safari/535.2",True
+LOG-7a1e399d9e,ACC-10078,2026-05-31T12:17:18,10.132.49.230,dev-a3f4b3ca,Mozilla/5.0 (Android 2.2.3; Mobile; rv:50.0) Gecko/50.0 Firefox/50.0,True
+LOG-d7e0c5eb57,ACC-10078,2026-03-13T05:41:59,10.128.36.42,dev-2552cf25,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/43.0.896.0 Safari/535.0",True
+LOG-97ba18e257,ACC-10078,2026-05-27T22:52:46,192.168.253.30,dev-f10c182b,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; az-AZ) AppleWebKit/534.25.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6534.25.3",False
+LOG-3ac5a44866,ACC-10082,2026-01-24T10:00:27,192.168.220.157,dev-35237935,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/4611-02-09 14:36:18 Firefox/8.0,True
+LOG-c0b914751b,ACC-10082,2026-03-24T00:07:32,192.168.91.94,dev-b992889a,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/3.1),True
+LOG-126abe9836,ACC-10082,2026-04-03T18:14:40,192.168.31.128,dev-162c8fe4,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/5.0),True
+LOG-455b3f4793,ACC-10082,2026-03-16T09:14:06,172.22.234.144,dev-49ff6cac,Mozilla/5.0 (Windows NT 10.0; cy-GB; rv:1.9.2.20) Gecko/8675-11-19 13:49:31 Firefox/9.0,True
+LOG-01b043d4cf,ACC-10082,2026-01-20T21:20:42,10.254.75.14,dev-46b8df71,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/4.1),True
+LOG-b331d8622f,ACC-10082,2026-03-13T08:57:41,192.168.4.74,dev-ed9517e2,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/20.0.870.0 Safari/532.0",True
+LOG-39f82306bb,ACC-10082,2026-01-27T15:04:07,192.168.200.148,dev-99647308,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Trident/4.0),True
+LOG-eedcec1240,ACC-10082,2026-05-27T05:58:11,10.36.78.170,dev-4e9165b4,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_3) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/23.0.892.0 Safari/535.2",True
+LOG-80de94c17a,ACC-10084,2026-03-17T02:47:48,192.168.226.250,dev-881197e3,Opera/9.44.(X11; Linux i686; bem-ZM) Presto/2.9.167 Version/12.00,True
+LOG-22047253b5,ACC-10084,2026-04-21T08:50:40,10.225.156.209,dev-7eeb66e8,Opera/9.27.(X11; Linux x86_64; mi-NZ) Presto/2.9.161 Version/12.00,True
+LOG-6de42049cb,ACC-10084,2026-04-17T02:12:16,192.168.210.195,dev-8aae292d,Mozilla/5.0 (Android 3.2; Mobile; rv:30.0) Gecko/30.0 Firefox/30.0,True
+LOG-2db6c877c7,ACC-10084,2026-05-29T02:33:37,192.168.237.178,dev-8820eb3f,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/41.0.809.0 Mobile/11M920 Safari/532.0",True
+LOG-14d27c7a78,ACC-10084,2026-05-30T14:10:14,172.17.146.234,dev-3945e492,Mozilla/5.0 (Android 3.2.2; Mobile; rv:18.0) Gecko/18.0 Firefox/18.0,True
+LOG-c718c8685a,ACC-10090,2026-01-31T14:32:27,172.20.189.127,dev-7da20a30,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_7 rv:2.0; nso-ZA) AppleWebKit/531.47.1 (KHTML, like Gecko) Version/5.0.1 Safari/531.47.1",True
+LOG-cf6ce7ed7c,ACC-10090,2026-03-01T01:44:40,10.147.80.187,dev-e4d6538c,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/4.1),True
+LOG-b2dca1bc49,ACC-10090,2026-05-16T07:41:12,10.89.151.15,dev-6dc78f47,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_0) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/26.0.815.0 Safari/536.0",True
+LOG-ba279aa265,ACC-10090,2026-02-11T18:04:10,172.29.250.86,dev-0273b579,Mozilla/5.0 (Windows NT 10.0; bn-BD; rv:1.9.0.20) Gecko/6510-02-03 01:27:38 Firefox/3.6.8,True
+LOG-576e56f7db,ACC-10092,2026-01-10T19:59:19,172.23.240.135,dev-1b3c5fb9,Mozilla/5.0 (Windows NT 6.2; ts-ZA; rv:1.9.2.20) Gecko/9072-11-06 22:35:37 Firefox/3.6.18,True
+LOG-345d010ed0,ACC-10092,2026-04-22T10:29:39,10.52.84.211,dev-4e55f9c9,Opera/9.45.(Windows 98; Win 9x 4.90; ln-CD) Presto/2.9.186 Version/12.00,True
+LOG-bfb5e650f7,ACC-10092,2026-05-21T16:05:32,192.168.0.44,dev-53a76172,"Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/535.50.2 (KHTML, like Gecko) Version/5.0 Safari/535.50.2",True
+LOG-0b635e2f57,ACC-10092,2026-01-06T17:23:50,192.168.45.169,dev-bb4f0a48,Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/3.0),True
+LOG-a650cd78fa,ACC-10092,2026-03-24T20:23:54,172.21.57.77,dev-941bffa1,Mozilla/5.0 (Windows NT 5.0; is-IS; rv:1.9.1.20) Gecko/5646-12-06 16:02:49 Firefox/5.0,True
+LOG-a6d382aac8,ACC-10092,2026-02-11T16:38:58,172.31.126.228,dev-dd72a2de,"Mozilla/5.0 (Windows NT 6.2) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/13.0.851.0 Safari/535.0",True
+LOG-dead72dcf0,ACC-10092,2026-02-23T09:30:28,172.24.123.24,dev-af0b9ae6,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/534.40.6 (KHTML, like Gecko) Version/4.0.5 Safari/534.40.6",True
+LOG-0b49e14341,ACC-10092,2026-01-29T20:40:21,10.92.117.43,dev-538debfe,"Mozilla/5.0 (Windows NT 5.01) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/56.0.893.0 Safari/536.1",False
+LOG-0fe3f0f868,ACC-10092,2026-05-01T05:34:18,10.133.18.80,dev-2e7ea345,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/3.1),True
+LOG-aa85b65574,ACC-10092,2026-05-06T16:32:09,172.16.202.241,dev-d8200a23,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/535.20.7 (KHTML, like Gecko) Version/5.1 Safari/535.20.7",True
+LOG-f7ae4fd37c,ACC-10093,2026-01-06T01:27:44,172.21.229.254,dev-cd4284f6,Opera/9.87.(Windows NT 6.2; iw-IL) Presto/2.9.163 Version/11.00,True
+LOG-e0fe7a5760,ACC-10093,2026-02-12T12:42:29,192.168.27.126,dev-33f05ae0,"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/41.0.854.0 Safari/536.2",False
+LOG-2e856dc05b,ACC-10093,2026-02-24T13:14:28,172.19.50.128,dev-288bbd60,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_8) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/21.0.825.0 Safari/533.2",True
+LOG-91f2b63ee8,ACC-10093,2026-04-02T14:12:30,172.29.18.212,dev-ac6a5bcb,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/4.0),True
+LOG-a8e41b4467,ACC-10093,2026-05-29T21:44:36,10.84.73.149,dev-1005312e,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/21.0.815.0 Mobile/43N753 Safari/532.2",True
+LOG-dfe8a6f398,ACC-10097,2026-04-07T08:23:23,192.168.150.8,dev-7be03a5b,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/7701-07-12 13:41:45 Firefox/6.0,True
+LOG-a5a174440a,ACC-10097,2026-05-25T17:33:06,10.151.242.58,dev-7e279ea1,Mozilla/5.0 (Windows NT 6.0; sid-ET; rv:1.9.2.20) Gecko/5869-11-06 09:58:24 Firefox/3.6.9,True
+LOG-6248c45ffb,ACC-10097,2026-03-09T08:15:08,172.30.65.170,dev-a73335fc,Opera/9.89.(X11; Linux x86_64; zh-CN) Presto/2.9.172 Version/11.00,True
+LOG-28ca9a769a,ACC-10097,2026-02-02T14:24:43,172.27.167.181,dev-828557c4,Opera/8.79.(Windows CE; sq-AL) Presto/2.9.183 Version/10.00,True
+LOG-7e5b6cfdd0,ACC-10104,2026-05-06T08:30:12,192.168.237.198,dev-8c047a6a,Opera/9.38.(Windows 98; tr-TR) Presto/2.9.164 Version/12.00,True
+LOG-8083c6aca3,ACC-10104,2026-03-27T18:32:54,172.27.222.235,dev-2472bdfa,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_6 rv:3.0; cs-CZ) AppleWebKit/534.47.1 (KHTML, like Gecko) Version/5.1 Safari/534.47.1",True
+LOG-3ba626fc70,ACC-10104,2026-03-21T01:33:05,192.168.171.185,dev-82650028,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_3 rv:4.0; ka-GE) AppleWebKit/534.23.3 (KHTML, like Gecko) Version/5.0 Safari/534.23.3",True
+LOG-c02d3bb4e8,ACC-10104,2026-05-28T11:29:43,192.168.125.58,dev-5c5977f3,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; it-CH) AppleWebKit/532.46.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6532.46.7",True
+LOG-ec10c1a42c,ACC-10104,2026-03-14T14:32:52,172.20.27.16,dev-508af205,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2 rv:2.0; hsb-DE) AppleWebKit/534.47.2 (KHTML, like Gecko) Version/5.0.1 Safari/534.47.2",True
+LOG-896b848f68,ACC-10104,2026-04-11T01:19:51,172.27.32.191,dev-7e360705,"Mozilla/5.0 (iPad; CPU iPad OS 14_8_1 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/17.4c9646.0 Mobile/20J300 Safari/535.0",True
+LOG-8795a5e2c8,ACC-10104,2026-01-13T17:47:50,172.26.203.212,dev-6799ea04,Opera/8.18.(X11; Linux i686; sl-SI) Presto/2.9.185 Version/10.00,True
+LOG-8cf8b2d12a,ACC-10104,2026-04-09T09:50:13,172.25.140.10,dev-542ad4ed,Mozilla/5.0 (Windows CE; km-KH; rv:1.9.1.20) Gecko/8034-10-17 11:02:39 Firefox/9.0,True
+LOG-74bb6ddb13,ACC-10104,2026-04-12T19:21:03,192.168.160.169,dev-f3f55b45,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/9574-01-25 23:49:38 Firefox/8.0,True
+LOG-3a1db96c1a,ACC-10104,2026-01-06T14:54:29,192.168.119.177,dev-ad0cc8cf,"Mozilla/5.0 (Linux; Android 2.3.4) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/55.0.854.0 Safari/532.0",True
+LOG-e25f9ce66c,ACC-10104,2026-02-08T23:27:16,10.177.218.239,dev-cf1e95ad,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/3.0),True
+LOG-3a1bd6e1f5,ACC-10104,2026-02-18T10:42:32,172.22.189.79,dev-e5d8fc76,"Mozilla/5.0 (Windows NT 4.0) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/58.0.816.0 Safari/531.0",False
+LOG-aeb97f84f7,ACC-10108,2026-05-29T03:27:23,192.168.153.10,dev-02d38dd9,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/5.0),True
+LOG-8592919ee3,ACC-10108,2026-05-12T23:41:21,192.168.77.37,dev-3aef47bf,Opera/8.88.(Windows NT 5.0; yo-NG) Presto/2.9.177 Version/11.00,True
+LOG-3a1b9cf3f9,ACC-10108,2026-05-08T01:53:11,172.19.3.177,dev-eda8d9ba,"Mozilla/5.0 (iPhone; CPU iPhone OS 1_1_5 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/17.0t7429.0 Mobile/53U946 Safari/532.1",True
+LOG-90d0716656,ACC-10108,2026-03-10T23:44:26,172.31.239.221,dev-39230dc1,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/5.1),True
+LOG-5bb9e55000,ACC-10108,2026-03-01T15:07:15,172.22.49.125,dev-d3b118ce,"Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/535.20.1 (KHTML, like Gecko) Version/5.0 Safari/535.20.1",True
+LOG-7316f5aa42,ACC-10108,2026-03-06T08:02:59,172.16.80.232,dev-438cf7d6,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_6 rv:3.0; ks-IN) AppleWebKit/532.43.6 (KHTML, like Gecko) Version/5.0.1 Safari/532.43.6",True
+LOG-3ee8d9f5d7,ACC-10108,2026-04-24T16:57:26,192.168.31.86,dev-acf4b4d4,"Mozilla/5.0 (iPad; CPU iPad OS 12_4_8 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/60.0.813.0 Mobile/48D458 Safari/535.0",True
+LOG-4eedb0a42a,ACC-10108,2026-01-23T20:54:05,172.23.145.235,dev-0b73cd81,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/14.0.845.0 Safari/532.1",True
+LOG-124fb1c865,ACC-10108,2026-05-04T04:30:11,172.17.168.59,dev-91b98e2e,"Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/534.47.1 (KHTML, like Gecko) Version/4.0.5 Safari/534.47.1",True
+LOG-724f43971d,ACC-10108,2026-05-01T12:27:37,172.25.178.78,dev-d2589843,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/5.0),True
+LOG-e377e74a41,ACC-10108,2026-02-07T18:38:23,172.26.249.101,dev-00725830,Opera/9.28.(X11; Linux x86_64; lzh-TW) Presto/2.9.169 Version/10.00,True
+LOG-43a1ec39e9,ACC-10109,2026-04-22T21:39:15,172.23.33.123,dev-cce1d9c6,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; kn-IN) AppleWebKit/534.21.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6534.21.2",True
+LOG-da97b912a1,ACC-10109,2026-04-06T01:35:40,192.168.127.142,dev-a8f602d7,Opera/9.40.(Windows NT 6.1; fo-FO) Presto/2.9.189 Version/10.00,True
+LOG-678d0789a4,ACC-10109,2026-01-18T02:18:08,192.168.237.55,dev-cef67c91,Opera/9.96.(Windows NT 5.01; ig-NG) Presto/2.9.179 Version/11.00,True
+LOG-9780f32d0f,ACC-10109,2026-03-26T05:14:30,172.21.120.148,dev-c79549cf,Mozilla/5.0 (Android 5.0; Mobile; rv:32.0) Gecko/32.0 Firefox/32.0,True
+LOG-e15852d30a,ACC-10109,2026-03-20T07:56:59,192.168.151.114,dev-25b2ba93,"Mozilla/5.0 (Windows CE) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/15.0.842.0 Safari/534.0",True
+LOG-4d4fe2e16e,ACC-10111,2026-05-09T13:00:12,192.168.125.157,dev-ec950167,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/4100-08-10 04:41:58 Firefox/13.0,True
+LOG-c9df60ab25,ACC-10111,2026-01-04T20:00:11,172.21.17.173,dev-003bcdab,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; af-ZA) AppleWebKit/535.27.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6535.27.7",False
+LOG-0519b2b31c,ACC-10111,2026-01-23T11:37:10,192.168.17.230,dev-de269df4,"Mozilla/5.0 (Linux; Android 2.3.6) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/44.0.827.0 Safari/535.2",True
+LOG-7f11ac58bf,ACC-10113,2026-03-30T16:36:54,192.168.30.118,dev-065c19a7,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; dz-BT) AppleWebKit/534.46.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6534.46.5",True
+LOG-476b399cd9,ACC-10113,2026-02-27T11:33:48,172.21.173.184,dev-003bfe55,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/4.0),True
+LOG-e423506136,ACC-10113,2026-01-10T17:23:26,10.135.176.2,dev-30e03012,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/15.0m7028.0 Mobile/68G616 Safari/532.1",True
+LOG-7a8ab0b67a,ACC-10113,2026-02-03T22:10:09,192.168.173.140,dev-cfb4805a,Opera/9.41.(Windows NT 6.0; kn-IN) Presto/2.9.161 Version/10.00,True
+LOG-914ed28f2f,ACC-10113,2026-02-26T10:08:28,10.6.79.93,dev-05cd1a65,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_8) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/43.0.809.0 Safari/534.0",True
+LOG-721ebcc5c7,ACC-10113,2026-05-12T09:57:38,192.168.208.165,dev-8f17b6c7,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_4) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/31.0.816.0 Safari/534.0",True
+LOG-78d18b7521,ACC-10119,2026-05-14T07:50:26,10.235.105.9,dev-1532d7e7,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/4.0),True
+LOG-9410c7a464,ACC-10119,2026-05-11T13:29:19,10.196.146.147,dev-38d70117,Mozilla/5.0 (Windows CE; ml-IN; rv:1.9.1.20) Gecko/2777-09-28 12:24:24 Firefox/3.6.19,True
+LOG-3871461cb8,ACC-10119,2026-05-18T22:41:14,10.81.17.213,dev-94b023d2,"Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/533.21.7 (KHTML, like Gecko) Version/5.0 Safari/533.21.7",True
+LOG-5faa53edb4,ACC-10119,2026-02-04T12:40:02,172.20.119.99,dev-6c2c0bd0,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_5) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/57.0.894.0 Safari/535.2",True
+LOG-67fa67b584,ACC-10119,2026-05-15T19:43:41,192.168.164.134,dev-ff6f56df,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; shs-CA) AppleWebKit/531.38.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6531.38.2",True
+LOG-c2d91c95c6,ACC-10119,2026-05-18T22:29:01,192.168.220.40,dev-d11d8c73,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/5.0),True
+LOG-75f63246df,ACC-10119,2026-03-10T09:32:49,10.148.101.102,dev-92d39829,Opera/9.77.(Windows 95; sa-IN) Presto/2.9.180 Version/12.00,True
+LOG-cbddecc4b6,ACC-10126,2026-01-15T04:52:42,192.168.1.107,dev-210d739b,Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/3.1),True
+LOG-df4f550678,ACC-10126,2026-01-14T01:55:59,10.154.55.201,dev-f3bb7f05,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/16.0.842.0 Safari/532.1",True
+LOG-c3c35eae2c,ACC-10126,2026-02-08T08:01:57,192.168.136.46,dev-defb186c,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/61.0.847.0 Mobile/91B039 Safari/535.2",True
+LOG-0968808434,ACC-10126,2026-04-05T14:28:18,172.27.187.190,dev-659352c9,"Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_6 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) FxiOS/17.5z7454.0 Mobile/98O602 Safari/531.0",True
+LOG-419aa0e743,ACC-10126,2026-03-11T08:23:07,172.27.54.103,dev-3715afa1,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; mk-MK) AppleWebKit/532.19.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6532.19.7",True
+LOG-0f2f297354,ACC-10126,2026-05-08T06:43:31,172.23.130.240,dev-e3ac2190,Opera/9.13.(Windows NT 10.0; mt-MT) Presto/2.9.169 Version/12.00,True
+LOG-822f4afcb9,ACC-10126,2026-02-25T08:50:07,172.30.93.119,dev-4ce62cff,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2; rv:1.9.3.20) Gecko/3101-01-01 06:47:23 Firefox/3.6.7,True
+LOG-bd09d8a973,ACC-10126,2026-02-07T13:46:07,172.24.125.187,dev-aad864f7,"Mozilla/5.0 (Linux; Android 5.1.1) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/40.0.895.0 Safari/536.1",True
+LOG-2ab23c5463,ACC-10126,2026-03-29T12:09:44,172.19.240.17,dev-363f0824,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; tl-PH) AppleWebKit/532.13.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6532.13.3",True
+LOG-66c308592e,ACC-10126,2026-05-09T01:07:49,10.125.28.214,dev-7013e88b,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_2) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/26.0.872.0 Safari/536.0",True
+LOG-7a01eb18f8,ACC-10126,2026-04-24T10:25:45,10.202.33.2,dev-8bdde446,Opera/9.70.(Windows NT 6.0; ta-IN) Presto/2.9.168 Version/10.00,True
+LOG-fd2e8fcd86,ACC-10129,2026-05-04T00:38:10,172.17.106.221,dev-09008c29,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/9.4s2031.0 Mobile/84G907 Safari/532.1",True
+LOG-418ca633e8,ACC-10129,2026-05-25T01:32:59,192.168.66.30,dev-6f5107eb,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; ik-CA) AppleWebKit/533.42.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6533.42.5",True
+LOG-6c94f45025,ACC-10129,2026-04-16T16:51:18,192.168.143.85,dev-47c3cd4a,Mozilla/5.0 (Android 1.5; Mobile; rv:58.0) Gecko/58.0 Firefox/58.0,True
+LOG-526b8abfda,ACC-10129,2026-03-15T03:21:38,192.168.242.144,dev-c970092f,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_4) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/58.0.869.0 Safari/534.2",True
+LOG-56467cc602,ACC-10129,2026-03-12T22:24:22,192.168.227.237,dev-3c1dd1cd,Opera/8.79.(Windows NT 5.0; kn-IN) Presto/2.9.178 Version/12.00,True
+LOG-df546c20a8,ACC-10129,2026-01-16T02:44:56,192.168.20.95,dev-c90d404d,Opera/8.51.(X11; Linux i686; nso-ZA) Presto/2.9.171 Version/12.00,True
+LOG-6fb181a63e,ACC-10129,2026-03-15T01:49:09,172.25.174.20,dev-187c14ab,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.1),True
+LOG-da3dafc27e,ACC-10129,2026-02-13T06:47:08,10.107.145.243,dev-037e1651,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; sat-IN) AppleWebKit/533.36.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6533.36.5",True
+LOG-600f2fc725,ACC-10129,2026-03-10T12:37:26,10.14.67.80,dev-c62a44b9,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/5.0),True
+LOG-426a6cf41a,ACC-10129,2026-03-08T23:58:01,10.198.32.122,dev-6e78ed66,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/30.0.890.0 Mobile/07W066 Safari/535.0",True
+LOG-fd808a2ced,ACC-10129,2026-04-04T14:47:45,192.168.223.145,dev-00a30486,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/3.0),True
+LOG-87e3aade8a,ACC-10144,2026-03-27T19:13:05,10.193.43.85,dev-1d8c8354,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; km-KH) AppleWebKit/532.36.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6532.36.4",True
+LOG-21671df8f7,ACC-10144,2026-03-22T01:00:32,10.105.83.136,dev-751ea4dc,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/5.1),True
+LOG-43ff94b854,ACC-10144,2026-02-28T22:45:08,192.168.35.58,dev-3ce32ef8,"Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/532.16.7 (KHTML, like Gecko) Version/4.0 Safari/532.16.7",False
+LOG-cf9f31524d,ACC-10144,2026-04-12T14:49:49,172.19.55.180,dev-ea5dea13,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/533.11.2 (KHTML, like Gecko) Version/4.0 Safari/533.11.2",True
+LOG-e9c3f7ee95,ACC-10148,2026-01-02T17:36:58,10.131.195.240,dev-bb3c8b8e,"Mozilla/5.0 (iPad; CPU iPad OS 1_1_5 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/12.4t3826.0 Mobile/08F654 Safari/535.1",True
+LOG-64db50956b,ACC-10148,2026-04-23T20:00:54,172.29.128.156,dev-7163223a,Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/4.0),True
+LOG-d0e033e3ae,ACC-10148,2026-04-03T06:55:18,172.17.111.3,dev-746ff5d0,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/5.0),True
+LOG-77ce847b60,ACC-10148,2026-01-31T02:18:53,10.174.49.180,dev-b28d3f48,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/5.1),True
+LOG-cdc56521c6,ACC-10148,2026-01-18T09:00:23,10.145.209.143,dev-49ce6488,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; nl-NL) AppleWebKit/534.43.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6534.43.4",True
+LOG-5635302361,ACC-10148,2026-04-08T01:47:32,10.133.143.188,dev-151bf646,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/534.6.1 (KHTML, like Gecko) Version/4.1 Safari/534.6.1",True
+LOG-dfae7e37a2,ACC-10152,2026-05-29T19:08:22,192.168.52.185,dev-84afa2bb,"Mozilla/5.0 (Linux; Android 13) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/21.0.819.0 Safari/534.0",True
+LOG-e2bff31d87,ACC-10152,2026-03-11T12:13:48,10.195.22.54,dev-682c9c79,"Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/535.50.4 (KHTML, like Gecko) Version/4.0.1 Safari/535.50.4",True
+LOG-1b4efd486b,ACC-10152,2026-05-17T10:07:20,192.168.180.17,dev-81ad884f,Opera/8.35.(Windows NT 10.0; de-LI) Presto/2.9.180 Version/11.00,True
+LOG-5b6e5f66fd,ACC-10152,2026-01-21T05:09:08,10.23.223.108,dev-bd90e9c8,Opera/8.42.(X11; Linux x86_64; so-KE) Presto/2.9.179 Version/11.00,True
+LOG-5e8ae891c8,ACC-10157,2026-03-04T06:44:56,192.168.24.27,dev-89d6dc9c,"Mozilla/5.0 (iPhone; CPU iPhone OS 3_1_3 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/35.0.852.0 Mobile/33L195 Safari/532.2",True
+LOG-e56d640ffa,ACC-10157,2026-05-08T06:25:52,172.25.181.251,dev-3234c2a5,"Mozilla/5.0 (Linux; Android 4.1) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/20.0.896.0 Safari/532.1",False
+LOG-1cf8723295,ACC-10157,2026-03-01T04:33:31,10.143.67.244,dev-d47397df,Mozilla/5.0 (Windows NT 11.0; nl-BE; rv:1.9.1.20) Gecko/8249-04-20 12:44:02 Firefox/3.6.19,True
+LOG-b5b1823423,ACC-10157,2026-03-09T21:47:47,172.26.232.177,dev-59af76bf,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; Trident/3.1),True
+LOG-cabab80d7b,ACC-10157,2026-03-27T20:50:54,192.168.184.66,dev-7c980432,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_4 rv:5.0; crh-UA) AppleWebKit/533.31.4 (KHTML, like Gecko) Version/4.0.1 Safari/533.31.4",True
+LOG-34e3c4bafa,ACC-10157,2026-03-27T12:42:30,172.30.150.222,dev-0e1c63f4,Mozilla/5.0 (Android 6.0.1; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0,False
+LOG-c56afb38b4,ACC-10164,2026-05-16T04:07:37,192.168.194.228,dev-d8929eb5,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_7 rv:2.0; af-ZA) AppleWebKit/531.17.7 (KHTML, like Gecko) Version/4.1 Safari/531.17.7",True
+LOG-92915438fe,ACC-10164,2026-03-18T07:49:25,192.168.73.57,dev-0cccaea0,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/5.0),True
+LOG-141e2763ce,ACC-10164,2026-03-29T13:16:49,172.17.114.210,dev-719aeb27,Mozilla/5.0 (Android 5.1; Mobile; rv:63.0) Gecko/63.0 Firefox/63.0,False
+LOG-03b2f32a47,ACC-10164,2026-03-30T02:18:19,192.168.11.38,dev-abb869c2,Mozilla/5.0 (Windows NT 4.0; tig-ER; rv:1.9.0.20) Gecko/3163-04-21 22:41:13 Firefox/3.8,True
+LOG-d2575320a2,ACC-10164,2026-05-19T09:07:01,172.21.94.220,dev-428a4d52,Opera/8.54.(X11; Linux x86_64; li-BE) Presto/2.9.190 Version/10.00,True
+LOG-f97bf5c9b7,ACC-10164,2026-03-30T06:58:38,172.28.176.195,dev-d7a7fc40,Mozilla/5.0 (Windows NT 4.0; ne-NP; rv:1.9.2.20) Gecko/2157-02-26 10:46:29 Firefox/3.6.18,True
+LOG-a72730cc5a,ACC-10164,2026-03-04T22:17:52,10.233.120.41,dev-91017022,Opera/9.50.(Windows NT 10.0; bo-IN) Presto/2.9.175 Version/10.00,True
+LOG-991f3574cc,ACC-10164,2026-05-19T03:41:21,192.168.101.0,dev-774f278b,"Mozilla/5.0 (iPad; CPU iPad OS 9_3_5 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/12.9j0214.0 Mobile/19I600 Safari/531.1",True
+LOG-e2278a8dd7,ACC-10164,2026-05-20T11:52:07,10.13.147.52,dev-1b607dc0,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_4; rv:1.9.6.20) Gecko/9937-02-08 03:44:41 Firefox/3.6.1,True
+LOG-ac9a635525,ACC-10164,2026-01-18T16:58:55,192.168.78.142,dev-effe7e3f,Opera/9.99.(X11; Linux x86_64; sk-SK) Presto/2.9.181 Version/10.00,True
+LOG-18d3bde4ec,ACC-10164,2026-03-29T06:20:54,10.123.156.49,dev-7b7fa29d,Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/3.1),True
+LOG-06e339ce51,ACC-10164,2026-01-17T13:33:26,192.168.17.22,dev-9d456086,Opera/9.69.(Windows NT 5.0; lt-LT) Presto/2.9.175 Version/10.00,True
+LOG-cb522d2b4e,ACC-10165,2026-01-01T16:27:52,192.168.128.70,dev-807b3c80,"Mozilla/5.0 (iPad; CPU iPad OS 12_4_8 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/18.9b2600.0 Mobile/52A905 Safari/532.1",True
+LOG-8a34e0b5f0,ACC-10165,2026-02-19T03:34:57,10.44.233.163,dev-836612da,Mozilla/5.0 (Windows CE; bo-CN; rv:1.9.1.20) Gecko/7609-03-26 02:16:47 Firefox/3.8,False
+LOG-b4972a8dd0,ACC-10165,2026-04-07T15:06:45,192.168.71.135,dev-96fefd63,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/53.0.891.0 Safari/534.0",True
+LOG-b63e594432,ACC-10165,2026-04-16T12:53:56,172.18.29.162,dev-492435a6,Opera/8.38.(X11; Linux x86_64; nds-NL) Presto/2.9.160 Version/10.00,True
+LOG-c9826782f4,ACC-10165,2026-04-29T01:24:37,192.168.116.203,dev-02b2735d,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/9875-02-14 15:29:23 Firefox/3.6.18,True
+LOG-4a87bfc2ba,ACC-10165,2026-02-16T04:35:36,10.131.215.142,dev-fcc8bc6a,"Mozilla/5.0 (Windows NT 6.2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/35.0.876.0 Safari/535.2",True
+LOG-801e152c70,ACC-10173,2026-03-05T06:39:46,192.168.114.36,dev-229ef0be,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; cmn-TW) AppleWebKit/534.30.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B114 Safari/6534.30.6",True
+LOG-c7d74f784f,ACC-10173,2026-01-14T18:31:47,172.26.252.16,dev-63c9e235,Opera/9.95.(X11; Linux i686; ka-GE) Presto/2.9.176 Version/12.00,True
+LOG-4a94fabaec,ACC-10173,2026-04-14T10:46:27,172.23.77.240,dev-25e927a0,Mozilla/5.0 (Windows NT 6.1; ti-ET; rv:1.9.1.20) Gecko/8129-10-23 10:57:38 Firefox/3.8,True
+LOG-4a0e4e7f1f,ACC-10173,2026-04-25T16:05:49,10.125.104.166,dev-8607eed6,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; ca-IT) AppleWebKit/535.2.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6535.2.6",True
+LOG-c459e28a0e,ACC-10175,2026-03-05T13:49:58,10.69.97.19,dev-45da72e2,Opera/8.75.(X11; Linux x86_64; tk-TM) Presto/2.9.174 Version/10.00,True
+LOG-96e095d8e2,ACC-10175,2026-05-09T04:35:26,192.168.72.114,dev-c859bdc4,Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/5.1),True
+LOG-6d1d3a5a8e,ACC-10175,2026-02-12T06:08:39,192.168.88.56,dev-f356fc8c,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_2) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/58.0.811.0 Safari/532.2",True
+LOG-810eddbcc1,ACC-10175,2026-04-23T18:34:28,192.168.13.199,dev-deae1e46,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0),True
+LOG-1f6e60a9fc,ACC-10175,2026-05-04T12:35:37,10.121.44.100,dev-7ed92b05,Mozilla/5.0 (Windows NT 10.0; wo-SN; rv:1.9.2.20) Gecko/4641-02-28 20:36:52 Firefox/10.0,True
+LOG-2b56d27936,ACC-10175,2026-05-28T00:14:16,10.104.90.156,dev-b903d26e,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/531.15.1 (KHTML, like Gecko) Version/5.1 Safari/531.15.1",True
+LOG-51c368fad1,ACC-10175,2026-01-29T23:23:56,10.55.35.117,dev-d44177e4,"Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/535.3.5 (KHTML, like Gecko) Version/4.0 Safari/535.3.5",True
+LOG-2488c63d82,ACC-10175,2026-02-26T14:30:13,172.18.54.236,dev-4f7641e3,Opera/8.89.(Windows 95; unm-US) Presto/2.9.182 Version/12.00,True
+LOG-5bb1befb4f,ACC-10175,2026-04-23T05:21:20,10.245.81.0,dev-78e6ed41,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/3.0),True
+LOG-b508c6c7f6,ACC-10180,2026-05-08T23:53:16,192.168.80.195,dev-4f676e1c,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Win 9x 4.90; Trident/3.0),True
+LOG-f5e96f6d8d,ACC-10180,2026-02-04T01:25:13,192.168.199.165,dev-42bf5d0f,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/5.0),True
+LOG-e66ad6728d,ACC-10180,2026-05-17T01:50:51,172.25.138.156,dev-7ccc2ac4,"Mozilla/5.0 (iPad; CPU iPad OS 17_2 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/15.1g0880.0 Mobile/56O038 Safari/531.2",True
+LOG-0cc3f59498,ACC-10180,2026-02-05T02:37:54,10.41.241.59,dev-bf412b8a,Opera/8.40.(Windows 98; Win 9x 4.90; fi-FI) Presto/2.9.185 Version/11.00,True
+LOG-cf4237a598,ACC-10180,2026-01-07T10:12:46,192.168.207.100,dev-a66a02ea,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/4.0),True
+LOG-b8c5980627,ACC-10182,2026-03-07T01:03:40,172.20.20.69,dev-2b8bc19f,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/5.1),True
+LOG-3843df443f,ACC-10182,2026-01-20T02:00:10,172.19.255.121,dev-77b2fdfc,Opera/9.15.(Windows NT 5.01; es-PR) Presto/2.9.183 Version/11.00,True
+LOG-4342c8b922,ACC-10182,2026-04-24T10:27:40,10.186.84.26,dev-72fafda1,Opera/9.28.(X11; Linux i686; gd-GB) Presto/2.9.182 Version/10.00,True
+LOG-0a0f1c09a6,ACC-10182,2026-05-31T03:08:41,172.22.127.159,dev-e6fb99c5,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/5.1),True
+LOG-b2c6ae02fe,ACC-10182,2026-02-16T22:51:19,10.164.93.236,dev-238011b3,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/535.20.5 (KHTML, like Gecko) Version/4.1 Safari/535.20.5",True
+LOG-9752421320,ACC-10182,2026-04-25T07:39:14,10.139.93.40,dev-343e44b7,Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/4.0),True
+LOG-51c7be0772,ACC-10182,2026-04-11T23:09:12,172.23.192.27,dev-be4a729a,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/2772-10-15 18:35:50 Firefox/3.8,True
+LOG-52c8d05bf2,ACC-10185,2026-04-15T23:31:42,192.168.115.119,dev-c1ea5202,Opera/9.53.(Windows NT 6.1; sc-IT) Presto/2.9.162 Version/12.00,True
+LOG-7901fd7fec,ACC-10185,2026-02-12T09:45:17,192.168.185.13,dev-703d6c3e,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_3 rv:5.0; pt-BR) AppleWebKit/533.37.3 (KHTML, like Gecko) Version/4.0 Safari/533.37.3",True
+LOG-b8126384e9,ACC-10185,2026-01-21T15:09:34,172.31.193.128,dev-703baa9e,Opera/9.19.(Windows NT 5.0; sr-ME) Presto/2.9.171 Version/12.00,True
+LOG-2cdf18e2a4,ACC-10185,2026-05-19T22:00:25,10.158.0.156,dev-f578e65d,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/48.0.883.0 Safari/534.1",True
+LOG-212904412a,ACC-10185,2026-01-07T18:27:48,10.114.168.196,dev-a60e3eef,"Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/531.22.3 (KHTML, like Gecko) Version/4.0.3 Safari/531.22.3",True
+LOG-3e093bed96,ACC-10186,2026-05-22T07:38:31,10.195.4.5,dev-1fd1deae,Opera/9.25.(X11; Linux i686; mhr-RU) Presto/2.9.165 Version/10.00,True
+LOG-7d5441e3db,ACC-10186,2026-01-14T14:41:17,10.99.40.235,dev-cf284adf,Opera/8.56.(Windows NT 5.01; kl-GL) Presto/2.9.181 Version/10.00,True
+LOG-4b72f063b6,ACC-10186,2026-01-01T15:24:48,192.168.224.174,dev-160ac828,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_8; rv:1.9.4.20) Gecko/2890-06-10 08:45:36 Firefox/3.6.12,True
+LOG-dd396dab6a,ACC-10186,2026-05-14T20:11:25,192.168.102.163,dev-559ec022,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/4.1),True
+LOG-e10af84fec,ACC-10186,2026-04-04T14:35:31,10.99.155.180,dev-a10949db,Opera/8.29.(Windows NT 4.0; pt-BR) Presto/2.9.165 Version/11.00,True
+LOG-c23e3fd677,ACC-10186,2026-04-14T22:41:52,172.31.196.249,dev-f556320d,Opera/9.76.(X11; Linux x86_64; tcy-IN) Presto/2.9.185 Version/11.00,True
+LOG-b28a89c55a,ACC-10186,2026-03-11T16:40:50,172.28.100.81,dev-92510144,Opera/8.54.(X11; Linux x86_64; sw-TZ) Presto/2.9.174 Version/12.00,True
+LOG-1d09c1f4e3,ACC-10186,2026-02-28T19:16:52,172.23.162.184,dev-b2d03093,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 4.0; Trident/4.0),True
+LOG-1a582f72de,ACC-10186,2026-05-03T18:36:12,192.168.129.161,dev-a79caaf9,"Mozilla/5.0 (Linux; Android 1.6) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/28.0.856.0 Safari/533.0",True
+LOG-10463f31f1,ACC-10192,2026-04-05T01:30:12,172.17.203.72,dev-4a799406,Opera/8.14.(X11; Linux x86_64; fr-CH) Presto/2.9.187 Version/10.00,True
+LOG-59e1052330,ACC-10192,2026-03-26T15:16:42,10.202.185.71,dev-442a4315,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/5.1),True
+LOG-e126844e19,ACC-10192,2026-04-29T08:09:58,192.168.169.110,dev-96b43eb5,"Mozilla/5.0 (Windows 95) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/62.0.840.0 Safari/535.0",True
+LOG-1d776bb55d,ACC-10192,2026-03-17T05:05:24,10.246.199.232,dev-842fb5bb,Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/4.0),True
+LOG-62bb85501d,ACC-10192,2026-03-30T21:13:26,10.144.73.47,dev-0006c399,"Mozilla/5.0 (Linux; Android 3.2) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/48.0.887.0 Safari/534.1",True
+LOG-b58d70b11e,ACC-10192,2026-05-03T17:25:54,10.191.139.156,dev-1c8d1bcc,Opera/9.14.(X11; Linux i686; nn-NO) Presto/2.9.179 Version/11.00,True
+LOG-2f89b1d64a,ACC-10192,2026-02-22T08:52:03,172.31.203.105,dev-f6dcfaeb,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2551-10-30 03:51:13 Firefox/3.8,True
+LOG-bd69af320e,ACC-10192,2026-01-25T16:50:59,172.31.235.55,dev-0ea2bf9a,Opera/8.70.(X11; Linux x86_64; af-ZA) Presto/2.9.172 Version/10.00,False
+LOG-1397624419,ACC-10192,2026-04-21T10:10:29,192.168.164.3,dev-99e62da6,Opera/8.62.(Windows NT 6.1; fil-PH) Presto/2.9.163 Version/12.00,True
+LOG-411f3cc945,ACC-10192,2026-01-27T12:08:35,10.196.27.217,dev-8e55246f,"Mozilla/5.0 (Linux; Android 9) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/16.0.806.0 Safari/531.2",True
+LOG-9d2911963b,ACC-10192,2026-04-01T09:32:49,192.168.12.89,dev-5a81cef7,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/4.1),True
+LOG-4c8c1b273d,ACC-10192,2026-02-03T05:51:21,172.18.181.67,dev-77f19200,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/3.1),True
+LOG-b062b79029,ACC-10193,2026-02-24T05:01:50,10.85.160.76,dev-db15418b,Mozilla/5.0 (Android 12.1; Mobile; rv:38.0) Gecko/38.0 Firefox/38.0,False
+LOG-d611b565cf,ACC-10193,2026-03-25T03:08:20,192.168.170.139,dev-f3873b9f,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; tg-TJ) AppleWebKit/533.14.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6533.14.5",True
+LOG-d963e49dfa,ACC-10193,2026-02-17T21:29:30,172.29.160.9,dev-0a349b92,"Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/531.10.4 (KHTML, like Gecko) Version/5.0.1 Safari/531.10.4",True
+LOG-080f455e8b,ACC-10193,2026-03-26T07:44:44,192.168.110.249,dev-28261309,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/28.0.842.0 Safari/533.2",True
+LOG-47ec7b58d9,ACC-10193,2026-04-25T21:51:20,10.80.182.169,dev-efb3c974,Opera/8.83.(X11; Linux i686; iw-IL) Presto/2.9.163 Version/11.00,True
+LOG-66b94da34a,ACC-10193,2026-04-22T09:38:21,10.70.95.45,dev-befccba6,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; nb-NO) AppleWebKit/532.6.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6532.6.4",True
+LOG-3158138e7e,ACC-10193,2026-03-23T02:57:28,192.168.247.12,dev-8ecca009,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_3 rv:4.0; vi-VN) AppleWebKit/531.30.3 (KHTML, like Gecko) Version/4.0 Safari/531.30.3",True
+LOG-5db864ed50,ACC-10193,2026-01-08T18:41:13,172.20.128.204,dev-4abbad68,Opera/8.58.(Windows 95; tig-ER) Presto/2.9.176 Version/10.00,True
+LOG-e46079b7e5,ACC-10193,2026-05-23T10:14:50,192.168.191.14,dev-948e1b46,Opera/9.35.(X11; Linux x86_64; ms-MY) Presto/2.9.188 Version/12.00,True
+LOG-fddc229c75,ACC-10193,2026-01-07T12:40:59,10.208.90.0,dev-20a851f3,"Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/534.30.1 (KHTML, like Gecko) Version/5.0.3 Safari/534.30.1",True
+LOG-d3602dd768,ACC-10196,2026-01-27T21:01:04,172.18.18.71,dev-15ed377c,Opera/8.84.(X11; Linux i686; ta-IN) Presto/2.9.175 Version/11.00,True
+LOG-cea41c9937,ACC-10196,2026-02-16T08:06:32,192.168.94.221,dev-5f79852e,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/6979-04-07 00:49:51 Firefox/3.8,True
+LOG-6d3f58b9b4,ACC-10196,2026-05-07T00:44:17,172.17.211.45,dev-6af66226,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/4.0),True
+LOG-9e23cdf29a,ACC-10196,2026-05-27T01:51:56,172.16.50.55,dev-84fd8e79,"Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/535.50.3 (KHTML, like Gecko) Version/5.0.5 Safari/535.50.3",True
+LOG-a041a8ad83,ACC-10196,2026-05-17T11:29:19,192.168.166.148,dev-d3379baa,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/533.5.5 (KHTML, like Gecko) Version/5.0.5 Safari/533.5.5",True
+LOG-bcb04a71fe,ACC-10196,2026-05-25T16:01:46,192.168.167.161,dev-12a99a20,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; ur-PK) AppleWebKit/531.23.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6531.23.3",True
+LOG-fd933d4742,ACC-10203,2026-03-12T03:08:37,10.253.126.200,dev-a87e64e6,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_2 rv:2.0; oc-FR) AppleWebKit/532.38.5 (KHTML, like Gecko) Version/5.0.2 Safari/532.38.5",True
+LOG-cdd6797363,ACC-10203,2026-03-11T03:00:25,192.168.239.80,dev-19043282,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_1; rv:1.9.2.20) Gecko/6590-03-15 15:46:52 Firefox/10.0,False
+LOG-fc00aac4c6,ACC-10203,2026-02-26T15:15:11,192.168.175.175,dev-c98dd2c8,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4 rv:3.0; eo-US) AppleWebKit/534.21.3 (KHTML, like Gecko) Version/5.1 Safari/534.21.3",True
+LOG-ea5fa3e4cb,ACC-10203,2026-01-15T22:02:17,192.168.108.24,dev-b8ee2e37,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/5.0),True
+LOG-5a37917528,ACC-10203,2026-05-29T19:52:50,192.168.45.144,dev-c5eaec47,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/15.4k1782.0 Mobile/89V586 Safari/536.0",True
+LOG-d943adaf2a,ACC-10203,2026-05-29T11:42:38,172.27.148.149,dev-c73e481e,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/18.0.800.0 Safari/534.2",True
+LOG-da1d000f2b,ACC-10203,2026-05-27T03:30:11,172.17.83.175,dev-b404edbe,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/4.0),True
+LOG-abdbe1adf6,ACC-10211,2026-04-26T01:23:51,10.24.184.17,dev-ba260328,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/15.6l5764.0 Mobile/67H777 Safari/534.2",True
+LOG-1ce37b89e4,ACC-10211,2026-05-14T14:16:18,10.190.48.129,dev-da625d50,Mozilla/5.0 (Android 2.3.4; Mobile; rv:43.0) Gecko/43.0 Firefox/43.0,True
+LOG-094a7d2c08,ACC-10211,2026-03-01T04:59:42,10.215.18.212,dev-91ae3da4,Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/5.1),True
+LOG-8662bdc4dd,ACC-10211,2026-02-02T23:13:43,192.168.232.63,dev-43eb2d6f,Mozilla/5.0 (Android 5.1; Mobile; rv:47.0) Gecko/47.0 Firefox/47.0,False
+LOG-c54f509140,ACC-10211,2026-03-05T07:48:52,192.168.152.216,dev-7969de99,Opera/8.13.(Windows NT 10.0; kok-IN) Presto/2.9.167 Version/12.00,False
+LOG-a24eabf809,ACC-10211,2026-05-08T17:25:12,172.27.218.83,dev-4e362307,Mozilla/5.0 (Windows 95; cy-GB; rv:1.9.1.20) Gecko/9764-11-12 07:39:24 Firefox/3.6.17,True
+LOG-a4162e663b,ACC-10211,2026-04-21T07:18:07,192.168.39.71,dev-52df6fde,Opera/9.15.(Windows NT 6.2; ast-ES) Presto/2.9.167 Version/11.00,True
+LOG-94c6a38c17,ACC-10215,2026-05-08T21:37:40,172.25.11.197,dev-273ecb47,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/61.0.898.0 Safari/532.1",True
+LOG-3e267b19dd,ACC-10215,2026-05-06T02:37:36,10.158.150.141,dev-bb9e5348,"Mozilla/5.0 (Linux; Android 3.2.4) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/39.0.830.0 Safari/536.0",True
+LOG-19596ace42,ACC-10215,2026-05-21T06:58:22,192.168.197.8,dev-b67d8c9f,Opera/9.49.(Windows NT 5.2; eu-ES) Presto/2.9.175 Version/10.00,True
+LOG-1531799d81,ACC-10215,2026-01-04T20:46:53,192.168.166.194,dev-9513587f,"Mozilla/5.0 (Linux; Android 2.3.6) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/61.0.804.0 Safari/532.0",True
+LOG-11cdafccad,ACC-10215,2026-01-17T07:08:24,172.24.162.85,dev-31a0599e,"Mozilla/5.0 (Linux; Android 10) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/55.0.822.0 Safari/533.2",True
+LOG-93a027c886,ACC-10215,2026-02-27T20:41:00,10.207.75.208,dev-01ed2c8a,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/4.1),True
+LOG-f862009c55,ACC-10215,2026-03-21T00:47:21,172.19.8.38,dev-3ec36849,Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/4.1),True
+LOG-e6ccb60441,ACC-10218,2026-01-13T21:17:37,172.23.108.73,dev-b71a12f2,Opera/9.29.(X11; Linux x86_64; lij-IT) Presto/2.9.166 Version/12.00,True
+LOG-0bcb7e9a7c,ACC-10218,2026-04-27T22:03:49,192.168.182.117,dev-580a66a9,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_8 rv:5.0; mr-IN) AppleWebKit/531.13.2 (KHTML, like Gecko) Version/4.0.5 Safari/531.13.2",True
+LOG-46e42501fe,ACC-10218,2026-04-17T08:35:46,10.29.76.190,dev-c2c3f73a,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/4.0),True
+LOG-0d484f2660,ACC-10218,2026-03-30T00:21:10,172.26.20.24,dev-bac02aa5,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_1) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/43.0.815.0 Safari/535.0",True
+LOG-453355d0ba,ACC-10218,2026-05-28T23:03:46,172.24.221.133,dev-34350dfb,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_6 rv:5.0; os-RU) AppleWebKit/534.22.6 (KHTML, like Gecko) Version/5.0.2 Safari/534.22.6",True
+LOG-84ebc8ee6f,ACC-10218,2026-05-05T14:02:16,172.25.89.147,dev-6866f263,Opera/8.34.(Windows 98; el-GR) Presto/2.9.177 Version/10.00,True
+LOG-6f5b54104e,ACC-10218,2026-03-28T02:25:00,172.22.190.26,dev-9751937f,"Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/532.23.7 (KHTML, like Gecko) Version/4.0.5 Safari/532.23.7",True
+LOG-d932f38e4d,ACC-10218,2026-01-27T10:14:08,172.26.131.247,dev-ce7427f8,Opera/9.81.(X11; Linux x86_64; lzh-TW) Presto/2.9.182 Version/11.00,False
+LOG-dd79c67caf,ACC-10218,2026-02-08T20:25:06,172.17.164.105,dev-98fac649,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/11.5f3764.0 Mobile/52H481 Safari/531.1",True
+LOG-ed513dd8b1,ACC-10218,2026-03-02T22:02:58,192.168.121.53,dev-defd95fa,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/3.1),True
+LOG-c59e592cf4,ACC-10218,2026-01-22T12:29:48,192.168.250.72,dev-f485bfb2,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/4.1),True
+LOG-cd7ee071cf,ACC-10221,2026-02-02T23:38:06,10.75.165.186,dev-dec5b834,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/4.1),True
+LOG-b929d0127d,ACC-10221,2026-03-07T20:40:41,10.211.145.175,dev-fe5c4e3a,"Mozilla/5.0 (Windows NT 6.2) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/13.0.888.0 Safari/532.2",True
+LOG-25c8578864,ACC-10221,2026-01-26T14:47:22,192.168.180.171,dev-dfa33807,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; nb-NO) AppleWebKit/535.33.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6535.33.1",True
+LOG-7e736e95af,ACC-10221,2026-05-18T22:01:51,10.212.33.127,dev-c10c1db3,"Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/532.6.7 (KHTML, like Gecko) Version/5.1 Safari/532.6.7",True
+LOG-56afffa652,ACC-10221,2026-01-28T12:48:57,10.254.136.72,dev-80dc9c43,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/61.0.873.0 Safari/536.0",True
+LOG-43b9278283,ACC-10221,2026-03-02T19:56:31,192.168.111.21,dev-0a923fdd,Mozilla/5.0 (Android 3.2.1; Mobile; rv:55.0) Gecko/55.0 Firefox/55.0,False
+LOG-d5099a4aba,ACC-10221,2026-01-25T19:55:27,172.27.16.187,dev-0f328bc6,Mozilla/5.0 (Android 4.2; Mobile; rv:44.0) Gecko/44.0 Firefox/44.0,True
+LOG-e05d31d42f,ACC-10226,2026-02-19T11:44:04,172.16.24.158,dev-8eb8b8d7,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/5.0),True
+LOG-80378ab74a,ACC-10226,2026-05-30T06:09:12,172.25.101.178,dev-9ca17313,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/22.0.827.0 Safari/532.1",True
+LOG-96889bd11e,ACC-10226,2026-01-23T02:58:40,172.16.134.123,dev-716e7d2f,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/3.1),True
+LOG-56675fc0d8,ACC-10226,2026-03-31T21:10:20,192.168.155.31,dev-a790b71c,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; nan-TW) AppleWebKit/532.8.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6532.8.4",True
+LOG-371954122b,ACC-10226,2026-02-05T09:09:05,172.27.102.194,dev-804d7f98,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/14.0.851.0 Safari/531.0",True
+LOG-74532e255d,ACC-10226,2026-01-09T18:55:15,192.168.111.96,dev-01f8ff30,Opera/9.75.(Windows NT 5.1; dv-MV) Presto/2.9.169 Version/11.00,True
+LOG-7130daf002,ACC-10226,2026-05-17T18:38:31,192.168.19.166,dev-66a16940,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_3 rv:6.0; hy-AM) AppleWebKit/532.16.3 (KHTML, like Gecko) Version/5.0 Safari/532.16.3",True
+LOG-7dbff9ee08,ACC-10226,2026-04-25T00:35:21,10.9.78.167,dev-48f1ba1a,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/5.1),True
+LOG-2676e24f60,ACC-10229,2026-01-23T16:59:00,10.106.4.191,dev-94b26f4f,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_1) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/13.0.808.0 Safari/534.2",True
+LOG-0365944cc4,ACC-10229,2026-05-06T11:24:58,172.24.0.102,dev-ce1cc22f,"Mozilla/5.0 (Windows NT 11.0) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/34.0.852.0 Safari/533.0",True
+LOG-c9a8f7a8d0,ACC-10229,2026-05-16T10:39:10,172.19.128.109,dev-ba6d40e6,Mozilla/5.0 (Android 12.1; Mobile; rv:48.0) Gecko/48.0 Firefox/48.0,True
+LOG-912398b37d,ACC-10229,2026-02-01T07:52:05,192.168.252.132,dev-7feff405,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.01; Trident/3.1),True
+LOG-ae024a5c10,ACC-10229,2026-02-07T07:43:22,192.168.59.14,dev-b6fb7a97,Opera/8.21.(X11; Linux i686; ckb-IQ) Presto/2.9.163 Version/11.00,True
+LOG-f74ce4bdd8,ACC-10229,2026-03-27T01:44:37,10.134.180.78,dev-8ebe6e14,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/17.0.886.0 Safari/532.1",True
+LOG-0cac45fc38,ACC-10229,2026-02-12T15:53:13,192.168.2.132,dev-78162f41,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_5; rv:1.9.5.20) Gecko/2798-09-20 07:53:46 Firefox/3.6.16,True
+LOG-91f4ccf92b,ACC-10229,2026-05-14T00:12:38,10.29.79.248,dev-e05e04e4,Opera/9.36.(X11; Linux i686; iw-IL) Presto/2.9.163 Version/11.00,True
+LOG-3937cea942,ACC-10229,2026-04-27T21:59:23,172.21.133.89,dev-c7cb066a,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/3.1),True
+LOG-34861d9519,ACC-10229,2026-05-19T21:04:10,172.25.85.32,dev-1b096933,Opera/8.26.(X11; Linux x86_64; dz-BT) Presto/2.9.189 Version/12.00,True
+LOG-6dc9c8372b,ACC-10230,2026-02-03T15:35:42,192.168.50.18,dev-b7e094bc,Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Win 9x 4.90; Trident/3.1),True
+LOG-ac2eaa18ed,ACC-10230,2026-04-28T14:59:41,192.168.163.31,dev-7c3ec366,Mozilla/5.0 (Android 2.0.1; Mobile; rv:66.0) Gecko/66.0 Firefox/66.0,True
+LOG-0d99b37608,ACC-10230,2026-03-22T18:37:39,10.116.112.159,dev-197a12b5,"Mozilla/5.0 (Windows NT 6.2) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/27.0.847.0 Safari/533.0",True
+LOG-24315cadd4,ACC-10230,2026-04-06T20:55:32,172.18.114.182,dev-2e3072f4,Opera/8.70.(X11; Linux x86_64; bem-ZM) Presto/2.9.160 Version/12.00,True
+LOG-443dd6da03,ACC-10230,2026-02-10T16:01:41,10.59.44.177,dev-e147840a,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_9 rv:2.0; tt-RU) AppleWebKit/533.40.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.40.4",True
+LOG-6b98841abc,ACC-10231,2026-01-07T04:59:27,10.88.4.191,dev-6f2190d0,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/5.0),True
+LOG-4235068eae,ACC-10231,2026-03-07T13:57:28,10.137.239.232,dev-da2f71b5,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/38.0.864.0 Safari/536.2",True
+LOG-600f027989,ACC-10231,2026-04-30T22:03:06,10.248.218.252,dev-8d918ae4,Opera/9.64.(Windows NT 5.0; aa-ET) Presto/2.9.182 Version/10.00,True
+LOG-a444830335,ACC-10231,2026-04-20T03:01:24,10.235.197.210,dev-d1f94dfa,"Mozilla/5.0 (Linux; Android 4.3) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/59.0.819.0 Safari/533.0",True
+LOG-3194cf71df,ACC-10231,2026-02-20T01:32:17,192.168.246.89,dev-42944e6c,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/5.1),True
+LOG-9bd406402a,ACC-10231,2026-03-10T23:32:34,10.147.49.174,dev-024e9731,Mozilla/5.0 (Windows NT 10.0; fil-PH; rv:1.9.0.20) Gecko/3175-12-06 18:04:19 Firefox/3.6.11,True
+LOG-9f21421c33,ACC-10231,2026-05-30T12:54:08,192.168.37.181,dev-5e899fe0,Mozilla/5.0 (Windows NT 11.0; da-DK; rv:1.9.0.20) Gecko/3869-07-22 16:43:07 Firefox/4.0,True
+LOG-d9cd213ae4,ACC-10231,2026-02-21T22:35:58,192.168.225.20,dev-c77b5baa,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_6 rv:2.0; cs-CZ) AppleWebKit/532.31.5 (KHTML, like Gecko) Version/4.0 Safari/532.31.5",True
+LOG-34a59d9bba,ACC-10231,2026-05-15T00:15:53,10.38.38.146,dev-dfcc80a2,Opera/8.66.(X11; Linux x86_64; ig-NG) Presto/2.9.177 Version/10.00,True
+LOG-93ba8fc873,ACC-10231,2026-04-28T08:11:35,192.168.224.22,dev-75c3a47e,"Mozilla/5.0 (iPad; CPU iPad OS 3_2_2 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) FxiOS/11.5a4077.0 Mobile/94L624 Safari/536.1",True
+LOG-173dcbb9fc,ACC-10231,2026-05-18T04:05:07,172.21.79.160,dev-cd28b4f2,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/5.1),True
+LOG-7bc97827b3,ACC-10232,2026-05-30T08:49:18,172.23.12.7,dev-3cbdbaba,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/27.0.862.0 Safari/535.0",True
+LOG-8dd0deb9f6,ACC-10232,2026-02-17T15:15:20,10.189.252.182,dev-6f13c22d,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_4 rv:5.0; fil-PH) AppleWebKit/532.3.4 (KHTML, like Gecko) Version/4.1 Safari/532.3.4",True
+LOG-be81da6c38,ACC-10232,2026-04-02T23:25:52,172.29.150.81,dev-f71f198f,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/5.0),True
+LOG-d2d239452f,ACC-10232,2026-04-09T01:34:35,172.23.0.195,dev-0d1c4c6a,Opera/9.30.(X11; Linux x86_64; tk-TM) Presto/2.9.164 Version/10.00,True
+LOG-da2d16a68a,ACC-10232,2026-02-21T15:43:21,192.168.176.240,dev-1d9956b6,Opera/9.11.(X11; Linux i686; he-IL) Presto/2.9.182 Version/12.00,True
+LOG-91895c6275,ACC-10232,2026-05-27T13:50:01,192.168.212.45,dev-51d90882,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; yo-NG) AppleWebKit/533.18.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6533.18.3",True
+LOG-c4b4a1bccc,ACC-10232,2026-05-03T05:24:17,172.27.214.64,dev-963cc3bf,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0),True
+LOG-421513a09d,ACC-10232,2026-01-30T10:33:34,192.168.24.213,dev-1dbf4f15,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_5) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/60.0.880.0 Safari/536.1",True
+LOG-3ceabe55ab,ACC-10232,2026-04-13T20:20:57,172.27.127.204,dev-f2db51f8,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/3.0),True
+LOG-08a7df0e0d,ACC-10233,2026-03-07T16:36:33,172.25.6.150,dev-218302d0,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; my-MM) AppleWebKit/535.39.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6535.39.2",True
+LOG-29e0db6fa1,ACC-10233,2026-05-30T23:31:02,10.57.101.223,dev-26e9b24d,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/3555-02-26 22:01:13 Firefox/3.8,True
+LOG-be15e2498b,ACC-10233,2026-01-12T22:27:47,192.168.234.201,dev-2a73baa8,Opera/8.62.(Windows 95; et-EE) Presto/2.9.169 Version/11.00,True
+LOG-00994291be,ACC-10233,2026-01-08T04:52:09,192.168.149.197,dev-f9ed7c3b,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.1),True
+LOG-dcbb9261da,ACC-10234,2026-03-08T19:53:22,10.123.241.193,dev-ea5932c4,Opera/8.84.(X11; Linux i686; ig-NG) Presto/2.9.184 Version/11.00,False
+LOG-2c114eabf8,ACC-10234,2026-02-24T07:52:21,172.26.99.62,dev-92b1b738,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; apn-IN) AppleWebKit/531.46.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6531.46.7",True
+LOG-8faf8f3de9,ACC-10234,2026-04-29T12:40:30,192.168.253.25,dev-0475a650,"Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/531.42.4 (KHTML, like Gecko) Version/4.0.4 Safari/531.42.4",True
+LOG-ffe9fa5332,ACC-10234,2026-05-16T23:36:41,172.19.48.13,dev-36b8c074,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_6 rv:5.0; nhn-MX) AppleWebKit/534.8.4 (KHTML, like Gecko) Version/5.1 Safari/534.8.4",True
+LOG-6f6fbbceeb,ACC-10234,2026-05-06T00:41:42,10.129.152.186,dev-9968d89c,Mozilla/5.0 (Android 2.3.3; Mobile; rv:39.0) Gecko/39.0 Firefox/39.0,True
+LOG-7a1439ae7b,ACC-10234,2026-04-16T17:12:20,10.186.250.36,dev-47a46e03,"Mozilla/5.0 (iPad; CPU iPad OS 12_4_8 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/30.0.895.0 Mobile/55J449 Safari/536.0",True
+LOG-dd50cedf9d,ACC-10234,2026-05-01T00:57:44,172.26.199.77,dev-b5b30308,Opera/9.98.(Windows NT 11.0; wa-BE) Presto/2.9.166 Version/10.00,True
+LOG-99972d1eab,ACC-10234,2026-05-16T10:27:01,172.16.26.105,dev-a3ec8147,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/4.0),True
+LOG-61bb04ee55,ACC-10237,2026-01-23T20:43:06,172.24.248.240,dev-2f8c8bab,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/53.0.898.0 Safari/535.2",True
+LOG-46907f64d7,ACC-10237,2026-03-14T17:06:32,172.16.119.65,dev-6954d812,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_6 rv:3.0; bn-IN) AppleWebKit/535.3.2 (KHTML, like Gecko) Version/5.0 Safari/535.3.2",True
+LOG-20a3fa1aa8,ACC-10237,2026-04-05T08:34:37,192.168.54.18,dev-d8e32cb6,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/4.1),False
+LOG-1f84ef088f,ACC-10237,2026-01-28T17:49:10,10.211.162.162,dev-81028c12,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/10.6z8732.0 Mobile/36H025 Safari/534.2",True
+LOG-28ec5ae994,ACC-10237,2026-04-25T11:50:53,10.147.52.59,dev-34c68106,"Mozilla/5.0 (iPad; CPU iPad OS 17_1 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/13.0.890.0 Mobile/06J658 Safari/531.0",True
+LOG-e5e1e8823d,ACC-10238,2026-01-26T18:56:15,10.12.21.103,dev-d977a516,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2; rv:1.9.6.20) Gecko/6073-06-24 00:31:09 Firefox/10.0,True
+LOG-4590e96faa,ACC-10238,2026-04-09T00:22:12,172.16.107.180,dev-92373b1f,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/4.0),True
+LOG-1c19fb97f2,ACC-10238,2026-05-28T21:40:49,172.17.203.116,dev-1ed5b2f3,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_5) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/20.0.826.0 Safari/532.1",True
+LOG-54e9af6689,ACC-10238,2026-03-29T04:50:23,192.168.148.56,dev-9a90383e,"Mozilla/5.0 (iPad; CPU iPad OS 12_4_8 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/41.0.828.0 Mobile/07X404 Safari/532.0",True
+LOG-c19994a4ce,ACC-10238,2026-05-22T08:05:34,172.22.127.129,dev-64c48ad6,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_2) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/32.0.815.0 Safari/535.0",True
+LOG-6a7f8f2389,ACC-10238,2026-05-02T07:38:28,192.168.35.151,dev-c9ea5714,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_3 rv:2.0; nb-NO) AppleWebKit/532.28.4 (KHTML, like Gecko) Version/5.0.2 Safari/532.28.4",True
+LOG-864c793edd,ACC-10238,2026-03-21T13:00:22,192.168.188.127,dev-f41b4313,"Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/48.0.874.0 Safari/535.2",True
+LOG-428c64331c,ACC-10238,2026-03-18T18:41:03,10.122.135.188,dev-6ed03cb2,"Mozilla/5.0 (Windows NT 4.0) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/13.0.803.0 Safari/536.2",True
+LOG-50f0950337,ACC-10238,2026-01-09T21:32:07,172.21.32.75,dev-8e45be8f,Opera/8.62.(Windows NT 5.1; raj-IN) Presto/2.9.190 Version/11.00,True
+LOG-939e52b67b,ACC-10238,2026-03-28T00:58:40,192.168.105.10,dev-61c0ddcb,Opera/8.82.(Windows NT 5.2; bg-BG) Presto/2.9.166 Version/10.00,True
+LOG-db6be958d5,ACC-10238,2026-05-06T10:11:21,172.21.110.100,dev-64b60406,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/3.1),True
+LOG-1043fdaa78,ACC-10238,2026-02-02T03:49:14,172.28.173.116,dev-3f48f9fb,Mozilla/5.0 (Android 4.1.1; Mobile; rv:53.0) Gecko/53.0 Firefox/53.0,True
+LOG-f611b5f909,ACC-10239,2026-02-04T21:39:53,192.168.233.127,dev-8755aeb1,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/535.3.7 (KHTML, like Gecko) Version/5.0.5 Safari/535.3.7",True
+LOG-d8b53d7793,ACC-10239,2026-02-23T09:25:05,10.15.33.126,dev-9c3268a6,Opera/9.91.(X11; Linux x86_64; ms-MY) Presto/2.9.161 Version/11.00,True
+LOG-de75d10a8b,ACC-10239,2026-02-17T15:07:07,192.168.12.112,dev-9585abcc,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_7 rv:2.0; sat-IN) AppleWebKit/534.47.5 (KHTML, like Gecko) Version/4.1 Safari/534.47.5",True
+LOG-bcc8bb3da4,ACC-10239,2026-04-23T12:54:41,10.163.219.97,dev-eb861299,Opera/8.46.(X11; Linux i686; hi-IN) Presto/2.9.166 Version/12.00,True
+LOG-6026481836,ACC-10239,2026-04-14T14:29:40,10.61.39.119,dev-513cd952,Opera/9.42.(X11; Linux x86_64; mhr-RU) Presto/2.9.168 Version/11.00,True
+LOG-10ff749dd1,ACC-10239,2026-03-20T00:30:49,10.56.240.172,dev-e04498a2,Opera/9.93.(X11; Linux i686; nl-AW) Presto/2.9.183 Version/10.00,True
+LOG-2e29f4b638,ACC-10239,2026-04-06T10:25:49,192.168.222.145,dev-b9218c23,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/2122-04-10 15:42:03 Firefox/3.6.15,True
+LOG-134d667a4b,ACC-10239,2026-01-05T12:24:52,192.168.28.18,dev-d926c77d,Opera/8.65.(Windows 98; Win 9x 4.90; mt-MT) Presto/2.9.179 Version/11.00,True
+LOG-896ba5a9d6,ACC-10239,2026-02-05T01:13:41,192.168.160.253,dev-86c02e90,Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/5.0),True
+LOG-64818f34e7,ACC-10239,2026-04-13T12:12:01,172.23.119.224,dev-6778b7f7,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; ti-ER) AppleWebKit/534.43.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6534.43.5",True
+LOG-56fef85ed9,ACC-10239,2026-02-19T22:32:07,172.29.49.101,dev-b87258f5,Opera/9.73.(X11; Linux i686; bhb-IN) Presto/2.9.171 Version/11.00,True
+LOG-cc593b6243,ACC-10249,2026-03-28T08:05:58,172.28.134.199,dev-25b0549b,Mozilla/5.0 (Android 4.2.1; Mobile; rv:16.0) Gecko/16.0 Firefox/16.0,True
+LOG-fb0fadd799,ACC-10249,2026-01-27T17:36:04,10.224.44.120,dev-6bb0e0f3,Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/3.1),True
+LOG-27911756a8,ACC-10249,2026-01-12T17:54:33,172.27.93.58,dev-b6783e8d,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/32.0.860.0 Safari/535.0",True
+LOG-1cd22aa4d9,ACC-10249,2026-04-24T12:04:16,192.168.81.168,dev-28079f18,Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/5.0),True
+LOG-8accdfe630,ACC-10249,2026-05-07T13:09:55,172.25.130.17,dev-628487c6,Opera/9.24.(Windows 98; Win 9x 4.90; fy-DE) Presto/2.9.160 Version/11.00,True
+LOG-560f1b241e,ACC-10249,2026-03-02T10:14:32,172.29.177.74,dev-614ff690,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/25.0.832.0 Safari/532.0",True
+LOG-8cb32ce86e,ACC-10249,2026-04-16T01:54:44,10.229.244.129,dev-c2ebd401,"Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/531.23.7 (KHTML, like Gecko) Version/5.0.5 Safari/531.23.7",True
+LOG-9077a4b174,ACC-10249,2026-01-29T14:58:33,192.168.181.56,dev-d5d7bcfa,Opera/9.59.(X11; Linux i686; doi-IN) Presto/2.9.185 Version/11.00,True
+LOG-3d7f5c2e9b,ACC-10249,2026-04-28T03:43:09,172.31.88.36,dev-8f89aa96,Opera/9.16.(Windows NT 5.1; sl-SI) Presto/2.9.172 Version/10.00,True
+LOG-714699a248,ACC-10249,2026-03-13T14:52:20,192.168.180.187,dev-f013cd02,"Mozilla/5.0 (Windows 95) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/50.0.874.0 Safari/536.2",True
+LOG-a247746591,ACC-10249,2026-04-11T12:33:59,172.20.130.180,dev-4a264681,"Mozilla/5.0 (iPad; CPU iPad OS 17_3 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/27.0.801.0 Mobile/86R591 Safari/532.0",True
+LOG-fb7042c43e,ACC-10249,2026-05-12T17:06:31,10.116.56.244,dev-26a86731,"Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/535.19.1 (KHTML, like Gecko) Version/5.1 Safari/535.19.1",True
+LOG-833082bd59,ACC-10250,2026-04-23T07:35:22,192.168.222.51,dev-76869762,Opera/9.57.(Windows NT 5.2; tt-RU) Presto/2.9.167 Version/10.00,True
+LOG-337884b2d7,ACC-10250,2026-03-07T04:17:28,172.26.16.22,dev-52ffdea9,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; mni-IN) AppleWebKit/534.40.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6534.40.2",True
+LOG-52ce7d7b37,ACC-10250,2026-03-23T07:15:41,192.168.20.160,dev-0294cc83,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/4.0),True
+LOG-1f8d02ccff,ACC-10250,2026-01-21T08:37:35,172.23.121.111,dev-eeaa869a,Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/4.1),True
+LOG-13d518c2a1,ACC-10250,2026-01-09T04:37:46,192.168.118.27,dev-51c33ede,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_3; rv:1.9.2.20) Gecko/7601-11-14 15:51:28 Firefox/3.8,True
+LOG-4794b802ef,ACC-10250,2026-01-01T17:13:46,192.168.61.23,dev-c5bf0bc3,Opera/9.69.(X11; Linux i686; mr-IN) Presto/2.9.162 Version/10.00,True
+LOG-5b19b37007,ACC-10250,2026-05-15T14:38:31,172.21.117.90,dev-7d860292,"Mozilla/5.0 (Windows NT 4.0) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/33.0.844.0 Safari/534.0",True
+LOG-5f2a9e8ba7,ACC-10250,2026-05-02T03:40:40,172.16.154.73,dev-290ba1e0,"Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_8 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/17.0.865.0 Mobile/89G438 Safari/535.2",True
+LOG-0dd3126ae2,ACC-10256,2026-04-03T04:37:27,172.21.192.242,dev-ca20d7c6,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; nb-NO) AppleWebKit/531.48.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6531.48.4",True
+LOG-c2d64d9c94,ACC-10256,2026-04-21T14:07:56,192.168.93.171,dev-5f87c1ce,Opera/8.79.(Windows NT 5.01; lt-LT) Presto/2.9.182 Version/12.00,True
+LOG-d41371fb88,ACC-10256,2026-05-05T01:58:16,10.98.179.106,dev-77395aea,"Mozilla/5.0 (Linux; Android 5.0.2) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/58.0.889.0 Safari/536.0",True
+LOG-71003259dc,ACC-10256,2026-01-19T02:32:12,10.75.246.205,dev-c58608b7,"Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/532.7.4 (KHTML, like Gecko) Version/4.0 Safari/532.7.4",True
+LOG-f1b1a06831,ACC-10256,2026-05-12T01:11:40,172.23.148.169,dev-ebe349b2,Opera/8.79.(X11; Linux x86_64; sc-IT) Presto/2.9.162 Version/11.00,True
+LOG-c1054a5c32,ACC-10256,2026-01-07T05:24:23,10.235.19.78,dev-baca53d6,"Mozilla/5.0 (iPad; CPU iPad OS 4_3_5 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/9.5x6476.0 Mobile/01X170 Safari/535.2",True
+LOG-8789f61763,ACC-10266,2026-01-17T03:53:35,172.20.254.158,dev-e339b5cb,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/18.0.890.0 Safari/533.0",True
+LOG-8b26659553,ACC-10266,2026-02-28T07:10:49,192.168.166.183,dev-8563de11,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/17.0.823.0 Safari/536.1",True
+LOG-35054ecb57,ACC-10266,2026-01-30T16:05:36,172.29.251.138,dev-212b55ce,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) CriOS/20.0.821.0 Mobile/69H253 Safari/536.2",True
+LOG-29da45d17f,ACC-10266,2026-02-04T02:49:05,172.19.138.1,dev-07327585,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; sa-IN) AppleWebKit/532.43.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6532.43.6",True
+LOG-75c99cab68,ACC-10266,2026-04-01T00:46:16,10.169.91.130,dev-0e0d9d09,"Mozilla/5.0 (Windows NT 11.0) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/38.0.855.0 Safari/532.1",True
+LOG-f24e755e9c,ACC-10266,2026-02-24T23:55:39,10.252.68.93,dev-caedccc5,Opera/9.68.(Windows NT 6.0; rw-RW) Presto/2.9.181 Version/11.00,True
+LOG-c8be7b6460,ACC-10266,2026-04-28T16:16:58,192.168.252.128,dev-bc0aa5ce,"Mozilla/5.0 (Linux; Android 3.2.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/16.0.871.0 Safari/535.2",True
+LOG-d0fda0471d,ACC-10266,2026-03-06T16:59:01,10.198.86.6,dev-308acb5e,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/8314-12-26 17:24:10 Firefox/3.8,True
+LOG-c17439be0c,ACC-10266,2026-04-02T02:54:10,192.168.177.96,dev-114e32b5,"Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) CriOS/16.0.888.0 Mobile/67L605 Safari/534.1",True
+LOG-ddf4a81a7c,ACC-10278,2026-05-17T03:24:11,172.20.195.25,dev-46b54599,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3 rv:5.0; ja-JP) AppleWebKit/534.43.7 (KHTML, like Gecko) Version/5.0.3 Safari/534.43.7",True
+LOG-45272c0097,ACC-10278,2026-03-18T11:06:45,10.105.66.104,dev-a653ad94,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/3.0),True
+LOG-7535a5ba7f,ACC-10278,2026-03-04T19:14:23,172.24.198.126,dev-161b9f71,Opera/9.21.(X11; Linux x86_64; ks-IN) Presto/2.9.160 Version/11.00,True
+LOG-dc1cfd6c7b,ACC-10278,2026-04-23T16:47:02,10.16.15.224,dev-a91ec390,Opera/9.72.(Windows NT 10.0; mi-NZ) Presto/2.9.165 Version/10.00,True
+LOG-eaac13d6be,ACC-10278,2026-01-11T12:13:58,192.168.59.16,dev-7e76a677,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_9) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/31.0.817.0 Safari/534.2",True
+LOG-1a86780ae5,ACC-10278,2026-05-18T18:55:03,10.169.35.129,dev-1e5999cb,Opera/9.30.(X11; Linux x86_64; byn-ER) Presto/2.9.172 Version/11.00,True
+LOG-2c6565270d,ACC-10281,2026-04-18T17:11:26,192.168.238.169,dev-94ea1500,Opera/8.28.(Windows NT 5.2; lo-LA) Presto/2.9.182 Version/12.00,True
+LOG-9896328855,ACC-10281,2026-03-03T00:43:33,172.24.161.238,dev-cc3046f0,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_8; rv:1.9.5.20) Gecko/8065-11-15 11:14:35 Firefox/10.0,True
+LOG-2e9f61d330,ACC-10281,2026-01-26T00:19:33,192.168.62.40,dev-3525e54c,Opera/8.49.(X11; Linux i686; yue-HK) Presto/2.9.189 Version/10.00,True
+LOG-790d170629,ACC-10282,2026-02-18T05:20:04,192.168.184.177,dev-ba723873,Opera/8.95.(Windows 95; km-KH) Presto/2.9.190 Version/11.00,True
+LOG-3f40e34065,ACC-10282,2026-04-11T20:46:48,192.168.238.52,dev-2703a04b,"Mozilla/5.0 (iPad; CPU iPad OS 14_8_1 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/62.0.812.0 Mobile/47B663 Safari/532.1",True
+LOG-f7fd655e1e,ACC-10282,2026-02-26T23:19:41,172.21.109.54,dev-a4f82b66,"Mozilla/5.0 (iPad; CPU iPad OS 9_3_6 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) FxiOS/18.2k2092.0 Mobile/17S082 Safari/536.2",True
+LOG-63381f1692,ACC-10286,2026-03-01T08:29:09,10.249.23.154,dev-42220424,"Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/534.36.3 (KHTML, like Gecko) Version/5.0.4 Safari/534.36.3",True
+LOG-ef2c7b38be,ACC-10286,2026-03-02T17:27:34,10.137.32.195,dev-d4277c37,"Mozilla/5.0 (iPad; CPU iPad OS 16_7_6 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) CriOS/47.0.888.0 Mobile/66M453 Safari/534.2",True
+LOG-23af31c545,ACC-10286,2026-05-04T05:48:27,172.20.62.34,dev-359626c1,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_5 rv:4.0; ig-NG) AppleWebKit/531.34.3 (KHTML, like Gecko) Version/5.0.3 Safari/531.34.3",True
+LOG-2ad29efafb,ACC-10286,2026-05-22T17:49:39,172.25.207.243,dev-67c0e93e,Mozilla/5.0 (Windows NT 4.0; rw-RW; rv:1.9.1.20) Gecko/6941-02-08 10:14:04 Firefox/3.8,True
+LOG-bc473990ad,ACC-10288,2026-05-24T07:26:56,172.20.155.12,dev-f7b4de3c,Opera/8.22.(Windows NT 5.01; bhb-IN) Presto/2.9.181 Version/10.00,True
+LOG-dc1364434d,ACC-10288,2026-03-18T10:24:32,172.31.21.77,dev-9303cc7d,Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/3.0),True
+LOG-c798b4ef25,ACC-10288,2026-03-01T04:33:47,10.210.110.216,dev-057c979d,"Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/533.31.7 (KHTML, like Gecko) Version/4.1 Safari/533.31.7",True
+LOG-37753ebb3e,ACC-10289,2026-03-14T16:24:30,10.166.234.145,dev-8007ea5d,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/5.1),True
+LOG-d47af3a723,ACC-10289,2026-03-25T04:12:57,172.18.117.188,dev-de58fde6,Opera/8.36.(X11; Linux i686; ka-GE) Presto/2.9.171 Version/12.00,True
+LOG-5938965285,ACC-10289,2026-04-15T03:55:58,172.27.92.40,dev-de68336a,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 11.0; Trident/3.1),True
+LOG-af56722f82,ACC-10289,2026-01-22T02:33:19,10.130.226.236,dev-31e6eec7,Opera/9.59.(Windows NT 5.1; mg-MG) Presto/2.9.165 Version/11.00,True
+LOG-b495c929e9,ACC-10289,2026-05-08T10:29:05,10.225.99.230,dev-1c3bd51f,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_5 rv:6.0; dz-BT) AppleWebKit/531.18.7 (KHTML, like Gecko) Version/5.0 Safari/531.18.7",True
+LOG-f435743050,ACC-10289,2026-02-01T10:12:09,192.168.26.238,dev-11cffcbf,Opera/9.15.(Windows CE; pa-IN) Presto/2.9.179 Version/12.00,True
+LOG-a5d8023b91,ACC-10289,2026-05-26T01:41:48,192.168.148.129,dev-cbcf619f,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; be-BY) AppleWebKit/535.32.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6535.32.2",True
+LOG-bd94c7fcbf,ACC-10289,2026-03-11T18:09:52,192.168.162.202,dev-d4dd3fbb,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/3.0),True
+LOG-40928cf49b,ACC-10289,2026-05-18T17:12:07,172.24.91.10,dev-ab2cda17,Mozilla/5.0 (Android 4.2.1; Mobile; rv:25.0) Gecko/25.0 Firefox/25.0,True
+LOG-d79f0de346,ACC-10295,2026-01-15T13:27:28,172.27.214.44,dev-d91081fe,"Mozilla/5.0 (Windows 98) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/42.0.821.0 Safari/531.2",True
+LOG-903644b46a,ACC-10295,2026-05-26T18:38:42,172.22.116.53,dev-742aa710,Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/5.1),True
+LOG-a0f4871f0c,ACC-10295,2026-04-20T05:26:00,172.29.78.97,dev-74028cd9,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/534.21.4 (KHTML, like Gecko) Version/5.1 Safari/534.21.4",True
+LOG-0027df1938,ACC-10295,2026-03-19T20:05:29,172.31.170.222,dev-b4562b12,Opera/8.53.(Windows NT 11.0; az-IN) Presto/2.9.161 Version/10.00,True
+LOG-90cb4e2b1d,ACC-10295,2026-02-10T04:20:18,10.194.44.101,dev-e6a07a42,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/5.1),True
+LOG-7169976f21,ACC-10295,2026-02-01T01:40:05,172.29.184.250,dev-7cada64c,Mozilla/5.0 (Android 4.0.1; Mobile; rv:32.0) Gecko/32.0 Firefox/32.0,True
+LOG-0417932a3c,ACC-10295,2026-04-25T23:26:43,172.19.9.231,dev-e0e22260,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/46.0.823.0 Safari/536.2",True
+LOG-c5d099a0e2,ACC-10295,2026-04-10T13:48:03,172.20.83.163,dev-48b7d10e,"Mozilla/5.0 (iPad; CPU iPad OS 14_8_1 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/42.0.889.0 Mobile/06N664 Safari/532.0",True
+LOG-e22bc1ab66,ACC-10295,2026-05-18T10:22:22,172.25.90.76,dev-8e52a775,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_9 rv:4.0; bn-BD) AppleWebKit/531.30.5 (KHTML, like Gecko) Version/5.0.4 Safari/531.30.5",True
+LOG-f82b517564,ACC-10295,2026-02-20T06:15:24,192.168.203.160,dev-06b25a0c,Opera/8.39.(X11; Linux x86_64; shs-CA) Presto/2.9.164 Version/10.00,True
+LOG-066590758d,ACC-10295,2026-02-12T18:50:30,10.169.115.118,dev-b08b5ebf,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/61.0.821.0 Safari/536.0",True
+LOG-1b82f9870c,ACC-10297,2026-02-10T00:46:14,10.57.38.220,dev-7f0620e8,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/3253-06-21 08:34:14 Firefox/6.0,True
+LOG-5bca3f1f1f,ACC-10297,2026-02-12T20:15:08,192.168.30.104,dev-508c3b43,Opera/9.77.(X11; Linux i686; bhb-IN) Presto/2.9.164 Version/11.00,True
+LOG-c608ed8b66,ACC-10297,2026-02-09T14:19:46,192.168.219.110,dev-bd170106,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/4.0),True
+LOG-b6a636c332,ACC-10297,2026-05-27T04:45:27,192.168.199.61,dev-49ae6742,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; ga-IE) AppleWebKit/534.39.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6534.39.2",True
+LOG-fe2288e0ca,ACC-10297,2026-03-28T14:46:16,192.168.62.218,dev-ecc99dba,Opera/9.33.(Windows NT 5.2; nds-DE) Presto/2.9.189 Version/11.00,True
+LOG-d016a85e88,ACC-10297,2026-05-22T00:44:19,192.168.170.77,dev-2fb82bb9,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) CriOS/31.0.822.0 Mobile/99P378 Safari/534.2",True
+LOG-11494b30dc,ACC-10297,2026-01-29T19:17:14,192.168.29.114,dev-8b96f3e7,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_7 rv:5.0; uz-UZ) AppleWebKit/534.30.2 (KHTML, like Gecko) Version/4.0.4 Safari/534.30.2",True
+LOG-469f20afa2,ACC-10297,2026-01-19T04:37:55,172.23.83.80,dev-29dd1ee2,"Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/534.5.5 (KHTML, like Gecko) Version/4.0.5 Safari/534.5.5",True
+LOG-eb71eaafe3,ACC-10297,2026-03-31T04:54:47,192.168.21.247,dev-cda7595b,Opera/8.40.(Windows NT 4.0; dv-MV) Presto/2.9.163 Version/10.00,True
+LOG-b6bbea29c2,ACC-10297,2026-02-04T04:44:04,10.241.200.183,dev-34a40e93,Opera/9.87.(Windows NT 5.01; li-BE) Presto/2.9.176 Version/12.00,True
+LOG-73877529d8,ACC-10297,2026-04-06T05:58:52,10.209.85.175,dev-8f96d8cd,Opera/8.56.(Windows CE; dz-BT) Presto/2.9.160 Version/11.00,True
+LOG-ff09c55bfc,ACC-F0000,2026-03-11T09:10:31,192.168.89.171,dev-8cd26c52,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; ayc-PE) AppleWebKit/535.22.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6535.22.3",True
+LOG-e51bcd025f,ACC-F0000,2026-01-17T11:13:00,192.168.89.171,dev-4bb7062c,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/4.1),True
+LOG-f5662af803,ACC-F0000,2026-04-14T00:13:08,172.17.243.93,dev-4bb7062c,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/9602-05-28 11:41:01 Firefox/14.0,True
+LOG-99727395f9,ACC-F0000,2026-01-30T04:04:33,10.113.44.131,dev-8cd26c52,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_1 rv:4.0; ur-PK) AppleWebKit/535.15.4 (KHTML, like Gecko) Version/5.0 Safari/535.15.4",True
+LOG-d71f4bd7d3,ACC-F0000,2026-02-25T17:32:34,172.17.243.93,dev-4bb7062c,Opera/8.72.(Windows NT 11.0; crh-UA) Presto/2.9.188 Version/10.00,True
+LOG-a7e9dd0804,ACC-F0000,2026-04-07T22:40:38,10.113.44.131,dev-8cd26c52,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; st-ZA) AppleWebKit/533.31.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6533.31.2",True
+LOG-302a1175a1,ACC-F0000,2026-05-19T02:55:45,192.168.89.171,dev-4bb7062c,Opera/9.95.(X11; Linux i686; fa-IR) Presto/2.9.176 Version/12.00,True
+LOG-294b99f63e,ACC-F0001,2026-01-25T18:21:34,192.168.89.171,dev-8cd26c52,Opera/8.83.(Windows 95; nl-AW) Presto/2.9.179 Version/11.00,True
+LOG-f755219035,ACC-F0001,2026-04-06T23:10:08,172.17.243.93,dev-8cd26c52,Opera/9.72.(Windows NT 6.2; pap-AW) Presto/2.9.173 Version/11.00,True
+LOG-9e11e680ce,ACC-F0001,2026-03-22T09:07:13,10.113.44.131,dev-8cd26c52,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/535.4.4 (KHTML, like Gecko) Version/4.1 Safari/535.4.4",True
+LOG-2e97e448b6,ACC-F0001,2026-05-07T23:38:51,192.168.89.171,dev-8cd26c52,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_1 rv:5.0; hi-IN) AppleWebKit/532.19.1 (KHTML, like Gecko) Version/4.1 Safari/532.19.1",True
+LOG-5c969c35f7,ACC-F0001,2026-04-07T12:39:52,10.113.44.131,dev-8cd26c52,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; ps-AF) AppleWebKit/531.20.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.20.3",True
+LOG-100e6b01fe,ACC-F0001,2026-02-14T16:24:40,172.17.243.93,dev-4bb7062c,"Mozilla/5.0 (iPhone; CPU iPhone OS 1_1_5 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) CriOS/44.0.814.0 Mobile/41G573 Safari/534.2",True
+LOG-5e99feeedc,ACC-F0001,2026-03-23T21:55:13,10.113.44.131,dev-4bb7062c,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/3.1),True
+LOG-f75e97fcbe,ACC-F0001,2026-02-15T16:04:44,172.17.243.93,dev-4bb7062c,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/5.1),True
+LOG-493a1b12f6,ACC-F0002,2026-01-28T01:24:52,172.17.243.93,dev-8cd26c52,Opera/8.86.(X11; Linux i686; mg-MG) Presto/2.9.190 Version/11.00,True
+LOG-a4d509a511,ACC-F0002,2026-04-18T02:10:41,172.17.243.93,dev-4bb7062c,Opera/8.76.(Windows NT 6.2; br-FR) Presto/2.9.177 Version/11.00,True
+LOG-68a9251e3f,ACC-F0002,2026-02-13T14:39:07,192.168.89.171,dev-4bb7062c,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; dv-MV) AppleWebKit/531.25.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6531.25.7",True
+LOG-6f7df5fcae,ACC-F0002,2026-05-16T02:34:23,10.113.44.131,dev-4bb7062c,Opera/8.58.(Windows NT 4.0; lb-LU) Presto/2.9.167 Version/10.00,True
+LOG-0700fc86ed,ACC-F0002,2026-01-06T02:47:07,10.113.44.131,dev-8cd26c52,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/27.0.854.0 Mobile/19C908 Safari/533.1",True
+LOG-62e897ab5f,ACC-F0002,2026-05-17T04:46:08,192.168.89.171,dev-4bb7062c,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/3.0),True
+LOG-8ea08c355c,ACC-F0002,2026-04-26T07:53:38,192.168.89.171,dev-4bb7062c,Opera/8.55.(X11; Linux i686; ku-TR) Presto/2.9.168 Version/11.00,True
+LOG-1792a33173,ACC-F0002,2026-01-28T10:24:03,192.168.89.171,dev-4bb7062c,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_0; rv:1.9.6.20) Gecko/7081-03-10 09:34:51 Firefox/3.8,True
+LOG-4476d5ff1f,ACC-F0003,2026-04-22T02:01:00,10.113.44.131,dev-8cd26c52,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; gd-GB) AppleWebKit/535.43.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6535.43.2",True
+LOG-31234c419b,ACC-F0003,2026-03-24T06:26:47,192.168.89.171,dev-8cd26c52,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/6180-04-19 18:54:31 Firefox/3.6.9,True
+LOG-ce5d61401e,ACC-F0003,2026-04-12T06:22:15,172.17.243.93,dev-4bb7062c,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/46.0.825.0 Mobile/87F534 Safari/532.0",True
+LOG-eee8596f91,ACC-F0003,2026-03-19T18:00:37,10.113.44.131,dev-4bb7062c,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/4577-12-02 04:21:55 Firefox/3.6.7,True
+LOG-65896625f9,ACC-F0003,2026-02-05T16:04:30,10.113.44.131,dev-4bb7062c,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_4; rv:1.9.4.20) Gecko/3798-05-14 00:18:46 Firefox/3.6.19,True
+LOG-3956c51fdd,ACC-F0003,2026-04-01T23:04:13,172.17.243.93,dev-8cd26c52,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/5.1),True
+LOG-d37992b45b,ACC-F0003,2026-03-20T15:54:08,172.17.243.93,dev-4bb7062c,Opera/8.91.(X11; Linux x86_64; ps-AF) Presto/2.9.184 Version/10.00,True
+LOG-5c245267ff,ACC-F0004,2026-04-21T16:57:52,10.113.44.131,dev-4bb7062c,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/5.1),True
+LOG-3023bca6de,ACC-F0004,2026-04-04T22:42:14,192.168.89.171,dev-4bb7062c,Mozilla/5.0 (Windows NT 4.0; apn-IN; rv:1.9.0.20) Gecko/4908-01-23 19:49:00 Firefox/3.8,True
+LOG-e525f5f36f,ACC-F0004,2026-03-01T22:12:10,192.168.89.171,dev-8cd26c52,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_9 rv:2.0; mhr-RU) AppleWebKit/531.41.5 (KHTML, like Gecko) Version/5.1 Safari/531.41.5",True
+LOG-498a854688,ACC-F0004,2026-03-19T07:27:00,10.113.44.131,dev-4bb7062c,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/4.1),True
+LOG-b4ec32db78,ACC-F0005,2026-02-11T20:59:19,10.113.44.131,dev-4bb7062c,Opera/9.69.(Windows NT 11.0; bs-BA) Presto/2.9.182 Version/12.00,True
+LOG-5c133d0458,ACC-F0005,2026-02-01T06:32:00,10.113.44.131,dev-8cd26c52,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_5; rv:1.9.6.20) Gecko/5240-04-03 11:45:42 Firefox/3.6.10,True
+LOG-13fc3340d5,ACC-F0005,2026-01-26T11:25:30,172.17.243.93,dev-8cd26c52,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; lg-UG) AppleWebKit/533.50.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6533.50.3",True
+LOG-7b4586403d,ACC-F0005,2026-03-25T16:08:46,192.168.89.171,dev-8cd26c52,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8 rv:4.0; cmn-TW) AppleWebKit/535.38.1 (KHTML, like Gecko) Version/4.1 Safari/535.38.1",True
+LOG-31f968d086,ACC-F0005,2026-04-29T12:36:38,10.113.44.131,dev-4bb7062c,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/5.1),True
+LOG-0a4e715b70,ACC-F0005,2026-04-21T01:56:58,10.113.44.131,dev-8cd26c52,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/8974-08-01 22:55:08 Firefox/3.8,True
+LOG-23b714ec88,ACC-F0100,2026-02-02T22:56:29,10.113.74.214,dev-6e0f763b,"Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/531.36.6 (KHTML, like Gecko) Version/4.0.2 Safari/531.36.6",True
+LOG-61cc6e64e3,ACC-F0100,2026-04-22T22:44:20,10.113.74.214,dev-094fc8df,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_4 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) CriOS/28.0.863.0 Mobile/90L963 Safari/535.1",True
+LOG-a345cec272,ACC-F0100,2026-02-04T19:04:06,172.26.63.89,dev-094fc8df,Opera/8.69.(Windows NT 5.2; mhr-RU) Presto/2.9.169 Version/12.00,True
+LOG-8a92e16f93,ACC-F0100,2026-04-02T21:33:21,10.113.74.214,dev-094fc8df,Opera/8.69.(X11; Linux x86_64; sid-ET) Presto/2.9.165 Version/11.00,True
+LOG-16cbfd28a3,ACC-F0100,2026-01-28T06:31:53,10.211.238.167,dev-094fc8df,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/13.0.825.0 Safari/534.0",False
+LOG-512a749aeb,ACC-F0100,2026-02-25T15:46:10,10.113.74.214,dev-094fc8df,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/534.33.2 (KHTML, like Gecko) Version/5.0.5 Safari/534.33.2",True
+LOG-2b43637d5d,ACC-F0100,2026-05-13T03:45:17,10.211.238.167,dev-094fc8df,"Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/535.2.2 (KHTML, like Gecko) Version/5.0.5 Safari/535.2.2",True
+LOG-53c7defd28,ACC-F0100,2026-05-02T06:59:44,10.113.74.214,dev-094fc8df,Opera/9.51.(Windows NT 5.01; zh-HK) Presto/2.9.170 Version/10.00,True
+LOG-a9dc48469e,ACC-F0101,2026-05-05T18:11:40,172.26.63.89,dev-094fc8df,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_1 rv:4.0; nb-NO) AppleWebKit/534.1.6 (KHTML, like Gecko) Version/5.0 Safari/534.1.6",True
+LOG-9777ab8548,ACC-F0101,2026-02-05T00:08:05,172.26.63.89,dev-6e0f763b,Opera/8.23.(X11; Linux i686; ak-GH) Presto/2.9.188 Version/11.00,True
+LOG-66b91474aa,ACC-F0101,2026-03-19T01:53:49,10.113.74.214,dev-6e0f763b,Opera/9.83.(Windows 98; Win 9x 4.90; pt-BR) Presto/2.9.190 Version/10.00,True
+LOG-28fca6e6ce,ACC-F0101,2026-01-13T12:27:32,10.113.74.214,dev-094fc8df,"Mozilla/5.0 (Linux; Android 4.3.1) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/31.0.825.0 Safari/533.0",True
+LOG-aa975d92e7,ACC-F0101,2026-04-05T10:17:56,10.211.238.167,dev-094fc8df,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_0 rv:2.0; tn-ZA) AppleWebKit/534.31.6 (KHTML, like Gecko) Version/5.1 Safari/534.31.6",True
+LOG-d1ef245e25,ACC-F0101,2026-03-30T06:29:24,10.211.238.167,dev-6e0f763b,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; nl-AW) AppleWebKit/535.48.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6535.48.7",True
+LOG-994f0749d0,ACC-F0101,2026-01-29T06:08:36,172.26.63.89,dev-6e0f763b,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_2) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/38.0.803.0 Safari/535.1",True
+LOG-e7f4d3be8e,ACC-F0101,2026-01-07T01:58:36,172.26.63.89,dev-094fc8df,Opera/9.18.(Windows NT 4.0; bs-BA) Presto/2.9.178 Version/11.00,True
+LOG-060b1f55d9,ACC-F0101,2026-03-12T04:40:42,10.113.74.214,dev-094fc8df,Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Win 9x 4.90; Trident/5.0),True
+LOG-0cd4efa0d7,ACC-F0101,2026-02-11T01:37:41,10.211.238.167,dev-094fc8df,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/6897-07-29 12:00:11 Firefox/3.8,True
+LOG-f23e546281,ACC-F0102,2026-02-05T17:52:01,10.211.238.167,dev-6e0f763b,Mozilla/5.0 (Windows 95; tr-TR; rv:1.9.0.20) Gecko/8629-03-02 04:28:51 Firefox/13.0,True
+LOG-569b612962,ACC-F0102,2026-03-25T05:06:52,10.113.74.214,dev-094fc8df,Opera/9.96.(Windows NT 11.0; apn-IN) Presto/2.9.176 Version/10.00,True
+LOG-592cb21e86,ACC-F0102,2026-03-09T19:44:43,10.113.74.214,dev-094fc8df,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/533.37.5 (KHTML, like Gecko) Version/4.0.5 Safari/533.37.5",True
+LOG-253409d6f2,ACC-F0102,2026-05-14T18:10:57,10.211.238.167,dev-094fc8df,"Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/533.16.6 (KHTML, like Gecko) Version/4.1 Safari/533.16.6",True
+LOG-1124fecead,ACC-F0102,2026-05-15T13:09:17,172.26.63.89,dev-094fc8df,Opera/9.40.(X11; Linux x86_64; ss-ZA) Presto/2.9.161 Version/11.00,True
+LOG-6f1be95947,ACC-F0102,2026-04-19T22:01:22,172.26.63.89,dev-6e0f763b,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/2887-08-20 17:24:56 Firefox/13.0,True
+LOG-0a39a084ad,ACC-F0102,2026-05-10T16:55:50,172.26.63.89,dev-6e0f763b,Opera/9.86.(Windows 98; Win 9x 4.90; ff-SN) Presto/2.9.187 Version/12.00,True
+LOG-d3b10a7a8f,ACC-F0103,2026-05-31T08:53:34,10.211.238.167,dev-094fc8df,Opera/8.22.(Windows NT 11.0; fr-CH) Presto/2.9.181 Version/12.00,True
+LOG-f34428c5d8,ACC-F0103,2026-02-10T17:34:00,10.211.238.167,dev-6e0f763b,"Mozilla/5.0 (iPad; CPU iPad OS 17_3_1 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/23.0.865.0 Mobile/15D851 Safari/532.2",True
+LOG-e7133a334f,ACC-F0103,2026-03-12T15:24:18,10.211.238.167,dev-094fc8df,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/46.0.881.0 Mobile/08K123 Safari/531.1",True
+LOG-22386f2ba6,ACC-F0103,2026-04-08T11:53:11,10.211.238.167,dev-094fc8df,"Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/533.30.5 (KHTML, like Gecko) Version/5.0.1 Safari/533.30.5",True
+LOG-542832d40f,ACC-F0103,2026-03-30T13:06:08,10.113.74.214,dev-094fc8df,Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/3.0),True
+LOG-fa65eb2f06,ACC-F0103,2026-04-16T08:04:46,10.113.74.214,dev-094fc8df,"Mozilla/5.0 (iPad; CPU iPad OS 17_1 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/17.4j3044.0 Mobile/48X241 Safari/531.2",True
+LOG-16c247a982,ACC-F0103,2026-02-04T03:21:06,10.113.74.214,dev-094fc8df,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_4; rv:1.9.6.20) Gecko/7332-02-20 00:19:41 Firefox/3.8,True
+LOG-0363facc16,ACC-F0103,2026-04-18T08:01:06,172.26.63.89,dev-6e0f763b,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_4 rv:2.0; mi-NZ) AppleWebKit/531.33.1 (KHTML, like Gecko) Version/5.0.5 Safari/531.33.1",True
+LOG-d40201869d,ACC-F0103,2026-03-16T02:12:50,10.113.74.214,dev-094fc8df,Opera/9.35.(X11; Linux x86_64; fa-IR) Presto/2.9.185 Version/10.00,True
+LOG-b621b4602b,ACC-F0103,2026-05-17T07:59:19,172.26.63.89,dev-6e0f763b,Opera/9.84.(Windows 95; zu-ZA) Presto/2.9.173 Version/10.00,True
+LOG-25c71edf02,ACC-F0103,2026-01-21T03:47:57,10.211.238.167,dev-6e0f763b,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/5.0),True
+LOG-829a8239ad,ACC-F0200,2026-02-13T11:37:12,192.168.98.68,dev-397e7686,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/3.1),True
+LOG-5eb1fedff2,ACC-F0200,2026-05-08T21:40:47,172.24.202.173,dev-397e7686,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/4.1),True
+LOG-e709f4091c,ACC-F0200,2026-03-22T12:43:08,192.168.220.116,dev-5326fa15,"Mozilla/5.0 (iPhone; CPU iPhone OS 14_2_1 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/53.0.867.0 Mobile/56D667 Safari/536.1",True
+LOG-9c1196e143,ACC-F0200,2026-03-22T11:58:26,10.49.80.13,dev-5326fa15,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_0; rv:1.9.4.20) Gecko/5245-06-29 16:02:53 Firefox/13.0,False
+LOG-e7ee8673d4,ACC-F0200,2026-03-14T16:51:25,192.168.98.68,dev-63ac7239,Mozilla/5.0 (Android 1.0; Mobile; rv:23.0) Gecko/23.0 Firefox/23.0,True
+LOG-81f2bdbcb2,ACC-F0200,2026-03-07T01:37:56,192.168.220.116,dev-63ac7239,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) CriOS/61.0.824.0 Mobile/90B959 Safari/536.2",True
+LOG-39f8cc62c8,ACC-F0200,2026-02-16T23:00:52,192.168.98.68,dev-397e7686,Opera/9.85.(X11; Linux x86_64; sc-IT) Presto/2.9.172 Version/10.00,True
+LOG-1f88ed5023,ACC-F0200,2026-05-06T03:16:54,192.168.8.198,dev-5326fa15,Opera/9.18.(Windows NT 5.01; yue-HK) Presto/2.9.172 Version/11.00,True
+LOG-3e93b58aa9,ACC-F0201,2026-01-30T17:15:29,10.49.80.13,dev-63ac7239,Opera/9.53.(X11; Linux x86_64; ayc-PE) Presto/2.9.161 Version/12.00,True
+LOG-d9b2b981e2,ACC-F0201,2026-01-16T07:06:23,192.168.98.68,dev-397e7686,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/4.0),False
+LOG-c7785ecf37,ACC-F0201,2026-05-23T13:28:34,192.168.220.116,dev-397e7686,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/5.0),True
+LOG-2e585be33f,ACC-F0201,2026-05-31T23:49:51,172.24.202.173,dev-5326fa15,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_3 rv:6.0; rw-RW) AppleWebKit/535.35.6 (KHTML, like Gecko) Version/5.0.4 Safari/535.35.6",True
+LOG-924c7ce776,ACC-F0201,2026-02-13T01:27:15,172.24.202.173,dev-5326fa15,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/3.0),True
+LOG-61b1ef3dc1,ACC-F0201,2026-02-17T14:58:06,192.168.8.198,dev-397e7686,"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/17.0.839.0 Safari/532.1",True
+LOG-a47d54e9ed,ACC-F0201,2026-02-23T09:25:44,10.49.80.13,dev-5326fa15,"Mozilla/5.0 (iPad; CPU iPad OS 1_1_5 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/18.4z4684.0 Mobile/90Y345 Safari/535.2",True
+LOG-621854da3b,ACC-F0201,2026-05-04T23:05:49,192.168.98.68,dev-5326fa15,"Mozilla/5.0 (Linux; Android 3.2.6) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/58.0.844.0 Safari/536.2",True
+LOG-a019b6e95f,ACC-F0201,2026-04-26T17:04:09,10.49.80.13,dev-5326fa15,"Mozilla/5.0 (iPad; CPU iPad OS 14_2 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/17.0l4441.0 Mobile/79A550 Safari/531.1",True
+LOG-d146eba28a,ACC-F0201,2026-02-20T20:59:01,192.168.220.116,dev-5326fa15,Mozilla/5.0 (Windows CE; dz-BT; rv:1.9.2.20) Gecko/2241-06-12 17:32:06 Firefox/3.6.11,True
+LOG-cdeb147b79,ACC-F0201,2026-03-12T04:14:00,192.168.220.116,dev-397e7686,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/3.1),True
+LOG-221628bdb7,ACC-F0201,2026-01-05T06:19:36,192.168.8.198,dev-5326fa15,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_5 rv:6.0; ne-NP) AppleWebKit/535.33.5 (KHTML, like Gecko) Version/4.0.4 Safari/535.33.5",True
+LOG-65db2a7c0e,ACC-F0202,2026-05-09T02:16:05,192.168.98.68,dev-63ac7239,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1 rv:6.0; fil-PH) AppleWebKit/535.24.1 (KHTML, like Gecko) Version/5.0 Safari/535.24.1",True
+LOG-02d6034cdd,ACC-F0202,2026-01-07T02:34:11,10.49.80.13,dev-397e7686,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/62.0.825.0 Safari/533.1",True
+LOG-04d33f6f5b,ACC-F0202,2026-04-04T23:11:19,192.168.98.68,dev-63ac7239,Opera/8.52.(X11; Linux x86_64; ne-NP) Presto/2.9.183 Version/10.00,True
+LOG-a198d6bdec,ACC-F0202,2026-01-31T18:08:34,192.168.98.68,dev-63ac7239,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/38.0.826.0 Safari/536.1",True
+LOG-7733060187,ACC-F0202,2026-01-24T14:40:02,192.168.220.116,dev-63ac7239,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/3.0),False
+LOG-58836added,ACC-F0203,2026-03-05T14:26:44,192.168.220.116,dev-5326fa15,Opera/9.65.(X11; Linux x86_64; kn-IN) Presto/2.9.189 Version/12.00,True
+LOG-65d4908f93,ACC-F0203,2026-05-15T07:05:51,192.168.220.116,dev-397e7686,Opera/9.82.(X11; Linux i686; cmn-TW) Presto/2.9.160 Version/12.00,True
+LOG-998bf14782,ACC-F0203,2026-02-08T16:30:51,10.49.80.13,dev-397e7686,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/10.5w5295.0 Mobile/64M124 Safari/532.0",True
+LOG-28af5c920a,ACC-F0204,2026-03-03T21:28:35,192.168.98.68,dev-5326fa15,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_6; rv:1.9.3.20) Gecko/3124-06-09 09:01:23 Firefox/3.6.3,True
+LOG-e0bd89946c,ACC-F0204,2026-03-25T08:44:36,192.168.220.116,dev-63ac7239,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 11.0; Trident/5.1),True
+LOG-d9510761ab,ACC-F0204,2026-05-03T20:35:18,10.49.80.13,dev-397e7686,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/5.0),True
+LOG-744f485fe0,ACC-F0204,2026-01-07T13:19:58,192.168.98.68,dev-397e7686,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; ka-GE) AppleWebKit/531.25.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6531.25.4",True
+LOG-a66bd74d9a,ACC-F0204,2026-02-26T23:41:09,192.168.98.68,dev-63ac7239,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_2 rv:6.0; id-ID) AppleWebKit/535.38.5 (KHTML, like Gecko) Version/4.1 Safari/535.38.5",True
+LOG-c86ae23855,ACC-F0204,2026-04-14T00:18:02,172.24.202.173,dev-397e7686,Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/5.0),False
+LOG-263cca2e2b,ACC-F0204,2026-02-04T22:24:52,172.24.202.173,dev-397e7686,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; ayc-PE) AppleWebKit/535.6.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6535.6.6",True
+LOG-71dbd0693d,ACC-F0300,2026-02-12T05:27:10,172.28.41.142,dev-6043d0f3,Opera/9.78.(X11; Linux x86_64; hne-IN) Presto/2.9.173 Version/11.00,True
+LOG-d5bee28edc,ACC-F0300,2026-05-11T08:41:39,172.28.41.142,dev-6043d0f3,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 4.0; Trident/5.0),True
+LOG-11600d04c1,ACC-F0300,2026-03-26T12:12:17,10.151.59.250,dev-6043d0f3,"Mozilla/5.0 (iPad; CPU iPad OS 12_5_7 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/61.0.843.0 Mobile/23Z385 Safari/531.0",True
+LOG-575c76dfed,ACC-F0300,2026-01-10T15:25:52,10.151.59.250,dev-6043d0f3,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5 rv:4.0; ca-ES) AppleWebKit/534.35.2 (KHTML, like Gecko) Version/5.0 Safari/534.35.2",False
+LOG-39af780e12,ACC-F0300,2026-02-23T06:52:07,10.151.59.250,dev-60df6e8d,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_7 rv:6.0; apn-IN) AppleWebKit/531.18.1 (KHTML, like Gecko) Version/5.1 Safari/531.18.1",True
+LOG-46130a172d,ACC-F0300,2026-02-03T05:34:08,10.192.55.247,dev-6043d0f3,Opera/8.24.(Windows NT 6.1; tg-TJ) Presto/2.9.162 Version/10.00,True
+LOG-06536c3d53,ACC-F0300,2026-02-15T21:48:21,10.192.55.247,dev-60df6e8d,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/5.1),True
+LOG-4f945bdaf6,ACC-F0300,2026-05-05T23:42:13,10.192.55.247,dev-60df6e8d,Mozilla/5.0 (Android 3.2.2; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0,True
+LOG-8d411a5de5,ACC-F0300,2026-02-25T05:14:26,172.28.41.142,dev-6043d0f3,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/40.0.853.0 Safari/535.0",False
+LOG-94f3ab56ee,ACC-F0300,2026-04-14T14:08:11,10.192.55.247,dev-60df6e8d,"Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/535.1.6 (KHTML, like Gecko) Version/4.0.5 Safari/535.1.6",True
+LOG-cee8a4e414,ACC-F0300,2026-01-04T03:50:03,172.28.41.142,dev-6043d0f3,"Mozilla/5.0 (iPad; CPU iPad OS 16_7_6 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) CriOS/62.0.806.0 Mobile/70R000 Safari/531.2",True
+LOG-0285cae410,ACC-F0301,2026-05-14T12:26:35,10.192.55.247,dev-6043d0f3,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/535.41.6 (KHTML, like Gecko) Version/5.0.4 Safari/535.41.6",True
+LOG-6c96a4f8a0,ACC-F0301,2026-01-18T02:11:15,172.28.41.142,dev-6043d0f3,Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/4.0),True
+LOG-896d85e4ee,ACC-F0301,2026-04-15T09:12:12,172.28.41.142,dev-60df6e8d,Mozilla/5.0 (Android 2.3.3; Mobile; rv:32.0) Gecko/32.0 Firefox/32.0,True
+LOG-e62bfaf44c,ACC-F0301,2026-01-09T08:44:58,172.28.41.142,dev-60df6e8d,"Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/533.32.6 (KHTML, like Gecko) Version/4.1 Safari/533.32.6",True
+LOG-7025f19198,ACC-F0301,2026-01-15T13:43:18,10.151.59.250,dev-6043d0f3,Mozilla/5.0 (Windows 95; li-BE; rv:1.9.0.20) Gecko/4883-11-17 11:23:54 Firefox/3.8,True
+LOG-de399f8ea5,ACC-F0301,2026-03-15T16:51:40,10.151.59.250,dev-60df6e8d,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Win 9x 4.90; Trident/4.1),True
+LOG-ec4bf08f98,ACC-F0301,2026-04-24T07:05:20,10.151.59.250,dev-60df6e8d,Mozilla/5.0 (Windows NT 6.2; sk-SK; rv:1.9.0.20) Gecko/7910-03-01 00:52:02 Firefox/3.6.17,True
+LOG-ab80cc79fe,ACC-F0301,2026-01-29T17:44:12,10.192.55.247,dev-6043d0f3,Mozilla/5.0 (Android 4.4.3; Mobile; rv:42.0) Gecko/42.0 Firefox/42.0,True
+LOG-78081332af,ACC-F0302,2026-05-29T18:45:36,10.151.59.250,dev-60df6e8d,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/535.46.5 (KHTML, like Gecko) Version/4.0.4 Safari/535.46.5",True
+LOG-b0fef1897f,ACC-F0302,2026-02-17T01:33:18,10.192.55.247,dev-60df6e8d,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_8) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/28.0.802.0 Safari/536.2",True
+LOG-602fd48eae,ACC-F0302,2026-01-15T14:11:53,10.151.59.250,dev-60df6e8d,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; ce-RU) AppleWebKit/532.33.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6532.33.6",True
+LOG-1ae6c0aee1,ACC-F0302,2026-05-11T04:45:05,172.28.41.142,dev-6043d0f3,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/4.0),True
+LOG-c74883d9dd,ACC-F0302,2026-02-06T11:45:31,10.151.59.250,dev-60df6e8d,Mozilla/5.0 (Android 4.0.2; Mobile; rv:15.0) Gecko/15.0 Firefox/15.0,True
+LOG-a5085085cd,ACC-F0302,2026-04-25T16:02:13,10.192.55.247,dev-6043d0f3,Opera/8.27.(X11; Linux i686; iu-CA) Presto/2.9.175 Version/12.00,True
+LOG-84186f2a5d,ACC-F0302,2026-03-02T13:12:42,10.192.55.247,dev-6043d0f3,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_0 rv:3.0; pl-PL) AppleWebKit/531.36.1 (KHTML, like Gecko) Version/5.0 Safari/531.36.1",True
+LOG-b8dcc2b2e8,ACC-F0303,2026-01-30T05:56:25,10.151.59.250,dev-6043d0f3,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_4 rv:4.0; en-SG) AppleWebKit/532.7.3 (KHTML, like Gecko) Version/4.0.5 Safari/532.7.3",True
+LOG-be46de4977,ACC-F0303,2026-01-11T07:43:47,10.151.59.250,dev-6043d0f3,Opera/8.57.(Windows NT 5.2; km-KH) Presto/2.9.177 Version/12.00,True
+LOG-ad789c2b4e,ACC-F0303,2026-01-10T12:58:58,10.192.55.247,dev-6043d0f3,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; nhn-MX) AppleWebKit/532.14.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6532.14.4",True
+LOG-2b63edded6,ACC-F0303,2026-03-24T01:24:16,172.28.41.142,dev-6043d0f3,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6; rv:1.9.4.20) Gecko/8521-07-05 08:38:27 Firefox/3.6.13,True
+LOG-99ac232770,ACC-F0303,2026-02-04T07:13:33,10.192.55.247,dev-6043d0f3,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/534.32.4 (KHTML, like Gecko) Version/4.0 Safari/534.32.4",True
+LOG-f622304509,ACC-F0303,2026-04-06T20:25:06,10.192.55.247,dev-6043d0f3,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_5 rv:5.0; ve-ZA) AppleWebKit/532.18.4 (KHTML, like Gecko) Version/5.0.1 Safari/532.18.4",True
+LOG-452711aa07,ACC-F0304,2026-04-22T16:46:06,10.151.59.250,dev-60df6e8d,Mozilla/5.0 (Windows NT 10.0; pt-PT; rv:1.9.2.20) Gecko/2573-10-27 19:08:15 Firefox/7.0,True
+LOG-e11597a552,ACC-F0304,2026-01-20T14:50:35,10.151.59.250,dev-60df6e8d,Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/4.1),True
+LOG-bf1d7c0b6e,ACC-F0304,2026-05-16T19:57:48,10.192.55.247,dev-6043d0f3,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; aa-ET) AppleWebKit/531.37.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6531.37.7",True
+LOG-e06d3a29eb,ACC-F0305,2026-02-05T22:31:47,10.192.55.247,dev-6043d0f3,Opera/8.44.(X11; Linux i686; tn-ZA) Presto/2.9.190 Version/11.00,True
+LOG-f3ff12b8f9,ACC-F0305,2026-05-14T14:00:49,172.28.41.142,dev-60df6e8d,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/56.0.879.0 Safari/535.2",True
+LOG-6700bee918,ACC-F0305,2026-01-14T11:40:55,172.28.41.142,dev-60df6e8d,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0),True
+LOG-3a17e1b363,ACC-F0305,2026-03-30T09:27:42,172.28.41.142,dev-60df6e8d,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/28.0.813.0 Safari/534.0",True
+LOG-063f0e27b1,ACC-F0306,2026-03-29T21:20:42,10.151.59.250,dev-6043d0f3,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/4.0),True
+LOG-1b81a77fd8,ACC-F0306,2026-02-19T23:17:20,10.192.55.247,dev-6043d0f3,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/17.0.872.0 Safari/534.1",True
+LOG-f3bcddfcfd,ACC-F0306,2026-03-31T01:56:00,172.28.41.142,dev-6043d0f3,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_5; rv:1.9.2.20) Gecko/2591-06-10 11:22:47 Firefox/8.0,True
+LOG-25c37caee6,ACC-F0306,2026-03-06T19:20:09,10.192.55.247,dev-6043d0f3,"Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/535.7.7 (KHTML, like Gecko) Version/5.1 Safari/535.7.7",True
+LOG-50d34a5939,ACC-F0306,2026-05-14T03:59:08,10.192.55.247,dev-60df6e8d,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_5 rv:6.0; ur-IN) AppleWebKit/531.25.7 (KHTML, like Gecko) Version/4.0 Safari/531.25.7",True
+LOG-587748c143,ACC-F0306,2026-03-21T16:13:29,172.28.41.142,dev-60df6e8d,"Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/20.0.853.0 Safari/531.2",True
+LOG-895a361554,ACC-F0306,2026-01-07T00:01:34,172.28.41.142,dev-6043d0f3,"Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/52.0.819.0 Safari/536.2",True
+LOG-05ca4717b2,ACC-F0306,2026-05-25T12:59:34,172.28.41.142,dev-60df6e8d,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/5.1),True
+LOG-df1d5de5d9,ACC-F0400,2026-03-09T09:07:37,172.22.100.195,dev-f45c642f,Mozilla/5.0 (Windows NT 11.0; sl-SI; rv:1.9.1.20) Gecko/7706-04-27 13:30:57 Firefox/3.8,True
+LOG-417fea4567,ACC-F0400,2026-04-07T21:10:06,172.28.146.236,dev-2c119432,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0),True
+LOG-231a42e6bf,ACC-F0400,2026-04-12T14:13:27,172.22.100.195,dev-2948e254,Opera/8.54.(Windows NT 4.0; gl-ES) Presto/2.9.168 Version/10.00,True
+LOG-d5dbc053c5,ACC-F0400,2026-02-01T13:48:09,172.22.100.195,dev-2c119432,Opera/9.33.(X11; Linux x86_64; ve-ZA) Presto/2.9.172 Version/12.00,True
+LOG-83e458caa3,ACC-F0400,2026-02-27T05:31:34,192.168.92.31,dev-2c119432,Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/5.0),False
+LOG-5b0693acb5,ACC-F0400,2026-02-24T22:57:22,192.168.107.87,dev-f45c642f,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/6727-09-05 00:45:10 Firefox/3.6.8,True
+LOG-ead85a0824,ACC-F0400,2026-03-01T09:13:53,192.168.92.31,dev-2c119432,"Mozilla/5.0 (iPad; CPU iPad OS 7_1_2 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) CriOS/59.0.806.0 Mobile/77J149 Safari/533.0",True
+LOG-38d67595da,ACC-F0400,2026-01-01T02:59:26,192.168.92.31,dev-2c119432,"Mozilla/5.0 (Linux; Android 4.1.2) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/62.0.818.0 Safari/535.0",True
+LOG-b579e8d2c6,ACC-F0400,2026-02-25T00:06:47,192.168.107.87,dev-2948e254,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5 rv:2.0; sv-FI) AppleWebKit/531.14.1 (KHTML, like Gecko) Version/4.0.4 Safari/531.14.1",True
+LOG-45189ceaf9,ACC-F0400,2026-04-19T21:16:49,172.28.146.236,dev-f45c642f,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; kw-GB) AppleWebKit/535.9.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6535.9.7",True
+LOG-d99753f060,ACC-F0400,2026-01-28T16:46:13,172.28.146.236,dev-2c119432,"Mozilla/5.0 (iPad; CPU iPad OS 9_3_5 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/56.0.806.0 Mobile/70Y037 Safari/536.1",True
+LOG-78301a2990,ACC-F0400,2026-01-16T16:10:22,172.22.100.195,dev-f45c642f,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/3.0),False
+LOG-95f1a47cdb,ACC-F0401,2026-04-16T23:45:19,172.28.146.236,dev-2c119432,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; crh-UA) AppleWebKit/534.16.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6534.16.4",True
+LOG-0a2578d724,ACC-F0401,2026-03-26T20:04:05,192.168.92.31,dev-f45c642f,Opera/8.82.(X11; Linux x86_64; br-FR) Presto/2.9.169 Version/12.00,True
+LOG-918c41368f,ACC-F0401,2026-05-15T18:53:45,172.22.100.195,dev-2948e254,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.1),True
+LOG-cb54f8604a,ACC-F0401,2026-05-19T08:56:59,172.22.100.195,dev-2c119432,"Mozilla/5.0 (Windows NT 6.2) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/60.0.806.0 Safari/535.1",True
+LOG-50de224614,ACC-F0401,2026-04-01T14:17:33,192.168.13.199,dev-2c119432,Mozilla/5.0 (Android 2.3.7; Mobile; rv:54.0) Gecko/54.0 Firefox/54.0,True
+LOG-21a985bd18,ACC-F0401,2026-04-19T12:42:18,192.168.92.31,dev-2c119432,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) FxiOS/18.0d1980.0 Mobile/13Y740 Safari/533.0",True
+LOG-cfe7279f51,ACC-F0401,2026-01-28T07:10:34,192.168.107.87,dev-2c119432,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/36.0.877.0 Safari/536.2",True
+LOG-c6838fad9b,ACC-F0401,2026-04-23T16:29:54,192.168.107.87,dev-2c119432,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/38.0.878.0 Safari/535.0",True
+LOG-db02adcf5d,ACC-F0401,2026-04-16T11:49:10,192.168.107.87,dev-2c119432,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_8; rv:1.9.5.20) Gecko/2057-03-23 17:09:27 Firefox/3.6.11,True
+LOG-3c8396d49a,ACC-F0401,2026-03-18T05:55:30,172.28.146.236,dev-2c119432,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; mg-MG) AppleWebKit/532.39.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6532.39.2",True
+LOG-2b6fecd224,ACC-F0402,2026-05-20T15:26:41,192.168.92.31,dev-2c119432,Opera/8.67.(Windows NT 5.01; ckb-IQ) Presto/2.9.187 Version/10.00,True
+LOG-dd7ebfec84,ACC-F0402,2026-02-08T23:19:45,192.168.92.31,dev-f45c642f,"Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/533.20.2 (KHTML, like Gecko) Version/5.1 Safari/533.20.2",False
+LOG-1abb48472d,ACC-F0402,2026-04-28T05:52:06,192.168.92.31,dev-2948e254,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/12.9a9014.0 Mobile/51I961 Safari/534.2",True
+LOG-ecb09bbaee,ACC-F0402,2026-02-09T16:04:38,192.168.92.31,dev-2c119432,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_9) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/50.0.863.0 Safari/534.1",False
+LOG-2327abc281,ACC-F0402,2026-04-09T05:13:11,192.168.13.199,dev-2c119432,"Mozilla/5.0 (Linux; Android 7.0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/39.0.821.0 Safari/534.1",True
+LOG-a64a43563e,ACC-F0402,2026-01-24T15:40:56,172.22.100.195,dev-2c119432,"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/40.0.812.0 Safari/531.1",True
+LOG-cb138bcc0e,ACC-F0402,2026-02-05T17:42:24,172.28.146.236,dev-2948e254,"Mozilla/5.0 (Linux; Android 2.2.2) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/34.0.851.0 Safari/531.0",True
+LOG-a4ad724463,ACC-F0403,2026-01-24T07:49:48,192.168.107.87,dev-2c119432,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; bs-BA) AppleWebKit/535.3.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6535.3.4",False
+LOG-a1f3f41f97,ACC-F0403,2026-02-28T18:58:16,192.168.92.31,dev-2948e254,"Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/532.45.2 (KHTML, like Gecko) Version/4.0 Safari/532.45.2",True
+LOG-78e6303019,ACC-F0403,2026-05-08T14:44:02,192.168.107.87,dev-2c119432,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.01; Trident/4.0),False
+LOG-10c1430f31,ACC-F0403,2026-03-10T21:08:49,172.28.146.236,dev-2c119432,"Mozilla/5.0 (Windows 98) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/53.0.856.0 Safari/534.0",True
+LOG-2d7bea9999,ACC-F0403,2026-03-31T00:03:59,172.22.100.195,dev-f45c642f,Mozilla/5.0 (Windows 98; Win 9x 4.90; ti-ER; rv:1.9.1.20) Gecko/5952-06-20 11:15:04 Firefox/5.0,True
+LOG-a0ada6dafa,ACC-F0403,2026-03-11T11:13:29,192.168.107.87,dev-2948e254,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/15.0.839.0 Safari/531.0",True
+LOG-75dbc80580,ACC-F0403,2026-05-18T03:14:42,192.168.107.87,dev-2c119432,Mozilla/5.0 (Windows NT 5.1; mni-IN; rv:1.9.1.20) Gecko/6607-05-18 00:53:38 Firefox/3.6.8,True
+LOG-77cb65e4e1,ACC-F0403,2026-02-03T21:12:51,172.28.146.236,dev-2c119432,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_8; rv:1.9.4.20) Gecko/5992-03-27 05:03:06 Firefox/3.8,True
+LOG-8d8c83ad3c,ACC-F0403,2026-04-20T08:27:31,172.22.100.195,dev-2c119432,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/7471-02-25 05:57:51 Firefox/9.0,True
+LOG-10799bb4cb,ACC-F0403,2026-01-28T04:37:49,172.22.100.195,dev-2948e254,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_4 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) CriOS/49.0.814.0 Mobile/73R097 Safari/534.1",True
+LOG-3a833586b1,ACC-F0404,2026-05-30T20:35:04,172.28.146.236,dev-f45c642f,Opera/9.30.(Windows NT 5.1; quz-PE) Presto/2.9.172 Version/12.00,True
+LOG-a21fb0a83b,ACC-F0404,2026-02-03T18:53:21,192.168.13.199,dev-2c119432,"Mozilla/5.0 (Linux; Android 8.0.0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/34.0.826.0 Safari/534.2",True
+LOG-d4d2830461,ACC-F0404,2026-01-13T00:35:56,192.168.107.87,dev-2c119432,Mozilla/5.0 (Windows 98; da-DK; rv:1.9.1.20) Gecko/8996-08-13 06:18:15 Firefox/3.8,True
+LOG-aaeb12ee43,ACC-F0404,2026-05-26T14:57:00,192.168.92.31,dev-2c119432,Opera/9.77.(Windows NT 5.01; ta-LK) Presto/2.9.161 Version/12.00,True
+LOG-97268ffedd,ACC-F0404,2026-04-28T18:39:00,192.168.92.31,dev-f45c642f,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/6869-05-26 14:54:40 Firefox/6.0,True
+LOG-753d2d8d59,ACC-F0404,2026-05-16T16:17:52,192.168.13.199,dev-2c119432,Opera/9.17.(X11; Linux x86_64; mhr-RU) Presto/2.9.178 Version/10.00,True
+LOG-683f343b2d,ACC-F0405,2026-03-25T00:20:56,192.168.13.199,dev-f45c642f,"Mozilla/5.0 (iPad; CPU iPad OS 16_7_6 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/45.0.874.0 Mobile/94Q505 Safari/532.1",True
+LOG-05004c8a75,ACC-F0405,2026-01-25T16:45:34,192.168.107.87,dev-2c119432,"Mozilla/5.0 (Windows 95) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/33.0.822.0 Safari/531.0",True
+LOG-4481c1fd8a,ACC-F0405,2026-04-07T20:10:03,172.28.146.236,dev-f45c642f,Opera/8.94.(X11; Linux x86_64; zh-HK) Presto/2.9.188 Version/10.00,True
+LOG-1101ad7376,ACC-F0405,2026-03-06T06:11:52,192.168.92.31,dev-f45c642f,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Win 9x 4.90; Trident/5.1),True
+LOG-53b77f88d7,ACC-F0405,2026-02-26T07:00:55,172.22.100.195,dev-2c119432,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/16.0.833.0 Safari/534.2",True
+LOG-0caf102920,ACC-F0405,2026-01-14T04:40:59,172.28.146.236,dev-2c119432,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/4.1),True
+LOG-a7150534a7,ACC-F0405,2026-04-22T17:21:09,172.28.146.236,dev-2948e254,"Mozilla/5.0 (iPhone; CPU iPhone OS 4_2_1 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) CriOS/38.0.870.0 Mobile/88Y779 Safari/533.0",True
+LOG-b1e7abe8f5,ACC-F0405,2026-04-08T02:23:16,172.22.100.195,dev-2c119432,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/5.1),True
+LOG-2d596893c0,ACC-F0405,2026-04-17T00:16:20,192.168.92.31,dev-2948e254,Opera/9.70.(X11; Linux i686; hak-TW) Presto/2.9.184 Version/12.00,True
+LOG-f14f2b94d9,ACC-F0405,2026-02-21T01:54:58,192.168.92.31,dev-f45c642f,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/531.20.1 (KHTML, like Gecko) Version/5.0.5 Safari/531.20.1",True
+LOG-a173fec9bd,ACC-F0406,2026-01-16T15:35:34,192.168.107.87,dev-2c119432,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_4 rv:5.0; bo-IN) AppleWebKit/533.38.7 (KHTML, like Gecko) Version/4.1 Safari/533.38.7",True
+LOG-4cc695d697,ACC-F0406,2026-02-22T12:39:37,192.168.92.31,dev-f45c642f,"Mozilla/5.0 (iPad; CPU iPad OS 7_1_2 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) FxiOS/12.1c4101.0 Mobile/83V149 Safari/536.2",False
+LOG-e592da7230,ACC-F0406,2026-04-09T13:36:26,172.28.146.236,dev-2948e254,"Mozilla/5.0 (Windows NT 6.2) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/13.0.865.0 Safari/532.2",True
+LOG-7e53ba812a,ACC-F0406,2026-04-03T17:44:34,172.22.100.195,dev-f45c642f,Opera/9.96.(X11; Linux x86_64; et-EE) Presto/2.9.168 Version/10.00,False
+LOG-b9aee9a276,ACC-F0406,2026-01-11T17:58:48,192.168.92.31,dev-f45c642f,Opera/9.61.(Windows 98; Win 9x 4.90; mg-MG) Presto/2.9.180 Version/11.00,True
+LOG-d4f38e1683,ACC-F0406,2026-03-15T16:04:40,192.168.92.31,dev-2948e254,Opera/9.99.(Windows NT 6.0; tl-PH) Presto/2.9.189 Version/10.00,True
+LOG-6e35a49c13,ACC-F0406,2026-03-17T04:07:56,192.168.13.199,dev-2948e254,Mozilla/5.0 (Android 2.3.6; Mobile; rv:43.0) Gecko/43.0 Firefox/43.0,True
+LOG-4a0fc2c33d,ACC-F0406,2026-05-17T04:28:15,192.168.13.199,dev-2948e254,"Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/532.27.6 (KHTML, like Gecko) Version/5.1 Safari/532.27.6",True
+LOG-8a4448315b,ACC-F0406,2026-03-27T01:00:29,192.168.92.31,dev-2948e254,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; Trident/5.0),True
+LOG-2bd3645317,ACC-F0406,2026-03-13T09:38:47,172.22.100.195,dev-f45c642f,Opera/8.41.(X11; Linux i686; nb-NO) Presto/2.9.188 Version/12.00,True
+LOG-49ec4ac0c9,ACC-F0406,2026-01-12T05:56:18,172.28.146.236,dev-f45c642f,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; tcy-IN) AppleWebKit/532.1.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6532.1.6",True
+LOG-585d2416e5,ACC-F0406,2026-01-02T22:50:05,172.28.146.236,dev-2c119432,Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/5.0),True

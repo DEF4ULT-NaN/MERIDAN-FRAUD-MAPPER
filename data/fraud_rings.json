@@ -1,0 +1,156 @@
+[
+  {
+    "ring_id": "RING-01",
+    "size": 6,
+    "tightness": "tight",
+    "account_ids": [
+      "ACC-F0000",
+      "ACC-F0001",
+      "ACC-F0002",
+      "ACC-F0003",
+      "ACC-F0004",
+      "ACC-F0005"
+    ],
+    "shared_ips": [
+      "192.168.89.171",
+      "172.17.243.93",
+      "10.113.44.131"
+    ],
+    "shared_devices": [
+      "dev-4bb7062c",
+      "dev-8cd26c52"
+    ],
+    "shared_phones": [
+      "3342708668826",
+      "8705685662462"
+    ],
+    "shared_banks": [
+      "BA-88961459"
+    ]
+  },
+  {
+    "ring_id": "RING-02",
+    "size": 4,
+    "tightness": "tight",
+    "account_ids": [
+      "ACC-F0100",
+      "ACC-F0101",
+      "ACC-F0102",
+      "ACC-F0103"
+    ],
+    "shared_ips": [
+      "10.211.238.167",
+      "10.113.74.214",
+      "172.26.63.89"
+    ],
+    "shared_devices": [
+      "dev-6e0f763b",
+      "dev-094fc8df"
+    ],
+    "shared_phones": [
+      "0489964235369",
+      "7854777252287"
+    ],
+    "shared_banks": [
+      "BA-19046318"
+    ]
+  },
+  {
+    "ring_id": "RING-03",
+    "size": 5,
+    "tightness": "medium",
+    "account_ids": [
+      "ACC-F0200",
+      "ACC-F0201",
+      "ACC-F0202",
+      "ACC-F0203",
+      "ACC-F0204"
+    ],
+    "shared_ips": [
+      "10.49.80.13",
+      "192.168.220.116",
+      "172.24.202.173",
+      "192.168.8.198",
+      "192.168.98.68"
+    ],
+    "shared_devices": [
+      "dev-5326fa15",
+      "dev-397e7686",
+      "dev-63ac7239"
+    ],
+    "shared_phones": [
+      "6668700217659",
+      "8033974014890",
+      "5461567933410"
+    ],
+    "shared_banks": [
+      "BA-75151231",
+      "BA-99788677"
+    ]
+  },
+  {
+    "ring_id": "RING-04",
+    "size": 7,
+    "tightness": "tight",
+    "account_ids": [
+      "ACC-F0300",
+      "ACC-F0301",
+      "ACC-F0302",
+      "ACC-F0303",
+      "ACC-F0304",
+      "ACC-F0305",
+      "ACC-F0306"
+    ],
+    "shared_ips": [
+      "172.28.41.142",
+      "10.151.59.250",
+      "10.192.55.247"
+    ],
+    "shared_devices": [
+      "dev-60df6e8d",
+      "dev-6043d0f3"
+    ],
+    "shared_phones": [
+      "5412126788861",
+      "1142626551104"
+    ],
+    "shared_banks": [
+      "BA-73481353"
+    ]
+  },
+  {
+    "ring_id": "RING-05",
+    "size": 7,
+    "tightness": "medium",
+    "account_ids": [
+      "ACC-F0400",
+      "ACC-F0401",
+      "ACC-F0402",
+      "ACC-F0403",
+      "ACC-F0404",
+      "ACC-F0405",
+      "ACC-F0406"
+    ],
+    "shared_ips": [
+      "192.168.92.31",
+      "172.28.146.236",
+      "172.22.100.195",
+      "192.168.13.199",
+      "192.168.107.87"
+    ],
+    "shared_devices": [
+      "dev-f45c642f",
+      "dev-2c119432",
+      "dev-2948e254"
+    ],
+    "shared_phones": [
+      "2909656101438",
+      "9688680589113",
+      "4167243426617"
+    ],
+    "shared_banks": [
+      "BA-17270733",
+      "BA-72682989"
+    ]
+  }
+]

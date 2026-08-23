@@ -1,0 +1,4592 @@
+{
+  "nodes": [
+    {
+      "id": "ACC-10005",
+      "name": "Monica Herrera",
+      "email": "smiller@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 531,
+      "features": {
+        "n_logins": 6,
+        "n_transactions": 5,
+        "login_unique_ips": 6,
+        "login_unique_devices": 6,
+        "tx_total_amount": 3653.4700000000003,
+        "tx_avg_amount": 730.6940000000001,
+        "tx_max_amount": 1409.16,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 531
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10006",
+      "name": "Shannon Ray",
+      "email": "williamsjeremy@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 487,
+      "features": {
+        "n_logins": 7,
+        "n_transactions": 10,
+        "login_unique_ips": 7,
+        "login_unique_devices": 7,
+        "tx_total_amount": 8199.83,
+        "tx_avg_amount": 819.983,
+        "tx_max_amount": 1381.55,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 487
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10007",
+      "name": "Dr. Sharon James",
+      "email": "xreid@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 315,
+      "features": {
+        "n_logins": 9,
+        "n_transactions": 6,
+        "login_unique_ips": 9,
+        "login_unique_devices": 9,
+        "tx_total_amount": 4412.7,
+        "tx_avg_amount": 735.4499999999999,
+        "tx_max_amount": 1475.98,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 315
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10009",
+      "name": "Joel Nelson",
+      "email": "gabriellecameron@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 239,
+      "features": {
+        "n_logins": 6,
+        "n_transactions": 5,
+        "login_unique_ips": 6,
+        "login_unique_devices": 6,
+        "tx_total_amount": 3821.24,
+        "tx_avg_amount": 764.2479999999999,
+        "tx_max_amount": 1419.36,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 239
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10017",
+      "name": "Deborah Mason",
+      "email": "williamrodriguez@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 95,
+      "features": {
+        "n_logins": 12,
+        "n_transactions": 6,
+        "login_unique_ips": 12,
+        "login_unique_devices": 12,
+        "tx_total_amount": 4349.68,
+        "tx_avg_amount": 724.9466666666667,
+        "tx_max_amount": 1145.85,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 95
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10022",
+      "name": "Lisa Brandt",
+      "email": "jenniferross@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1064,
+      "features": {
+        "n_logins": 3,
+        "n_transactions": 7,
+        "login_unique_ips": 3,
+        "login_unique_devices": 3,
+        "tx_total_amount": 4824.35,
+        "tx_avg_amount": 689.1928571428572,
+        "tx_max_amount": 1499.06,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1064
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10024",
+      "name": "Crystal Robinson",
+      "email": "zimmermanbrian@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 84,
+      "features": {
+        "n_logins": 9,
+        "n_transactions": 4,
+        "login_unique_ips": 9,
+        "login_unique_devices": 9,
+        "tx_total_amount": 3282.35,
+        "tx_avg_amount": 820.5875,
+        "tx_max_amount": 1451.07,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 84
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10025",
+      "name": "Shannon Jones",
+      "email": "joshuawashington@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1179,
+      "features": {
+        "n_logins": 4,
+        "n_transactions": 3,
+        "login_unique_ips": 4,
+        "login_unique_devices": 4,
+        "tx_total_amount": 2178.4700000000003,
+        "tx_avg_amount": 726.1566666666668,
+        "tx_max_amount": 973.24,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1179
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10030",
+      "name": "Angela Morton",
+      "email": "williamsyvette@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1146,
+      "features": {
+        "n_logins": 6,
+        "n_transactions": 4,
+        "login_unique_ips": 6,
+        "login_unique_devices": 6,
+        "tx_total_amount": 2856.39,
+        "tx_avg_amount": 714.0975,
+        "tx_max_amount": 1218.6,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1146
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10033",
+      "name": "Michael Cross",
+      "email": "smoore@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 949,
+      "features": {
+        "n_logins": 7,
+        "n_transactions": 6,
+        "login_unique_ips": 7,
+        "login_unique_devices": 7,
+        "tx_total_amount": 4015.66,
+        "tx_avg_amount": 669.2766666666666,
+        "tx_max_amount": 1250.86,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 949
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10042",
+      "name": "Shawn Baker",
+      "email": "newtoneric@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1459,
+      "features": {
+        "n_logins": 10,
+        "n_transactions": 9,
+        "login_unique_ips": 10,
+        "login_unique_devices": 10,
+        "tx_total_amount": 6738.26,
+        "tx_avg_amount": 748.6955555555555,
+        "tx_max_amount": 1329.26,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1459
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10045",
+      "name": "Michael Hoffman",
+      "email": "jonesnicole@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 599,
+      "features": {
+        "n_logins": 11,
+        "n_transactions": 10,
+        "login_unique_ips": 11,
+        "login_unique_devices": 11,
+        "tx_total_amount": 6904.59,
+        "tx_avg_amount": 690.4590000000001,
+        "tx_max_amount": 1277.79,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 599
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10046",
+      "name": "Sandra Aguilar",
+      "email": "russellwilliams@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 348,
+      "features": {
+        "n_logins": 4,
+        "n_transactions": 10,
+        "login_unique_ips": 4,
+        "login_unique_devices": 4,
+        "tx_total_amount": 6058.68,
+        "tx_avg_amount": 605.868,
+        "tx_max_amount": 1269.67,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 348
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10056",
+      "name": "Renee Mcdaniel",
+      "email": "michaeljones@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1765,
+      "features": {
+        "n_logins": 5,
+        "n_transactions": 10,
+        "login_unique_ips": 5,
+        "login_unique_devices": 5,
+        "tx_total_amount": 9505.22,
+        "tx_avg_amount": 950.5219999999999,
+        "tx_max_amount": 1472.62,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1765
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10057",
+      "name": "Lisa Alvarado",
+      "email": "cortezkevin@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 734,
+      "features": {
+        "n_logins": 7,
+        "n_transactions": 9,
+        "login_unique_ips": 7,
+        "login_unique_devices": 7,
+        "tx_total_amount": 4708.59,
+        "tx_avg_amount": 523.1766666666667,
+        "tx_max_amount": 1203.98,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 734
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10059",
+      "name": "Stephanie Gilbert",
+      "email": "richard04@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 571,
+      "features": {
+        "n_logins": 8,
+        "n_transactions": 2,
+        "login_unique_ips": 8,
+        "login_unique_devices": 8,
+        "tx_total_amount": 1812.12,
+        "tx_avg_amount": 906.06,
+        "tx_max_amount": 1011.88,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 571
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10060",
+      "name": "Richard Lawson",
+      "email": "steven73@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1682,
+      "features": {
+        "n_logins": 6,
+        "n_transactions": 3,
+        "login_unique_ips": 6,
+        "login_unique_devices": 6,
+        "tx_total_amount": 1087.33,
+        "tx_avg_amount": 362.4433333333333,
+        "tx_max_amount": 661.25,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1682
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10063",
+      "name": "Angel Riggs",
+      "email": "gibsonolivia@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 970,
+      "features": {
+        "n_logins": 6,
+        "n_transactions": 5,
+        "login_unique_ips": 6,
+        "login_unique_devices": 6,
+        "tx_total_amount": 2870.62,
+        "tx_avg_amount": 574.124,
+        "tx_max_amount": 830.36,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 970
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10066",
+      "name": "Robert Contreras",
+      "email": "stephanie79@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1918,
+      "features": {
+        "n_logins": 7,
+        "n_transactions": 7,
+        "login_unique_ips": 7,
+        "login_unique_devices": 7,
+        "tx_total_amount": 3909.02,
+        "tx_avg_amount": 558.4314285714286,
+        "tx_max_amount": 1487.55,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1918
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10073",
+      "name": "Sarah Ashley",
+      "email": "vmedina@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1296,
+      "features": {
+        "n_logins": 7,
+        "n_transactions": 2,
+        "login_unique_ips": 7,
+        "login_unique_devices": 7,
+        "tx_total_amount": 1694.49,
+        "tx_avg_amount": 847.245,
+        "tx_max_amount": 1247.82,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1296
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10075",
+      "name": "Rebecca Ramsey",
+      "email": "ncalhoun@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1794,
+      "features": {
+        "n_logins": 9,
+        "n_transactions": 3,
+        "login_unique_ips": 9,
+        "login_unique_devices": 9,
+        "tx_total_amount": 2573.9700000000003,
+        "tx_avg_amount": 857.9900000000001,
+        "tx_max_amount": 897.47,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1794
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10076",
+      "name": "James Elliott",
+      "email": "millerroy@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 770,
+      "features": {
+        "n_logins": 8,
+        "n_transactions": 4,
+        "login_unique_ips": 8,
+        "login_unique_devices": 8,
+        "tx_total_amount": 3560.38,
+        "tx_avg_amount": 890.095,
+        "tx_max_amount": 1396.39,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 770
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10077",
+      "name": "David Murphy",
+      "email": "wmurphy@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1212,
+      "features": {
+        "n_logins": 5,
+        "n_transactions": 9,
+        "login_unique_ips": 5,
+        "login_unique_devices": 5,
+        "tx_total_amount": 6713.68,
+        "tx_avg_amount": 745.9644444444444,
+        "tx_max_amount": 1223.75,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1212
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10078",
+      "name": "Trevor Fisher",
+      "email": "ruizkaitlyn@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 423,
+      "features": {
+        "n_logins": 4,
+        "n_transactions": 9,
+        "login_unique_ips": 4,
+        "login_unique_devices": 4,
+        "tx_total_amount": 7679.030000000001,
+        "tx_avg_amount": 853.2255555555556,
+        "tx_max_amount": 1484.71,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 423
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10082",
+      "name": "Alexander Collins",
+      "email": "tsanders@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1384,
+      "features": {
+        "n_logins": 8,
+        "n_transactions": 4,
+        "login_unique_ips": 8,
+        "login_unique_devices": 8,
+        "tx_total_amount": 2967.48,
+        "tx_avg_amount": 741.87,
+        "tx_max_amount": 943.98,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1384
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10084",
+      "name": "Barbara Riggs",
+      "email": "reedross@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1613,
+      "features": {
+        "n_logins": 5,
+        "n_transactions": 3,
+        "login_unique_ips": 5,
+        "login_unique_devices": 5,
+        "tx_total_amount": 2241.75,
+        "tx_avg_amount": 747.25,
+        "tx_max_amount": 1151.83,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1613
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10090",
+      "name": "Robert Peterson",
+      "email": "angela83@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 236,
+      "features": {
+        "n_logins": 4,
+        "n_transactions": 7,
+        "login_unique_ips": 4,
+        "login_unique_devices": 4,
+        "tx_total_amount": 5505.14,
+        "tx_avg_amount": 786.4485714285714,
+        "tx_max_amount": 1428.38,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 236
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10092",
+      "name": "Alan Phillips",
+      "email": "tholt@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 599,
+      "features": {
+        "n_logins": 10,
+        "n_transactions": 8,
+        "login_unique_ips": 10,
+        "login_unique_devices": 10,
+        "tx_total_amount": 6743.24,
+        "tx_avg_amount": 842.905,
+        "tx_max_amount": 1484.16,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 599
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10093",
+      "name": "Kara Schmidt",
+      "email": "jbarajas@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 958,
+      "features": {
+        "n_logins": 5,
+        "n_transactions": 5,
+        "login_unique_ips": 5,
+        "login_unique_devices": 5,
+        "tx_total_amount": 4999.33,
+        "tx_avg_amount": 999.866,
+        "tx_max_amount": 1403.13,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 958
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10097",
+      "name": "Adrian Ferguson",
+      "email": "brandon08@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 363,
+      "features": {
+        "n_logins": 4,
+        "n_transactions": 3,
+        "login_unique_ips": 4,
+        "login_unique_devices": 4,
+        "tx_total_amount": 2023.8,
+        "tx_avg_amount": 674.6,
+        "tx_max_amount": 1041.3,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 363
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10104",
+      "name": "Brad Allen",
+      "email": "moorericky@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1948,
+      "features": {
+        "n_logins": 12,
+        "n_transactions": 2,
+        "login_unique_ips": 12,
+        "login_unique_devices": 12,
+        "tx_total_amount": 1013.03,
+        "tx_avg_amount": 506.515,
+        "tx_max_amount": 598.43,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1948
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10108",
+      "name": "Tammy Gonzales",
+      "email": "sbarker@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1277,
+      "features": {
+        "n_logins": 11,
+        "n_transactions": 8,
+        "login_unique_ips": 11,
+        "login_unique_devices": 11,
+        "tx_total_amount": 7555.41,
+        "tx_avg_amount": 944.42625,
+        "tx_max_amount": 1488.56,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1277
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10109",
+      "name": "Kathryn Snyder",
+      "email": "georgepamela@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1330,
+      "features": {
+        "n_logins": 5,
+        "n_transactions": 9,
+        "login_unique_ips": 5,
+        "login_unique_devices": 5,
+        "tx_total_amount": 6766.45,
+        "tx_avg_amount": 751.8277777777778,
+        "tx_max_amount": 1425.35,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1330
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10111",
+      "name": "Pamela Thompson",
+      "email": "lmoon@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1123,
+      "features": {
+        "n_logins": 3,
+        "n_transactions": 8,
+        "login_unique_ips": 3,
+        "login_unique_devices": 3,
+        "tx_total_amount": 3692.1499999999996,
+        "tx_avg_amount": 461.51874999999995,
+        "tx_max_amount": 1079.56,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1123
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10113",
+      "name": "Shannon Rivera",
+      "email": "zroberts@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 531,
+      "features": {
+        "n_logins": 6,
+        "n_transactions": 3,
+        "login_unique_ips": 6,
+        "login_unique_devices": 6,
+        "tx_total_amount": 2334.34,
+        "tx_avg_amount": 778.1133333333333,
+        "tx_max_amount": 1342.32,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 531
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10119",
+      "name": "Dr. Jordan Hill PhD",
+      "email": "jsanchez@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1340,
+      "features": {
+        "n_logins": 7,
+        "n_transactions": 8,
+        "login_unique_ips": 7,
+        "login_unique_devices": 7,
+        "tx_total_amount": 4295.55,
+        "tx_avg_amount": 536.94375,
+        "tx_max_amount": 1475.38,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1340
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10126",
+      "name": "Evelyn Garcia",
+      "email": "dgarcia@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1603,
+      "features": {
+        "n_logins": 11,
+        "n_transactions": 7,
+        "login_unique_ips": 11,
+        "login_unique_devices": 11,
+        "tx_total_amount": 5514.74,
+        "tx_avg_amount": 787.8199999999999,
+        "tx_max_amount": 1179.56,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1603
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10129",
+      "name": "Stacy Freeman",
+      "email": "williamsonjimmy@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 499,
+      "features": {
+        "n_logins": 11,
+        "n_transactions": 2,
+        "login_unique_ips": 11,
+        "login_unique_devices": 11,
+        "tx_total_amount": 1436.8899999999999,
+        "tx_avg_amount": 718.4449999999999,
+        "tx_max_amount": 774.24,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 499
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10144",
+      "name": "Brenda Levy",
+      "email": "zcoffey@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 465,
+      "features": {
+        "n_logins": 4,
+        "n_transactions": 4,
+        "login_unique_ips": 4,
+        "login_unique_devices": 4,
+        "tx_total_amount": 3043.32,
+        "tx_avg_amount": 760.83,
+        "tx_max_amount": 1420.7,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 465
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10148",
+      "name": "Elizabeth Ortiz",
+      "email": "brandonjohnson@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1841,
+      "features": {
+        "n_logins": 6,
+        "n_transactions": 7,
+        "login_unique_ips": 6,
+        "login_unique_devices": 6,
+        "tx_total_amount": 4329.77,
+        "tx_avg_amount": 618.5385714285715,
+        "tx_max_amount": 1472.61,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1841
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10152",
+      "name": "Michael Stephens",
+      "email": "bruce43@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 322,
+      "features": {
+        "n_logins": 4,
+        "n_transactions": 4,
+        "login_unique_ips": 4,
+        "login_unique_devices": 4,
+        "tx_total_amount": 4450.55,
+        "tx_avg_amount": 1112.6375,
+        "tx_max_amount": 1487.24,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 322
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10157",
+      "name": "Richard Young",
+      "email": "alfred40@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1179,
+      "features": {
+        "n_logins": 6,
+        "n_transactions": 5,
+        "login_unique_ips": 6,
+        "login_unique_devices": 6,
+        "tx_total_amount": 2321.56,
+        "tx_avg_amount": 464.312,
+        "tx_max_amount": 1423.67,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1179
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10164",
+      "name": "Cindy Hayes",
+      "email": "robertwilcox@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1225,
+      "features": {
+        "n_logins": 12,
+        "n_transactions": 8,
+        "login_unique_ips": 12,
+        "login_unique_devices": 12,
+        "tx_total_amount": 7101.07,
+        "tx_avg_amount": 887.63375,
+        "tx_max_amount": 1368.82,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1225
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10165",
+      "name": "Brandon Simmons",
+      "email": "nicholas27@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 847,
+      "features": {
+        "n_logins": 6,
+        "n_transactions": 9,
+        "login_unique_ips": 6,
+        "login_unique_devices": 6,
+        "tx_total_amount": 7220.39,
+        "tx_avg_amount": 802.2655555555556,
+        "tx_max_amount": 1380.98,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 847
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10173",
+      "name": "Cindy Barnes",
+      "email": "eric45@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 126,
+      "features": {
+        "n_logins": 4,
+        "n_transactions": 5,
+        "login_unique_ips": 4,
+        "login_unique_devices": 4,
+        "tx_total_amount": 4070.7200000000003,
+        "tx_avg_amount": 814.144,
+        "tx_max_amount": 1460.97,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 126
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10175",
+      "name": "Lawrence Perry",
+      "email": "kariwilson@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 254,
+      "features": {
+        "n_logins": 9,
+        "n_transactions": 5,
+        "login_unique_ips": 9,
+        "login_unique_devices": 9,
+        "tx_total_amount": 5508.139999999999,
+        "tx_avg_amount": 1101.628,
+        "tx_max_amount": 1485.48,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 254
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10180",
+      "name": "Thomas Atkins",
+      "email": "tberry@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1423,
+      "features": {
+        "n_logins": 5,
+        "n_transactions": 3,
+        "login_unique_ips": 5,
+        "login_unique_devices": 5,
+        "tx_total_amount": 2892.3500000000004,
+        "tx_avg_amount": 964.1166666666668,
+        "tx_max_amount": 1401.24,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1423
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10182",
+      "name": "Anita Richard",
+      "email": "ryanmorales@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1251,
+      "features": {
+        "n_logins": 7,
+        "n_transactions": 4,
+        "login_unique_ips": 7,
+        "login_unique_devices": 7,
+        "tx_total_amount": 537.06,
+        "tx_avg_amount": 134.265,
+        "tx_max_amount": 333.03,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1251
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10185",
+      "name": "Craig Morrison",
+      "email": "thompsonkendra@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 811,
+      "features": {
+        "n_logins": 5,
+        "n_transactions": 6,
+        "login_unique_ips": 5,
+        "login_unique_devices": 5,
+        "tx_total_amount": 3794.61,
+        "tx_avg_amount": 632.4350000000001,
+        "tx_max_amount": 1051.58,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 811
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10186",
+      "name": "Justin Riley",
+      "email": "michelle52@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1250,
+      "features": {
+        "n_logins": 9,
+        "n_transactions": 3,
+        "login_unique_ips": 9,
+        "login_unique_devices": 9,
+        "tx_total_amount": 3516.77,
+        "tx_avg_amount": 1172.2566666666667,
+        "tx_max_amount": 1280.75,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1250
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10192",
+      "name": "Helen Hardin",
+      "email": "vortiz@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1960,
+      "features": {
+        "n_logins": 12,
+        "n_transactions": 5,
+        "login_unique_ips": 12,
+        "login_unique_devices": 12,
+        "tx_total_amount": 5057.06,
+        "tx_avg_amount": 1011.412,
+        "tx_max_amount": 1358.84,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1960
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10193",
+      "name": "Rachel Holland",
+      "email": "riveraangela@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 53,
+      "features": {
+        "n_logins": 10,
+        "n_transactions": 8,
+        "login_unique_ips": 10,
+        "login_unique_devices": 10,
+        "tx_total_amount": 5489.93,
+        "tx_avg_amount": 686.24125,
+        "tx_max_amount": 1425.15,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 53
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10196",
+      "name": "James Conner",
+      "email": "elizabethcalderon@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 264,
+      "features": {
+        "n_logins": 6,
+        "n_transactions": 7,
+        "login_unique_ips": 6,
+        "login_unique_devices": 6,
+        "tx_total_amount": 4757.16,
+        "tx_avg_amount": 679.5942857142857,
+        "tx_max_amount": 1245.19,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 264
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10203",
+      "name": "Douglas Reyes",
+      "email": "mburch@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1342,
+      "features": {
+        "n_logins": 7,
+        "n_transactions": 7,
+        "login_unique_ips": 7,
+        "login_unique_devices": 7,
+        "tx_total_amount": 4774.48,
+        "tx_avg_amount": 682.0685714285713,
+        "tx_max_amount": 1248.2,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1342
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10211",
+      "name": "Riley Bryant",
+      "email": "copelandvincent@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1983,
+      "features": {
+        "n_logins": 7,
+        "n_transactions": 8,
+        "login_unique_ips": 7,
+        "login_unique_devices": 7,
+        "tx_total_amount": 6642.13,
+        "tx_avg_amount": 830.26625,
+        "tx_max_amount": 1478.72,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1983
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10215",
+      "name": "James Burgess",
+      "email": "kristina53@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 569,
+      "features": {
+        "n_logins": 7,
+        "n_transactions": 3,
+        "login_unique_ips": 7,
+        "login_unique_devices": 7,
+        "tx_total_amount": 3001.95,
+        "tx_avg_amount": 1000.65,
+        "tx_max_amount": 1399.74,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 569
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10218",
+      "name": "Chad Baldwin",
+      "email": "mjohnson@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 395,
+      "features": {
+        "n_logins": 11,
+        "n_transactions": 10,
+        "login_unique_ips": 11,
+        "login_unique_devices": 11,
+        "tx_total_amount": 8090.04,
+        "tx_avg_amount": 809.004,
+        "tx_max_amount": 1360.73,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 395
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10221",
+      "name": "Jessica Ross",
+      "email": "ykline@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 247,
+      "features": {
+        "n_logins": 7,
+        "n_transactions": 6,
+        "login_unique_ips": 7,
+        "login_unique_devices": 7,
+        "tx_total_amount": 5599.73,
+        "tx_avg_amount": 933.2883333333333,
+        "tx_max_amount": 1389.72,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 247
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10226",
+      "name": "Heidi Owen",
+      "email": "stephaniethomas@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1338,
+      "features": {
+        "n_logins": 8,
+        "n_transactions": 9,
+        "login_unique_ips": 8,
+        "login_unique_devices": 8,
+        "tx_total_amount": 7038.76,
+        "tx_avg_amount": 782.0844444444444,
+        "tx_max_amount": 1303.83,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1338
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10229",
+      "name": "Laura Moreno",
+      "email": "redwards@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 437,
+      "features": {
+        "n_logins": 10,
+        "n_transactions": 4,
+        "login_unique_ips": 10,
+        "login_unique_devices": 10,
+        "tx_total_amount": 4480.01,
+        "tx_avg_amount": 1120.0025,
+        "tx_max_amount": 1439.91,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 437
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10230",
+      "name": "Allison Lopez",
+      "email": "hmcintyre@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 343,
+      "features": {
+        "n_logins": 5,
+        "n_transactions": 2,
+        "login_unique_ips": 5,
+        "login_unique_devices": 5,
+        "tx_total_amount": 1781.56,
+        "tx_avg_amount": 890.78,
+        "tx_max_amount": 1242.78,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 343
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10231",
+      "name": "Michele Lewis",
+      "email": "heather73@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 795,
+      "features": {
+        "n_logins": 11,
+        "n_transactions": 9,
+        "login_unique_ips": 11,
+        "login_unique_devices": 11,
+        "tx_total_amount": 7161.610000000001,
+        "tx_avg_amount": 795.7344444444445,
+        "tx_max_amount": 1462.12,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 795
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10232",
+      "name": "Benjamin Thompson",
+      "email": "zosborn@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1591,
+      "features": {
+        "n_logins": 9,
+        "n_transactions": 5,
+        "login_unique_ips": 9,
+        "login_unique_devices": 9,
+        "tx_total_amount": 6039.07,
+        "tx_avg_amount": 1207.8139999999999,
+        "tx_max_amount": 1428.0,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1591
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10233",
+      "name": "Victoria Contreras",
+      "email": "piercekelly@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 360,
+      "features": {
+        "n_logins": 4,
+        "n_transactions": 4,
+        "login_unique_ips": 4,
+        "login_unique_devices": 4,
+        "tx_total_amount": 4697.99,
+        "tx_avg_amount": 1174.4975,
+        "tx_max_amount": 1466.71,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 360
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10234",
+      "name": "Michelle Ho",
+      "email": "laurahicks@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1134,
+      "features": {
+        "n_logins": 8,
+        "n_transactions": 8,
+        "login_unique_ips": 8,
+        "login_unique_devices": 8,
+        "tx_total_amount": 5936.13,
+        "tx_avg_amount": 742.01625,
+        "tx_max_amount": 1322.06,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1134
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10237",
+      "name": "Patricia Morrow",
+      "email": "martinezlogan@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1919,
+      "features": {
+        "n_logins": 5,
+        "n_transactions": 6,
+        "login_unique_ips": 5,
+        "login_unique_devices": 5,
+        "tx_total_amount": 2513.96,
+        "tx_avg_amount": 418.99333333333334,
+        "tx_max_amount": 724.36,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1919
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10238",
+      "name": "Michael Cooper",
+      "email": "katrinaanderson@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1116,
+      "features": {
+        "n_logins": 12,
+        "n_transactions": 6,
+        "login_unique_ips": 12,
+        "login_unique_devices": 12,
+        "tx_total_amount": 3880.69,
+        "tx_avg_amount": 646.7816666666666,
+        "tx_max_amount": 989.09,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1116
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10239",
+      "name": "Amy Martinez",
+      "email": "kevinmartin@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1911,
+      "features": {
+        "n_logins": 11,
+        "n_transactions": 3,
+        "login_unique_ips": 11,
+        "login_unique_devices": 11,
+        "tx_total_amount": 3013.71,
+        "tx_avg_amount": 1004.57,
+        "tx_max_amount": 1428.49,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1911
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10249",
+      "name": "Michelle Lee",
+      "email": "tyronerobertson@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1733,
+      "features": {
+        "n_logins": 12,
+        "n_transactions": 5,
+        "login_unique_ips": 12,
+        "login_unique_devices": 12,
+        "tx_total_amount": 4138.83,
+        "tx_avg_amount": 827.766,
+        "tx_max_amount": 1363.21,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1733
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10250",
+      "name": "Kathleen Davis",
+      "email": "pwagner@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1682,
+      "features": {
+        "n_logins": 8,
+        "n_transactions": 9,
+        "login_unique_ips": 8,
+        "login_unique_devices": 8,
+        "tx_total_amount": 7674.78,
+        "tx_avg_amount": 852.7533333333333,
+        "tx_max_amount": 1463.09,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1682
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10256",
+      "name": "Andrew Reeves",
+      "email": "jstone@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1191,
+      "features": {
+        "n_logins": 6,
+        "n_transactions": 9,
+        "login_unique_ips": 6,
+        "login_unique_devices": 6,
+        "tx_total_amount": 5393.57,
+        "tx_avg_amount": 599.2855555555556,
+        "tx_max_amount": 1306.32,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1191
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10266",
+      "name": "Courtney Dudley",
+      "email": "kellie37@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1598,
+      "features": {
+        "n_logins": 9,
+        "n_transactions": 5,
+        "login_unique_ips": 9,
+        "login_unique_devices": 9,
+        "tx_total_amount": 4337.16,
+        "tx_avg_amount": 867.432,
+        "tx_max_amount": 1455.89,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1598
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10278",
+      "name": "David Lopez",
+      "email": "krystal93@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 896,
+      "features": {
+        "n_logins": 6,
+        "n_transactions": 4,
+        "login_unique_ips": 6,
+        "login_unique_devices": 6,
+        "tx_total_amount": 3238.1299999999997,
+        "tx_avg_amount": 809.5324999999999,
+        "tx_max_amount": 1346.34,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 896
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10281",
+      "name": "Paul Finley",
+      "email": "brandi90@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1134,
+      "features": {
+        "n_logins": 3,
+        "n_transactions": 4,
+        "login_unique_ips": 3,
+        "login_unique_devices": 3,
+        "tx_total_amount": 1609.18,
+        "tx_avg_amount": 402.295,
+        "tx_max_amount": 637.46,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1134
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10282",
+      "name": "Melissa Brown",
+      "email": "marshallerik@example.net",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1576,
+      "features": {
+        "n_logins": 3,
+        "n_transactions": 9,
+        "login_unique_ips": 3,
+        "login_unique_devices": 3,
+        "tx_total_amount": 7337.75,
+        "tx_avg_amount": 815.3055555555555,
+        "tx_max_amount": 1366.62,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1576
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10286",
+      "name": "Angela Griffin",
+      "email": "christian91@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1490,
+      "features": {
+        "n_logins": 4,
+        "n_transactions": 3,
+        "login_unique_ips": 4,
+        "login_unique_devices": 4,
+        "tx_total_amount": 2367.7400000000002,
+        "tx_avg_amount": 789.2466666666668,
+        "tx_max_amount": 1443.44,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1490
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10288",
+      "name": "Daniel Aguilar",
+      "email": "nolansean@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 847,
+      "features": {
+        "n_logins": 3,
+        "n_transactions": 10,
+        "login_unique_ips": 3,
+        "login_unique_devices": 3,
+        "tx_total_amount": 5206.97,
+        "tx_avg_amount": 520.697,
+        "tx_max_amount": 1339.28,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 847
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10289",
+      "name": "Jose Bryant",
+      "email": "hansenemily@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 1405,
+      "features": {
+        "n_logins": 9,
+        "n_transactions": 5,
+        "login_unique_ips": 9,
+        "login_unique_devices": 9,
+        "tx_total_amount": 4069.97,
+        "tx_avg_amount": 813.9939999999999,
+        "tx_max_amount": 1474.48,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 1405
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10295",
+      "name": "Kimberly Patel",
+      "email": "johnreed@example.com",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 954,
+      "features": {
+        "n_logins": 11,
+        "n_transactions": 6,
+        "login_unique_ips": 11,
+        "login_unique_devices": 11,
+        "tx_total_amount": 2906.55,
+        "tx_avg_amount": 484.425,
+        "tx_max_amount": 1470.14,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 954
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-10297",
+      "name": "Austin Wheeler",
+      "email": "tharper@example.org",
+      "is_fraud": 0,
+      "ring_id": null,
+      "age_days": 537,
+      "features": {
+        "n_logins": 11,
+        "n_transactions": 4,
+        "login_unique_ips": 11,
+        "login_unique_devices": 11,
+        "tx_total_amount": 2191.92,
+        "tx_avg_amount": 547.98,
+        "tx_max_amount": 1227.16,
+        "degree": 0,
+        "weighted_degree": 0,
+        "shared_ip_count": 0,
+        "shared_device_count": 0,
+        "shared_phone_count": 0,
+        "shared_bank_count": 0,
+        "account_age_days": 537
+      },
+      "risk_score": 0.0474
+    },
+    {
+      "id": "ACC-F0000",
+      "name": "Dalton Lucas",
+      "email": "fboone@example.net",
+      "is_fraud": 1,
+      "ring_id": "RING-01",
+      "age_days": 72,
+      "features": {
+        "n_logins": 7,
+        "n_transactions": 4,
+        "login_unique_ips": 3,
+        "login_unique_devices": 2,
+        "tx_total_amount": 33836.06,
+        "tx_avg_amount": 8459.015,
+        "tx_max_amount": 18172.91,
+        "degree": 5,
+        "weighted_degree": 40,
+        "shared_ip_count": 5,
+        "shared_device_count": 5,
+        "shared_phone_count": 5,
+        "shared_bank_count": 5,
+        "account_age_days": 72
+      },
+      "risk_score": 0.774
+    },
+    {
+      "id": "ACC-F0001",
+      "name": "Cheryl Adams",
+      "email": "russojacob@example.net",
+      "is_fraud": 1,
+      "ring_id": "RING-01",
+      "age_days": 31,
+      "features": {
+        "n_logins": 8,
+        "n_transactions": 2,
+        "login_unique_ips": 3,
+        "login_unique_devices": 2,
+        "tx_total_amount": 46789.96,
+        "tx_avg_amount": 23394.98,
+        "tx_max_amount": 23961.59,
+        "degree": 5,
+        "weighted_degree": 40,
+        "shared_ip_count": 5,
+        "shared_device_count": 5,
+        "shared_phone_count": 5,
+        "shared_bank_count": 5,
+        "account_age_days": 31
+      },
+      "risk_score": 0.774
+    },
+    {
+      "id": "ACC-F0002",
+      "name": "Kristin Mendoza",
+      "email": "kevin03@example.org",
+      "is_fraud": 1,
+      "ring_id": "RING-01",
+      "age_days": 77,
+      "features": {
+        "n_logins": 8,
+        "n_transactions": 8,
+        "login_unique_ips": 3,
+        "login_unique_devices": 2,
+        "tx_total_amount": 112828.51999999999,
+        "tx_avg_amount": 14103.564999999999,
+        "tx_max_amount": 22088.35,
+        "degree": 5,
+        "weighted_degree": 40,
+        "shared_ip_count": 5,
+        "shared_device_count": 5,
+        "shared_phone_count": 5,
+        "shared_bank_count": 5,
+        "account_age_days": 77
+      },
+      "risk_score": 0.774
+    },
+    {
+      "id": "ACC-F0003",
+      "name": "Autumn Key",
+      "email": "srocha@example.net",
+      "is_fraud": 1,
+      "ring_id": "RING-01",
+      "age_days": 30,
+      "features": {
+        "n_logins": 7,
+        "n_transactions": 7,
+        "login_unique_ips": 3,
+        "login_unique_devices": 2,
+        "tx_total_amount": 49249.96,
+        "tx_avg_amount": 7035.708571428571,
+        "tx_max_amount": 15129.21,
+        "degree": 5,
+        "weighted_degree": 40,
+        "shared_ip_count": 5,
+        "shared_device_count": 5,
+        "shared_phone_count": 5,
+        "shared_bank_count": 5,
+        "account_age_days": 30
+      },
+      "risk_score": 0.774
+    },
+    {
+      "id": "ACC-F0004",
+      "name": "Jennifer Allen",
+      "email": "kimberly67@example.net",
+      "is_fraud": 1,
+      "ring_id": "RING-01",
+      "age_days": 2,
+      "features": {
+        "n_logins": 4,
+        "n_transactions": 8,
+        "login_unique_ips": 2,
+        "login_unique_devices": 2,
+        "tx_total_amount": 92449.51,
+        "tx_avg_amount": 11556.18875,
+        "tx_max_amount": 24359.34,
+        "degree": 5,
+        "weighted_degree": 40,
+        "shared_ip_count": 5,
+        "shared_device_count": 5,
+        "shared_phone_count": 5,
+        "shared_bank_count": 5,
+        "account_age_days": 2
+      },
+      "risk_score": 0.774
+    },
+    {
+      "id": "ACC-F0005",
+      "name": "Elizabeth Ward",
+      "email": "zowens@example.net",
+      "is_fraud": 1,
+      "ring_id": "RING-01",
+      "age_days": 11,
+      "features": {
+        "n_logins": 6,
+        "n_transactions": 2,
+        "login_unique_ips": 3,
+        "login_unique_devices": 2,
+        "tx_total_amount": 16710.62,
+        "tx_avg_amount": 8355.31,
+        "tx_max_amount": 13904.83,
+        "degree": 5,
+        "weighted_degree": 40,
+        "shared_ip_count": 5,
+        "shared_device_count": 5,
+        "shared_phone_count": 5,
+        "shared_bank_count": 5,
+        "account_age_days": 11
+      },
+      "risk_score": 0.774
+    },
+    {
+      "id": "ACC-F0100",
+      "name": "Steve Mooney",
+      "email": "warrenmary@example.org",
+      "is_fraud": 1,
+      "ring_id": "RING-02",
+      "age_days": 6,
+      "features": {
+        "n_logins": 8,
+        "n_transactions": 8,
+        "login_unique_ips": 3,
+        "login_unique_devices": 2,
+        "tx_total_amount": 107678.94,
+        "tx_avg_amount": 13459.8675,
+        "tx_max_amount": 21916.89,
+        "degree": 3,
+        "weighted_degree": 24,
+        "shared_ip_count": 3,
+        "shared_device_count": 3,
+        "shared_phone_count": 3,
+        "shared_bank_count": 3,
+        "account_age_days": 6
+      },
+      "risk_score": 0.3866
+    },
+    {
+      "id": "ACC-F0101",
+      "name": "Mary Duran",
+      "email": "otaylor@example.org",
+      "is_fraud": 1,
+      "ring_id": "RING-02",
+      "age_days": 44,
+      "features": {
+        "n_logins": 10,
+        "n_transactions": 4,
+        "login_unique_ips": 3,
+        "login_unique_devices": 2,
+        "tx_total_amount": 48758.97,
+        "tx_avg_amount": 12189.7425,
+        "tx_max_amount": 21846.58,
+        "degree": 3,
+        "weighted_degree": 24,
+        "shared_ip_count": 3,
+        "shared_device_count": 3,
+        "shared_phone_count": 3,
+        "shared_bank_count": 3,
+        "account_age_days": 44
+      },
+      "risk_score": 0.3866
+    },
+    {
+      "id": "ACC-F0102",
+      "name": "Chris Robinson",
+      "email": "nbrooks@example.net",
+      "is_fraud": 1,
+      "ring_id": "RING-02",
+      "age_days": 11,
+      "features": {
+        "n_logins": 7,
+        "n_transactions": 7,
+        "login_unique_ips": 3,
+        "login_unique_devices": 2,
+        "tx_total_amount": 104131.85,
+        "tx_avg_amount": 14875.978571428572,
+        "tx_max_amount": 24711.85,
+        "degree": 3,
+        "weighted_degree": 24,
+        "shared_ip_count": 3,
+        "shared_device_count": 3,
+        "shared_phone_count": 3,
+        "shared_bank_count": 3,
+        "account_age_days": 11
+      },
+      "risk_score": 0.3866
+    },
+    {
+      "id": "ACC-F0103",
+      "name": "Lisa Webb",
+      "email": "ismith@example.net",
+      "is_fraud": 1,
+      "ring_id": "RING-02",
+      "age_days": 67,
+      "features": {
+        "n_logins": 11,
+        "n_transactions": 8,
+        "login_unique_ips": 3,
+        "login_unique_devices": 2,
+        "tx_total_amount": 93541.92,
+        "tx_avg_amount": 11692.74,
+        "tx_max_amount": 22745.84,
+        "degree": 3,
+        "weighted_degree": 24,
+        "shared_ip_count": 3,
+        "shared_device_count": 3,
+        "shared_phone_count": 3,
+        "shared_bank_count": 3,
+        "account_age_days": 67
+      },
+      "risk_score": 0.3866
+    },
+    {
+      "id": "ACC-F0200",
+      "name": "Samuel Smith",
+      "email": "brendagoodwin@example.net",
+      "is_fraud": 1,
+      "ring_id": "RING-03",
+      "age_days": 29,
+      "features": {
+        "n_logins": 8,
+        "n_transactions": 8,
+        "login_unique_ips": 5,
+        "login_unique_devices": 3,
+        "tx_total_amount": 130046.08,
+        "tx_avg_amount": 16255.76,
+        "tx_max_amount": 24445.21,
+        "degree": 4,
+        "weighted_degree": 52,
+        "shared_ip_count": 4,
+        "shared_device_count": 4,
+        "shared_phone_count": 4,
+        "shared_bank_count": 4,
+        "account_age_days": 29
+      },
+      "risk_score": 0.7311
+    },
+    {
+      "id": "ACC-F0201",
+      "name": "Tanya Evans",
+      "email": "ashleyatkinson@example.net",
+      "is_fraud": 1,
+      "ring_id": "RING-03",
+      "age_days": 71,
+      "features": {
+        "n_logins": 12,
+        "n_transactions": 3,
+        "login_unique_ips": 5,
+        "login_unique_devices": 3,
+        "tx_total_amount": 30751.62,
+        "tx_avg_amount": 10250.539999999999,
+        "tx_max_amount": 20309.45,
+        "degree": 4,
+        "weighted_degree": 52,
+        "shared_ip_count": 4,
+        "shared_device_count": 4,
+        "shared_phone_count": 4,
+        "shared_bank_count": 4,
+        "account_age_days": 71
+      },
+      "risk_score": 0.7311
+    },
+    {
+      "id": "ACC-F0202",
+      "name": "Evelyn Campos",
+      "email": "krystalnorris@example.org",
+      "is_fraud": 1,
+      "ring_id": "RING-03",
+      "age_days": 18,
+      "features": {
+        "n_logins": 5,
+        "n_transactions": 2,
+        "login_unique_ips": 3,
+        "login_unique_devices": 2,
+        "tx_total_amount": 28314.53,
+        "tx_avg_amount": 14157.265,
+        "tx_max_amount": 22515.02,
+        "degree": 4,
+        "weighted_degree": 52,
+        "shared_ip_count": 4,
+        "shared_device_count": 4,
+        "shared_phone_count": 4,
+        "shared_bank_count": 4,
+        "account_age_days": 18
+      },
+      "risk_score": 0.7311
+    },
+    {
+      "id": "ACC-F0203",
+      "name": "Valerie Brown",
+      "email": "ehall@example.com",
+      "is_fraud": 1,
+      "ring_id": "RING-03",
+      "age_days": 75,
+      "features": {
+        "n_logins": 3,
+        "n_transactions": 6,
+        "login_unique_ips": 2,
+        "login_unique_devices": 2,
+        "tx_total_amount": 72665.29,
+        "tx_avg_amount": 12110.881666666666,
+        "tx_max_amount": 24065.85,
+        "degree": 4,
+        "weighted_degree": 52,
+        "shared_ip_count": 4,
+        "shared_device_count": 4,
+        "shared_phone_count": 4,
+        "shared_bank_count": 4,
+        "account_age_days": 75
+      },
+      "risk_score": 0.7311
+    },
+    {
+      "id": "ACC-F0204",
+      "name": "Lisa Larson",
+      "email": "anthony47@example.com",
+      "is_fraud": 1,
+      "ring_id": "RING-03",
+      "age_days": 75,
+      "features": {
+        "n_logins": 7,
+        "n_transactions": 7,
+        "login_unique_ips": 4,
+        "login_unique_devices": 3,
+        "tx_total_amount": 72530.48999999999,
+        "tx_avg_amount": 10361.49857142857,
+        "tx_max_amount": 18061.66,
+        "degree": 4,
+        "weighted_degree": 52,
+        "shared_ip_count": 4,
+        "shared_device_count": 4,
+        "shared_phone_count": 4,
+        "shared_bank_count": 4,
+        "account_age_days": 75
+      },
+      "risk_score": 0.7311
+    },
+    {
+      "id": "ACC-F0300",
+      "name": "Hector Davis",
+      "email": "michelle04@example.com",
+      "is_fraud": 1,
+      "ring_id": "RING-04",
+      "age_days": 54,
+      "features": {
+        "n_logins": 11,
+        "n_transactions": 8,
+        "login_unique_ips": 3,
+        "login_unique_devices": 2,
+        "tx_total_amount": 91778.75,
+        "tx_avg_amount": 11472.34375,
+        "tx_max_amount": 23473.74,
+        "degree": 6,
+        "weighted_degree": 48,
+        "shared_ip_count": 6,
+        "shared_device_count": 6,
+        "shared_phone_count": 6,
+        "shared_bank_count": 6,
+        "account_age_days": 54
+      },
+      "risk_score": 0.8886
+    },
+    {
+      "id": "ACC-F0301",
+      "name": "Bradley Santana",
+      "email": "ashleyjackson@example.com",
+      "is_fraud": 1,
+      "ring_id": "RING-04",
+      "age_days": 26,
+      "features": {
+        "n_logins": 8,
+        "n_transactions": 3,
+        "login_unique_ips": 3,
+        "login_unique_devices": 2,
+        "tx_total_amount": 45111.590000000004,
+        "tx_avg_amount": 15037.196666666669,
+        "tx_max_amount": 24420.56,
+        "degree": 6,
+        "weighted_degree": 48,
+        "shared_ip_count": 6,
+        "shared_device_count": 6,
+        "shared_phone_count": 6,
+        "shared_bank_count": 6,
+        "account_age_days": 26
+      },
+      "risk_score": 0.8886
+    },
+    {
+      "id": "ACC-F0302",
+      "name": "Derrick Adams",
+      "email": "bryanhamilton@example.com",
+      "is_fraud": 1,
+      "ring_id": "RING-04",
+      "age_days": 14,
+      "features": {
+        "n_logins": 7,
+        "n_transactions": 10,
+        "login_unique_ips": 3,
+        "login_unique_devices": 2,
+        "tx_total_amount": 116822.81,
+        "tx_avg_amount": 11682.280999999999,
+        "tx_max_amount": 24389.08,
+        "degree": 6,
+        "weighted_degree": 48,
+        "shared_ip_count": 6,
+        "shared_device_count": 6,
+        "shared_phone_count": 6,
+        "shared_bank_count": 6,
+        "account_age_days": 14
+      },
+      "risk_score": 0.8886
+    },
+    {
+      "id": "ACC-F0303",
+      "name": "Richard Ward",
+      "email": "jennifersimpson@example.net",
+      "is_fraud": 1,
+      "ring_id": "RING-04",
+      "age_days": 14,
+      "features": {
+        "n_logins": 6,
+        "n_transactions": 2,
+        "login_unique_ips": 3,
+        "login_unique_devices": 1,
+        "tx_total_amount": 25796.690000000002,
+        "tx_avg_amount": 12898.345000000001,
+        "tx_max_amount": 23994.81,
+        "degree": 6,
+        "weighted_degree": 48,
+        "shared_ip_count": 6,
+        "shared_device_count": 6,
+        "shared_phone_count": 6,
+        "shared_bank_count": 6,
+        "account_age_days": 14
+      },
+      "risk_score": 0.8886
+    },
+    {
+      "id": "ACC-F0304",
+      "name": "Brian Torres",
+      "email": "ncook@example.com",
+      "is_fraud": 1,
+      "ring_id": "RING-04",
+      "age_days": 86,
+      "features": {
+        "n_logins": 3,
+        "n_transactions": 3,
+        "login_unique_ips": 2,
+        "login_unique_devices": 2,
+        "tx_total_amount": 40128.84,
+        "tx_avg_amount": 13376.279999999999,
+        "tx_max_amount": 18480.12,
+        "degree": 6,
+        "weighted_degree": 48,
+        "shared_ip_count": 6,
+        "shared_device_count": 6,
+        "shared_phone_count": 6,
+        "shared_bank_count": 6,
+        "account_age_days": 86
+      },
+      "risk_score": 0.8886
+    },
+    {
+      "id": "ACC-F0305",
+      "name": "Erin Cook",
+      "email": "kevinmorrison@example.net",
+      "is_fraud": 1,
+      "ring_id": "RING-04",
+      "age_days": 57,
+      "features": {
+        "n_logins": 4,
+        "n_transactions": 8,
+        "login_unique_ips": 2,
+        "login_unique_devices": 2,
+        "tx_total_amount": 83141.95,
+        "tx_avg_amount": 10392.74375,
+        "tx_max_amount": 20966.3,
+        "degree": 6,
+        "weighted_degree": 48,
+        "shared_ip_count": 6,
+        "shared_device_count": 6,
+        "shared_phone_count": 6,
+        "shared_bank_count": 6,
+        "account_age_days": 57
+      },
+      "risk_score": 0.8886
+    },
+    {
+      "id": "ACC-F0306",
+      "name": "Ernest Oconnell",
+      "email": "kelly79@example.org",
+      "is_fraud": 1,
+      "ring_id": "RING-04",
+      "age_days": 47,
+      "features": {
+        "n_logins": 8,
+        "n_transactions": 8,
+        "login_unique_ips": 3,
+        "login_unique_devices": 2,
+        "tx_total_amount": 147850.11,
+        "tx_avg_amount": 18481.26375,
+        "tx_max_amount": 24689.63,
+        "degree": 6,
+        "weighted_degree": 48,
+        "shared_ip_count": 6,
+        "shared_device_count": 6,
+        "shared_phone_count": 6,
+        "shared_bank_count": 6,
+        "account_age_days": 47
+      },
+      "risk_score": 0.8886
+    },
+    {
+      "id": "ACC-F0400",
+      "name": "Kristin Watts",
+      "email": "seanmyers@example.net",
+      "is_fraud": 1,
+      "ring_id": "RING-05",
+      "age_days": 88,
+      "features": {
+        "n_logins": 12,
+        "n_transactions": 7,
+        "login_unique_ips": 4,
+        "login_unique_devices": 3,
+        "tx_total_amount": 87735.6,
+        "tx_avg_amount": 12533.657142857144,
+        "tx_max_amount": 23044.76,
+        "degree": 6,
+        "weighted_degree": 78,
+        "shared_ip_count": 6,
+        "shared_device_count": 6,
+        "shared_phone_count": 6,
+        "shared_bank_count": 6,
+        "account_age_days": 88
+      },
+      "risk_score": 0.9526
+    },
+    {
+      "id": "ACC-F0401",
+      "name": "Kathryn Cooper",
+      "email": "webbkenneth@example.org",
+      "is_fraud": 1,
+      "ring_id": "RING-05",
+      "age_days": 85,
+      "features": {
+        "n_logins": 10,
+        "n_transactions": 9,
+        "login_unique_ips": 5,
+        "login_unique_devices": 3,
+        "tx_total_amount": 118686.45,
+        "tx_avg_amount": 13187.383333333333,
+        "tx_max_amount": 21675.7,
+        "degree": 6,
+        "weighted_degree": 78,
+        "shared_ip_count": 6,
+        "shared_device_count": 6,
+        "shared_phone_count": 6,
+        "shared_bank_count": 6,
+        "account_age_days": 85
+      },
+      "risk_score": 0.9526
+    },
+    {
+      "id": "ACC-F0402",
+      "name": "Todd Thomas",
+      "email": "matthew38@example.com",
+      "is_fraud": 1,
+      "ring_id": "RING-05",
+      "age_days": 84,
+      "features": {
+        "n_logins": 7,
+        "n_transactions": 9,
+        "login_unique_ips": 4,
+        "login_unique_devices": 3,
+        "tx_total_amount": 81176.63,
+        "tx_avg_amount": 9019.625555555556,
+        "tx_max_amount": 16854.62,
+        "degree": 6,
+        "weighted_degree": 78,
+        "shared_ip_count": 6,
+        "shared_device_count": 6,
+        "shared_phone_count": 6,
+        "shared_bank_count": 6,
+        "account_age_days": 84
+      },
+      "risk_score": 0.9526
+    },
+    {
+      "id": "ACC-F0403",
+      "name": "Brent Bowen",
+      "email": "tflores@example.org",
+      "is_fraud": 1,
+      "ring_id": "RING-05",
+      "age_days": 14,
+      "features": {
+        "n_logins": 10,
+        "n_transactions": 8,
+        "login_unique_ips": 4,
+        "login_unique_devices": 3,
+        "tx_total_amount": 71771.98,
+        "tx_avg_amount": 8971.4975,
+        "tx_max_amount": 14820.08,
+        "degree": 6,
+        "weighted_degree": 78,
+        "shared_ip_count": 6,
+        "shared_device_count": 6,
+        "shared_phone_count": 6,
+        "shared_bank_count": 6,
+        "account_age_days": 14
+      },
+      "risk_score": 0.9526
+    },
+    {
+      "id": "ACC-F0404",
+      "name": "Ashley Sweeney",
+      "email": "byrdfrank@example.net",
+      "is_fraud": 1,
+      "ring_id": "RING-05",
+      "age_days": 9,
+      "features": {
+        "n_logins": 6,
+        "n_transactions": 10,
+        "login_unique_ips": 4,
+        "login_unique_devices": 2,
+        "tx_total_amount": 88164.45999999999,
+        "tx_avg_amount": 8816.446,
+        "tx_max_amount": 20139.1,
+        "degree": 6,
+        "weighted_degree": 78,
+        "shared_ip_count": 6,
+        "shared_device_count": 6,
+        "shared_phone_count": 6,
+        "shared_bank_count": 6,
+        "account_age_days": 9
+      },
+      "risk_score": 0.9526
+    },
+    {
+      "id": "ACC-F0405",
+      "name": "Christopher Moore",
+      "email": "omullen@example.com",
+      "is_fraud": 1,
+      "ring_id": "RING-05",
+      "age_days": 53,
+      "features": {
+        "n_logins": 10,
+        "n_transactions": 6,
+        "login_unique_ips": 5,
+        "login_unique_devices": 3,
+        "tx_total_amount": 81303.14,
+        "tx_avg_amount": 13550.523333333333,
+        "tx_max_amount": 23142.27,
+        "degree": 6,
+        "weighted_degree": 78,
+        "shared_ip_count": 6,
+        "shared_device_count": 6,
+        "shared_phone_count": 6,
+        "shared_bank_count": 6,
+        "account_age_days": 53
+      },
+      "risk_score": 0.9526
+    },
+    {
+      "id": "ACC-F0406",
+      "name": "Charlotte Sandoval",
+      "email": "njohnson@example.org",
+      "is_fraud": 1,
+      "ring_id": "RING-05",
+      "age_days": 45,
+      "features": {
+        "n_logins": 12,
+        "n_transactions": 10,
+        "login_unique_ips": 5,
+        "login_unique_devices": 3,
+        "tx_total_amount": 143005.26,
+        "tx_avg_amount": 14300.526000000002,
+        "tx_max_amount": 24953.18,
+        "degree": 6,
+        "weighted_degree": 78,
+        "shared_ip_count": 6,
+        "shared_device_count": 6,
+        "shared_phone_count": 6,
+        "shared_bank_count": 6,
+        "account_age_days": 45
+      },
+      "risk_score": 0.9526
+    }
+  ],
+  "edges": [
+    {
+      "source": "ACC-F0000",
+      "target": "ACC-F0001",
+      "weight": 8,
+      "reasons": [
+        "shared ip 192.168.89.171",
+        "shared ip 172.17.243.93",
+        "shared ip 10.113.44.131",
+        "shared device dev-4bb7062c",
+        "shared device dev-8cd26c52",
+        "shared phone 3342708668826",
+        "shared phone 8705685662462",
+        "shared bank account BA-88961459"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0000",
+      "target": "ACC-F0002",
+      "weight": 8,
+      "reasons": [
+        "shared ip 192.168.89.171",
+        "shared ip 172.17.243.93",
+        "shared ip 10.113.44.131",
+        "shared device dev-4bb7062c",
+        "shared device dev-8cd26c52",
+        "shared phone 3342708668826",
+        "shared phone 8705685662462",
+        "shared bank account BA-88961459"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0000",
+      "target": "ACC-F0003",
+      "weight": 8,
+      "reasons": [
+        "shared ip 192.168.89.171",
+        "shared ip 172.17.243.93",
+        "shared ip 10.113.44.131",
+        "shared device dev-4bb7062c",
+        "shared device dev-8cd26c52",
+        "shared phone 3342708668826",
+        "shared phone 8705685662462",
+        "shared bank account BA-88961459"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0000",
+      "target": "ACC-F0004",
+      "weight": 8,
+      "reasons": [
+        "shared ip 192.168.89.171",
+        "shared ip 172.17.243.93",
+        "shared ip 10.113.44.131",
+        "shared device dev-4bb7062c",
+        "shared device dev-8cd26c52",
+        "shared phone 3342708668826",
+        "shared phone 8705685662462",
+        "shared bank account BA-88961459"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0000",
+      "target": "ACC-F0005",
+      "weight": 8,
+      "reasons": [
+        "shared ip 192.168.89.171",
+        "shared ip 172.17.243.93",
+        "shared ip 10.113.44.131",
+        "shared device dev-4bb7062c",
+        "shared device dev-8cd26c52",
+        "shared phone 3342708668826",
+        "shared phone 8705685662462",
+        "shared bank account BA-88961459"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0001",
+      "target": "ACC-F0002",
+      "weight": 8,
+      "reasons": [
+        "shared ip 192.168.89.171",
+        "shared ip 172.17.243.93",
+        "shared ip 10.113.44.131",
+        "shared device dev-4bb7062c",
+        "shared device dev-8cd26c52",
+        "shared phone 3342708668826",
+        "shared phone 8705685662462",
+        "shared bank account BA-88961459"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0001",
+      "target": "ACC-F0003",
+      "weight": 8,
+      "reasons": [
+        "shared ip 192.168.89.171",
+        "shared ip 172.17.243.93",
+        "shared ip 10.113.44.131",
+        "shared device dev-4bb7062c",
+        "shared device dev-8cd26c52",
+        "shared phone 3342708668826",
+        "shared phone 8705685662462",
+        "shared bank account BA-88961459"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0001",
+      "target": "ACC-F0004",
+      "weight": 8,
+      "reasons": [
+        "shared ip 192.168.89.171",
+        "shared ip 172.17.243.93",
+        "shared ip 10.113.44.131",
+        "shared device dev-4bb7062c",
+        "shared device dev-8cd26c52",
+        "shared phone 3342708668826",
+        "shared phone 8705685662462",
+        "shared bank account BA-88961459"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0001",
+      "target": "ACC-F0005",
+      "weight": 8,
+      "reasons": [
+        "shared ip 192.168.89.171",
+        "shared ip 172.17.243.93",
+        "shared ip 10.113.44.131",
+        "shared device dev-4bb7062c",
+        "shared device dev-8cd26c52",
+        "shared phone 3342708668826",
+        "shared phone 8705685662462",
+        "shared bank account BA-88961459"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0002",
+      "target": "ACC-F0003",
+      "weight": 8,
+      "reasons": [
+        "shared ip 192.168.89.171",
+        "shared ip 172.17.243.93",
+        "shared ip 10.113.44.131",
+        "shared device dev-4bb7062c",
+        "shared device dev-8cd26c52",
+        "shared phone 3342708668826",
+        "shared phone 8705685662462",
+        "shared bank account BA-88961459"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0002",
+      "target": "ACC-F0004",
+      "weight": 8,
+      "reasons": [
+        "shared ip 192.168.89.171",
+        "shared ip 172.17.243.93",
+        "shared ip 10.113.44.131",
+        "shared device dev-4bb7062c",
+        "shared device dev-8cd26c52",
+        "shared phone 3342708668826",
+        "shared phone 8705685662462",
+        "shared bank account BA-88961459"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0002",
+      "target": "ACC-F0005",
+      "weight": 8,
+      "reasons": [
+        "shared ip 192.168.89.171",
+        "shared ip 172.17.243.93",
+        "shared ip 10.113.44.131",
+        "shared device dev-4bb7062c",
+        "shared device dev-8cd26c52",
+        "shared phone 3342708668826",
+        "shared phone 8705685662462",
+        "shared bank account BA-88961459"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0003",
+      "target": "ACC-F0004",
+      "weight": 8,
+      "reasons": [
+        "shared ip 192.168.89.171",
+        "shared ip 172.17.243.93",
+        "shared ip 10.113.44.131",
+        "shared device dev-4bb7062c",
+        "shared device dev-8cd26c52",
+        "shared phone 3342708668826",
+        "shared phone 8705685662462",
+        "shared bank account BA-88961459"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0003",
+      "target": "ACC-F0005",
+      "weight": 8,
+      "reasons": [
+        "shared ip 192.168.89.171",
+        "shared ip 172.17.243.93",
+        "shared ip 10.113.44.131",
+        "shared device dev-4bb7062c",
+        "shared device dev-8cd26c52",
+        "shared phone 3342708668826",
+        "shared phone 8705685662462",
+        "shared bank account BA-88961459"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0004",
+      "target": "ACC-F0005",
+      "weight": 8,
+      "reasons": [
+        "shared ip 192.168.89.171",
+        "shared ip 172.17.243.93",
+        "shared ip 10.113.44.131",
+        "shared device dev-4bb7062c",
+        "shared device dev-8cd26c52",
+        "shared phone 3342708668826",
+        "shared phone 8705685662462",
+        "shared bank account BA-88961459"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0100",
+      "target": "ACC-F0101",
+      "weight": 8,
+      "reasons": [
+        "shared ip 10.211.238.167",
+        "shared ip 10.113.74.214",
+        "shared ip 172.26.63.89",
+        "shared device dev-6e0f763b",
+        "shared device dev-094fc8df",
+        "shared phone 0489964235369",
+        "shared phone 7854777252287",
+        "shared bank account BA-19046318"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0100",
+      "target": "ACC-F0102",
+      "weight": 8,
+      "reasons": [
+        "shared ip 10.211.238.167",
+        "shared ip 10.113.74.214",
+        "shared ip 172.26.63.89",
+        "shared device dev-6e0f763b",
+        "shared device dev-094fc8df",
+        "shared phone 0489964235369",
+        "shared phone 7854777252287",
+        "shared bank account BA-19046318"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0100",
+      "target": "ACC-F0103",
+      "weight": 8,
+      "reasons": [
+        "shared ip 10.211.238.167",
+        "shared ip 10.113.74.214",
+        "shared ip 172.26.63.89",
+        "shared device dev-6e0f763b",
+        "shared device dev-094fc8df",
+        "shared phone 0489964235369",
+        "shared phone 7854777252287",
+        "shared bank account BA-19046318"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0101",
+      "target": "ACC-F0102",
+      "weight": 8,
+      "reasons": [
+        "shared ip 10.211.238.167",
+        "shared ip 10.113.74.214",
+        "shared ip 172.26.63.89",
+        "shared device dev-6e0f763b",
+        "shared device dev-094fc8df",
+        "shared phone 0489964235369",
+        "shared phone 7854777252287",
+        "shared bank account BA-19046318"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0101",
+      "target": "ACC-F0103",
+      "weight": 8,
+      "reasons": [
+        "shared ip 10.211.238.167",
+        "shared ip 10.113.74.214",
+        "shared ip 172.26.63.89",
+        "shared device dev-6e0f763b",
+        "shared device dev-094fc8df",
+        "shared phone 0489964235369",
+        "shared phone 7854777252287",
+        "shared bank account BA-19046318"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0102",
+      "target": "ACC-F0103",
+      "weight": 8,
+      "reasons": [
+        "shared ip 10.211.238.167",
+        "shared ip 10.113.74.214",
+        "shared ip 172.26.63.89",
+        "shared device dev-6e0f763b",
+        "shared device dev-094fc8df",
+        "shared phone 0489964235369",
+        "shared phone 7854777252287",
+        "shared bank account BA-19046318"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0200",
+      "target": "ACC-F0201",
+      "weight": 13,
+      "reasons": [
+        "shared ip 10.49.80.13",
+        "shared ip 192.168.220.116",
+        "shared ip 172.24.202.173",
+        "shared ip 192.168.8.198",
+        "shared ip 192.168.98.68",
+        "shared device dev-5326fa15",
+        "shared device dev-397e7686",
+        "shared device dev-63ac7239",
+        "shared phone 6668700217659",
+        "shared phone 8033974014890",
+        "shared phone 5461567933410",
+        "shared bank account BA-75151231",
+        "shared bank account BA-99788677"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0200",
+      "target": "ACC-F0202",
+      "weight": 13,
+      "reasons": [
+        "shared ip 10.49.80.13",
+        "shared ip 192.168.220.116",
+        "shared ip 172.24.202.173",
+        "shared ip 192.168.8.198",
+        "shared ip 192.168.98.68",
+        "shared device dev-5326fa15",
+        "shared device dev-397e7686",
+        "shared device dev-63ac7239",
+        "shared phone 6668700217659",
+        "shared phone 8033974014890",
+        "shared phone 5461567933410",
+        "shared bank account BA-75151231",
+        "shared bank account BA-99788677"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0200",
+      "target": "ACC-F0203",
+      "weight": 13,
+      "reasons": [
+        "shared ip 10.49.80.13",
+        "shared ip 192.168.220.116",
+        "shared ip 172.24.202.173",
+        "shared ip 192.168.8.198",
+        "shared ip 192.168.98.68",
+        "shared device dev-5326fa15",
+        "shared device dev-397e7686",
+        "shared device dev-63ac7239",
+        "shared phone 6668700217659",
+        "shared phone 8033974014890",
+        "shared phone 5461567933410",
+        "shared bank account BA-75151231",
+        "shared bank account BA-99788677"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0200",
+      "target": "ACC-F0204",
+      "weight": 13,
+      "reasons": [
+        "shared ip 10.49.80.13",
+        "shared ip 192.168.220.116",
+        "shared ip 172.24.202.173",
+        "shared ip 192.168.8.198",
+        "shared ip 192.168.98.68",
+        "shared device dev-5326fa15",
+        "shared device dev-397e7686",
+        "shared device dev-63ac7239",
+        "shared phone 6668700217659",
+        "shared phone 8033974014890",
+        "shared phone 5461567933410",
+        "shared bank account BA-75151231",
+        "shared bank account BA-99788677"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0201",
+      "target": "ACC-F0202",
+      "weight": 13,
+      "reasons": [
+        "shared ip 10.49.80.13",
+        "shared ip 192.168.220.116",
+        "shared ip 172.24.202.173",
+        "shared ip 192.168.8.198",
+        "shared ip 192.168.98.68",
+        "shared device dev-5326fa15",
+        "shared device dev-397e7686",
+        "shared device dev-63ac7239",
+        "shared phone 6668700217659",
+        "shared phone 8033974014890",
+        "shared phone 5461567933410",
+        "shared bank account BA-75151231",
+        "shared bank account BA-99788677"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0201",
+      "target": "ACC-F0203",
+      "weight": 13,
+      "reasons": [
+        "shared ip 10.49.80.13",
+        "shared ip 192.168.220.116",
+        "shared ip 172.24.202.173",
+        "shared ip 192.168.8.198",
+        "shared ip 192.168.98.68",
+        "shared device dev-5326fa15",
+        "shared device dev-397e7686",
+        "shared device dev-63ac7239",
+        "shared phone 6668700217659",
+        "shared phone 8033974014890",
+        "shared phone 5461567933410",
+        "shared bank account BA-75151231",
+        "shared bank account BA-99788677"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0201",
+      "target": "ACC-F0204",
+      "weight": 13,
+      "reasons": [
+        "shared ip 10.49.80.13",
+        "shared ip 192.168.220.116",
+        "shared ip 172.24.202.173",
+        "shared ip 192.168.8.198",
+        "shared ip 192.168.98.68",
+        "shared device dev-5326fa15",
+        "shared device dev-397e7686",
+        "shared device dev-63ac7239",
+        "shared phone 6668700217659",
+        "shared phone 8033974014890",
+        "shared phone 5461567933410",
+        "shared bank account BA-75151231",
+        "shared bank account BA-99788677"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0202",
+      "target": "ACC-F0203",
+      "weight": 13,
+      "reasons": [
+        "shared ip 10.49.80.13",
+        "shared ip 192.168.220.116",
+        "shared ip 172.24.202.173",
+        "shared ip 192.168.8.198",
+        "shared ip 192.168.98.68",
+        "shared device dev-5326fa15",
+        "shared device dev-397e7686",
+        "shared device dev-63ac7239",
+        "shared phone 6668700217659",
+        "shared phone 8033974014890",
+        "shared phone 5461567933410",
+        "shared bank account BA-75151231",
+        "shared bank account BA-99788677"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0202",
+      "target": "ACC-F0204",
+      "weight": 13,
+      "reasons": [
+        "shared ip 10.49.80.13",
+        "shared ip 192.168.220.116",
+        "shared ip 172.24.202.173",
+        "shared ip 192.168.8.198",
+        "shared ip 192.168.98.68",
+        "shared device dev-5326fa15",
+        "shared device dev-397e7686",
+        "shared device dev-63ac7239",
+        "shared phone 6668700217659",
+        "shared phone 8033974014890",
+        "shared phone 5461567933410",
+        "shared bank account BA-75151231",
+        "shared bank account BA-99788677"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0203",
+      "target": "ACC-F0204",
+      "weight": 13,
+      "reasons": [
+        "shared ip 10.49.80.13",
+        "shared ip 192.168.220.116",
+        "shared ip 172.24.202.173",
+        "shared ip 192.168.8.198",
+        "shared ip 192.168.98.68",
+        "shared device dev-5326fa15",
+        "shared device dev-397e7686",
+        "shared device dev-63ac7239",
+        "shared phone 6668700217659",
+        "shared phone 8033974014890",
+        "shared phone 5461567933410",
+        "shared bank account BA-75151231",
+        "shared bank account BA-99788677"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0300",
+      "target": "ACC-F0301",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0300",
+      "target": "ACC-F0302",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0300",
+      "target": "ACC-F0303",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0300",
+      "target": "ACC-F0304",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0300",
+      "target": "ACC-F0305",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0300",
+      "target": "ACC-F0306",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0301",
+      "target": "ACC-F0302",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0301",
+      "target": "ACC-F0303",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0301",
+      "target": "ACC-F0304",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0301",
+      "target": "ACC-F0305",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0301",
+      "target": "ACC-F0306",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0302",
+      "target": "ACC-F0303",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0302",
+      "target": "ACC-F0304",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0302",
+      "target": "ACC-F0305",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0302",
+      "target": "ACC-F0306",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0303",
+      "target": "ACC-F0304",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0303",
+      "target": "ACC-F0305",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0303",
+      "target": "ACC-F0306",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0304",
+      "target": "ACC-F0305",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0304",
+      "target": "ACC-F0306",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0305",
+      "target": "ACC-F0306",
+      "weight": 8,
+      "reasons": [
+        "shared ip 172.28.41.142",
+        "shared ip 10.151.59.250",
+        "shared ip 10.192.55.247",
+        "shared device dev-60df6e8d",
+        "shared device dev-6043d0f3",
+        "shared phone 5412126788861",
+        "shared phone 1142626551104",
+        "shared bank account BA-73481353"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0400",
+      "target": "ACC-F0401",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0400",
+      "target": "ACC-F0402",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0400",
+      "target": "ACC-F0403",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0400",
+      "target": "ACC-F0404",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0400",
+      "target": "ACC-F0405",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0400",
+      "target": "ACC-F0406",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0401",
+      "target": "ACC-F0402",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0401",
+      "target": "ACC-F0403",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0401",
+      "target": "ACC-F0404",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0401",
+      "target": "ACC-F0405",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0401",
+      "target": "ACC-F0406",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0402",
+      "target": "ACC-F0403",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0402",
+      "target": "ACC-F0404",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0402",
+      "target": "ACC-F0405",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0402",
+      "target": "ACC-F0406",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0403",
+      "target": "ACC-F0404",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0403",
+      "target": "ACC-F0405",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0403",
+      "target": "ACC-F0406",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0404",
+      "target": "ACC-F0405",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0404",
+      "target": "ACC-F0406",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    },
+    {
+      "source": "ACC-F0405",
+      "target": "ACC-F0406",
+      "weight": 13,
+      "reasons": [
+        "shared ip 192.168.92.31",
+        "shared ip 172.28.146.236",
+        "shared ip 172.22.100.195",
+        "shared ip 192.168.13.199",
+        "shared ip 192.168.107.87",
+        "shared device dev-f45c642f",
+        "shared device dev-2c119432",
+        "shared device dev-2948e254",
+        "shared phone 2909656101438",
+        "shared phone 9688680589113",
+        "shared phone 4167243426617",
+        "shared bank account BA-17270733",
+        "shared bank account BA-72682989"
+      ],
+      "attribute_types": [
+        "bank_account",
+        "device",
+        "ip",
+        "phone"
+      ]
+    }
+  ],
+  "rings": [
+    {
+      "ring_id": "RING-01",
+      "size": 6,
+      "tightness": "tight",
+      "account_ids": [
+        "ACC-F0000",
+        "ACC-F0001",
+        "ACC-F0002",
+        "ACC-F0003",
+        "ACC-F0004",
+        "ACC-F0005"
+      ],
+      "shared_ips": [
+        "192.168.89.171",
+        "172.17.243.93",
+        "10.113.44.131"
+      ],
+      "shared_devices": [
+        "dev-4bb7062c",
+        "dev-8cd26c52"
+      ],
+      "shared_phones": [
+        "3342708668826",
+        "8705685662462"
+      ],
+      "shared_banks": [
+        "BA-88961459"
+      ]
+    },
+    {
+      "ring_id": "RING-02",
+      "size": 4,
+      "tightness": "tight",
+      "account_ids": [
+        "ACC-F0100",
+        "ACC-F0101",
+        "ACC-F0102",
+        "ACC-F0103"
+      ],
+      "shared_ips": [
+        "10.211.238.167",
+        "10.113.74.214",
+        "172.26.63.89"
+      ],
+      "shared_devices": [
+        "dev-6e0f763b",
+        "dev-094fc8df"
+      ],
+      "shared_phones": [
+        "0489964235369",
+        "7854777252287"
+      ],
+      "shared_banks": [
+        "BA-19046318"
+      ]
+    },
+    {
+      "ring_id": "RING-03",
+      "size": 5,
+      "tightness": "medium",
+      "account_ids": [
+        "ACC-F0200",
+        "ACC-F0201",
+        "ACC-F0202",
+        "ACC-F0203",
+        "ACC-F0204"
+      ],
+      "shared_ips": [
+        "10.49.80.13",
+        "192.168.220.116",
+        "172.24.202.173",
+        "192.168.8.198",
+        "192.168.98.68"
+      ],
+      "shared_devices": [
+        "dev-5326fa15",
+        "dev-397e7686",
+        "dev-63ac7239"
+      ],
+      "shared_phones": [
+        "6668700217659",
+        "8033974014890",
+        "5461567933410"
+      ],
+      "shared_banks": [
+        "BA-75151231",
+        "BA-99788677"
+      ]
+    },
+    {
+      "ring_id": "RING-04",
+      "size": 7,
+      "tightness": "tight",
+      "account_ids": [
+        "ACC-F0300",
+        "ACC-F0301",
+        "ACC-F0302",
+        "ACC-F0303",
+        "ACC-F0304",
+        "ACC-F0305",
+        "ACC-F0306"
+      ],
+      "shared_ips": [
+        "172.28.41.142",
+        "10.151.59.250",
+        "10.192.55.247"
+      ],
+      "shared_devices": [
+        "dev-60df6e8d",
+        "dev-6043d0f3"
+      ],
+      "shared_phones": [
+        "5412126788861",
+        "1142626551104"
+      ],
+      "shared_banks": [
+        "BA-73481353"
+      ]
+    },
+    {
+      "ring_id": "RING-05",
+      "size": 7,
+      "tightness": "medium",
+      "account_ids": [
+        "ACC-F0400",
+        "ACC-F0401",
+        "ACC-F0402",
+        "ACC-F0403",
+        "ACC-F0404",
+        "ACC-F0405",
+        "ACC-F0406"
+      ],
+      "shared_ips": [
+        "192.168.92.31",
+        "172.28.146.236",
+        "172.22.100.195",
+        "192.168.13.199",
+        "192.168.107.87"
+      ],
+      "shared_devices": [
+        "dev-f45c642f",
+        "dev-2c119432",
+        "dev-2948e254"
+      ],
+      "shared_phones": [
+        "2909656101438",
+        "9688680589113",
+        "4167243426617"
+      ],
+      "shared_banks": [
+        "BA-17270733",
+        "BA-72682989"
+      ]
+    }
+  ],
+  "scoring": {
+    "method": "rule_based",
+    "weights": {
+      "degree": 0.2,
+      "weighted_degree": 0.4,
+      "shared_ip": 0.15,
+      "shared_device": 0.1,
+      "shared_phone": 0.08,
+      "shared_bank": 0.07
+    }
+  },
+  "stats": {
+    "n_nodes": 109,
+    "n_edges": 73,
+    "n_rings": 5,
+    "n_fraud_accounts": 29
+  }
+}

@@ -1,0 +1,44 @@
+# Render Static Site config for the Fraud Network Mapper frontend.
+# Render auto-detects this when you connect the repo. There's no build
+# step (the HTML is fully self-contained with d3 inlined), so buildCommand
+# is empty and staticPublishPath is the folder itself.
+#
+# Setup on Render dashboard:
+#   1. New -> Static Site -> Connect this repo
+#   2. Root directory: frontend
+#   3. Build command:  (leave blank)
+#   4. Publish directory: .
+# Render will then read this file and apply the headers below.
+
+services:
+  - type: static_site
+    name: fraud-network-mapper-frontend
+    root_dir: frontend
+    build_command: ""
+    staticPublishPath: .
+    # Cache the HTML for 1h — it's 335 KB and re-downloading on every page
+    # view is wasteful. For a demo, the user is unlikely to refresh within
+    # 1h. (For an app with frequent updates, drop to no-cache.)
+    headers:
+      - path: /*
+        name: Cache-Control
+        value: public, max-age=3600
+      # CORS isn't needed here because the HTML uses fetch() to talk to the
+      # backend (which has its own CORS middleware). But we set a permissive
+      # header just in case someone embeds the page via <iframe>.
+      - path: /*
+        name: X-Frame-Options
+        value: SAMEORIGIN
+      # Security headers — minimal but sane defaults.
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /*
+        name: Referrer-Policy
+        value: strict-origin-when-cross-origin
+    # Friendly URLs / SPA fallback aren't needed for a single-HTML app,
+    # but adding the file makes future migration to a multi-page app easy.
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /fraud-network-mapper.html

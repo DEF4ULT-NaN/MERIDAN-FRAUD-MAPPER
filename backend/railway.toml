@@ -1,0 +1,41 @@
+# Railway deploy config for the Fraud Network Mapper backend.
+# Read by `railway up` or auto-detected when you connect this repo to a
+# Railway project. The Dockerfile lives at backend/Dockerfile; the build
+# context MUST be the repo root (Dockerfile references ../models etc).
+
+[build]
+builder = "DOCKERFILE"
+dockerfilePath = "backend/Dockerfile"
+buildContext = "."
+
+[deploy]
+# Start command. Railway injects $PORT — uvicorn picks it up via the
+# CMD in the Dockerfile, but we duplicate it here for clarity in the
+# Railway dashboard.
+startCommand = "uvicorn backend.main:app --host 0.0.0.0 --port $PORT"
+
+# Healthcheck. /health returns 200 + {status:"ok", model_loaded:true,...}
+# so Railway knows the container is alive. startPeriod gives the GNN model
+# ~60s to load (first boot is slow because of the CPU PyTorch wheel).
+healthcheckPath = "/health"
+healthcheckTimeout = 60
+healthcheckStartPeriod = 90
+
+# Restart policy — if uvicorn crashes (bad request, OOM, etc), restart
+# up to 3 times before Railway marks the deploy as failed.
+restartPolicyType = "ON_FAILURE"
+restartPolicyMaxRetries = 3
+
+# Free-tier friendly — Railway's $5/mo credit lasts longer with this.
+[numReplicas]
+min = 1
+max = 1
+
+# Watch paths — changes to these trigger a redeploy. Adding data/samples/
+# means you can ship a new sample dataset without touching code.
+watchPatterns = [
+  "backend/**/*.py",
+  "models/**",
+  "data/samples/**",
+  "scripts/**",
+]
