@@ -493,7 +493,7 @@ const $$ = (sel) => document.querySelectorAll(sel);
    --------------------------------------------------------------------- */
 const _params = new URLSearchParams(location.search);
 const _isLocal = location.protocol === 'file:' || location.hostname === 'localhost' || location.hostname === '127.0.0.1';
-const PRODUCTION_DEFAULT = 'https://fraud-mapper-api.up.railway.app';
+const PRODUCTION_DEFAULT = 'https://meridan-fraud-mapper-production.up.railway.app';
 const API_BASE = _params.get('api')
   || (typeof window.__API_BASE__ === 'string' ? window.__API_BASE__ : null)
   || (_isLocal ? 'http://127.0.0.1:8000' : PRODUCTION_DEFAULT);
