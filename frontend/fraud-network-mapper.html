@@ -966,7 +966,35 @@ function runProcessingSequence(){
       i++;
       setTimeout(step, 430 + Math.random()*300);
     } else {
-      setTimeout(() => {
+      // Animation finished — but DON'T transition to graph screen yet if
+      // the backend fetch (started by btn-sample before the animation)
+      // hasn't returned yet. Railway free-tier cold starts can take
+      // 30-60s, while this animation only takes ~2.5s. If we transitioned
+      // early, renderDashboard would receive a mock graph (no `scoring`
+      // field) and the dashboard would show "RULE" instead of "GNN".
+      //
+      // Instead, poll until pendingPayload is ready, then transition. The
+      // animation UI stays visible (graph screen hidden) so the user
+      // never sees a "stuck" or empty page during a backend wake-up.
+      const waitForPayload = () => {
+        if (pendingPayload && pendingPayload.nodes && pendingPayload.edges) {
+          finalizeGraphScreen();
+          return;
+        }
+        // Max-wait: 90s covers Railway's worst-case cold start (free tier
+        // sleeps after 15 min idle, takes 30-60s to wake on first request).
+        // After that, fall back to the mock graph so the demo never
+        // appears permanently stuck.
+        if (Date.now() - waitStart > 90000) {
+          console.warn('[wire] backend slow (>90s) — falling back to mock');
+          toast('Backend slow — using local demo data.');
+          finalizeGraphScreen();
+          return;
+        }
+        setTimeout(waitForPayload, 200);
+      };
+      const waitStart = Date.now();
+      const finalizeGraphScreen = () => {
         // Show the graph screen FIRST so .graph-wrap has real layout
         // dimensions before the force simulation reads clientWidth/Height —
         // building the graph while the screen is still display:none would
@@ -994,7 +1022,8 @@ function runProcessingSequence(){
           // button is never silently broken.
           buildAndRenderGraph();
         }
-      }, 350);
+      };
+      waitForPayload();
     }
   }
   step();
